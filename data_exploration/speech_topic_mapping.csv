@@ -1,0 +1,2001 @@
+speech_id,topics
+1130000001,None
+1130000002,"federalism, justice"
+1130000003,None
+1130000004,foreign
+1130000005,justice
+1130000006,"elections, federalism, justice, minorities"
+1130000007,"federalism, justice"
+1130000008,"federalism, justice"
+1130000009,"budget, federalism, justice, labor"
+1130000010,"foreign, health, immigration"
+1130000011,None
+1130000012,"foreign, health, immigration, justice, minorities"
+1130000013,None
+1130000014,None
+1130000015,None
+1130000016,None
+1130000017,None
+1130000018,None
+1130000019,None
+1130000020,elections
+1130000021,None
+1130000022,None
+1130000023,justice
+1130000024,None
+1130000025,None
+1130000026,"foreign, health, immigration"
+1130000027,None
+1130000028,None
+1130000029,None
+1130000030,None
+1130000031,None
+1130000032,None
+1130000033,None
+1130000034,None
+1130000035,justice
+1130000036,None
+1130000037,justice
+1130000038,None
+1130000039,None
+1130000040,None
+1130000041,None
+1130000042,None
+1130000043,None
+1130000044,None
+1130000045,None
+1130000046,"budget, economy, labor, minorities"
+1130000047,"budget, elections, government, health, justice, minorities"
+1130000048,"budget, elections, health, justice, labor, minorities, money"
+1130000049,None
+1130000050,budget
+1130000051,None
+1130000052,None
+1130000053,"alcohol, elections, health, tax"
+1130000054,"business, minorities"
+1130000055,None
+1130000056,"elections, justice, minorities"
+1130000057,None
+1130000058,None
+1130000059,"elections, federalism, justice, labor, minorities"
+1130000060,justice
+1130000061,None
+1130000062,None
+1130000063,None
+1130000064,elections
+1130000065,None
+1130000066,"business, elections"
+1130000067,"budget, elections, labor"
+1130000068,None
+1130000069,"budget, economy, elections, government, health, justice, minorities, tax"
+1130000070,None
+1130000071,None
+1130000072,"education, elections, federalism, health"
+1130000073,elections
+1130000074,None
+1130000075,elections
+1130000076,None
+1130000077,elections
+1130000078,foreign
+1130000079,None
+1130000080,elections
+1130000081,None
+1130000082,None
+1130000083,"elections, federalism, justice"
+1130000084,None
+1130000085,None
+1130000086,"elections, justice, minorities"
+1130000087,None
+1130000088,None
+1130000089,"elections, government, justice, minorities"
+1130000090,None
+1130000091,None
+1130000092,"federalism, money"
+1130000093,None
+1130000094,"elections, justice"
+1130000095,None
+1130000096,elections
+1130000097,None
+1130000098,None
+1130000099,"elections, federalism, labor"
+1130000100,"elections, minorities, foreign"
+1130000101,"defense, elections, foreign, justice"
+1130000102,None
+1130000103,None
+1130000104,None
+1130000105,elections
+1130000106,elections
+1130000107,None
+1130000108,justice
+1130000109,None
+1130000110,None
+1130000111,None
+1130000112,None
+1130000113,None
+1130000114,elections
+1130000115,elections
+1130000116,None
+1130000117,None
+1130000118,None
+1130000119,None
+1130000120,None
+1130000121,None
+1130000122,None
+1130000123,None
+1130000124,None
+1130000125,None
+1130000126,None
+1130000127,None
+1130000128,None
+1130000129,None
+1130000130,None
+1130000131,None
+1130000132,None
+1130000133,None
+1130000134,None
+1130000135,None
+1130000136,religion
+1130000137,None
+1130000138,None
+1130000139,None
+1130000140,None
+1130000141,None
+1130000142,None
+1130000143,None
+1130000144,None
+1130000145,None
+1130000146,None
+1130000147,None
+1130000148,"government, trade"
+1130000149,"foreign, immigration, justice, labor"
+1130000150,justice
+1130000151,None
+1130000152,None
+1130000153,None
+1130000154,None
+1130000155,"alcohol, religion"
+1130000156,None
+1130000157,None
+1130000158,justice
+1130000159,None
+1130000160,None
+1130000161,justice
+1130000162,None
+1130000163,None
+1130000164,justice
+1130000165,None
+1130000166,justice
+1130000167,None
+1130000168,justice
+1130000169,None
+1130000170,justice
+1130000171,None
+1130000172,justice
+1130000173,None
+1130000174,None
+1130000175,justice
+1130000176,None
+1130000177,justice
+1130000178,None
+1130000179,None
+1130000180,"justice, money"
+1130000181,justice
+1130000182,None
+1130000183,None
+1130000184,elections
+1130000185,None
+1130000186,justice
+1130000187,None
+1130000188,None
+1130000189,None
+1130000190,None
+1130000191,None
+1130000192,None
+1130000193,elections
+1130000194,None
+1130000195,None
+1130000196,None
+1130000197,justice
+1130000198,None
+1130000199,elections
+1130000200,None
+1130000201,None
+1130000202,justice
+1130000203,None
+1130000204,elections
+1130000205,None
+1130000206,None
+1130000207,None
+1130000208,justice
+1130000209,None
+1130000210,elections
+1130000211,None
+1130000212,None
+1130000213,justice
+1130000214,None
+1130000215,elections
+1130000216,None
+1130000217,None
+1130000218,"elections, justice, religion"
+1130000219,None
+1130000220,None
+1130000221,None
+1130000222,justice
+1130000223,None
+1130000224,elections
+1130000225,None
+1130000226,None
+1130000227,"budget, business, elections, federalism, foreign, justice, minorities, tax, mail"
+1130000228,None
+1130000229,"alcohol, budget, elections, health, justice, tax"
+1130000230,None
+1130000231,None
+1130000232,None
+1130000233,justice
+1130000234,None
+1130000235,None
+1130000236,None
+1130000237,None
+1130000238,None
+1130000239,"justice, minorities"
+1130000240,None
+1130000241,"elections, government, justice, labor, minorities"
+1130000242,None
+1130000243,justice
+1130000244,None
+1130000245,"justice, minorities"
+1130000246,None
+1130000247,None
+1130000248,None
+1130000249,None
+1130000250,justice
+1130000251,None
+1130000252,"justice, minorities"
+1130000253,None
+1130000254,None
+1130000255,None
+1130000256,justice
+1130000257,None
+1130000258,None
+1130000259,None
+1130000260,None
+1130000261,None
+1130000262,"business, federalism, justice"
+1130000263,None
+1130000264,justice
+1130000265,None
+1130000266,None
+1130000267,None
+1130000268,None
+1130000269,None
+1130000270,"elections, religion"
+1130000271,None
+1130000272,None
+1130000273,None
+1130000274,None
+1130000275,"defense, justice, labor, minorities, money"
+1130000276,"education, federalism"
+1130000277,"federalism, health, justice, minorities, money, religion"
+1130000278,"education, federalism"
+1130000279,"budget, defense, elections, federalism, justice, minorities, money, tax"
+1130000280,"government, health, justice, labor, minorities, money"
+1130000281,"federalism, health"
+1130000282,budget
+1130000283,"government, health, trade"
+1130000284,minorities
+1130000285,"budget, defense, elections, federalism, money"
+1130000286,None
+1130000287,"federalism, trade, defense"
+1130000288,"business, government, immigration, trade, defense"
+1130000289,"budget, elections, foreign, labor, tax"
+1130000290,"education, federalism"
+1130000291,"defense, federalism, justice, minorities"
+1130000292,"elections, minorities"
+1130000293,None
+1130000294,elections
+1130000295,None
+1130000296,elections
+1130000297,None
+1130000298,None
+1130000299,None
+1130000300,None
+1130000301,None
+1130000302,None
+1130000303,federalism
+1130000304,money
+1130000305,foreign
+1130000306,foreign
+1130000307,None
+1130000308,"budget, justice, labor, minorities"
+1130000309,None
+1130000310,None
+1130000311,None
+1130000312,None
+1130000313,"elections, justice, minorities"
+1130000314,None
+1130000315,"elections, minorities"
+1130000316,None
+1130000317,None
+1130000318,None
+1130000319,None
+1130000320,None
+1130000321,justice
+1130000322,None
+1130000323,"justice, minorities"
+1130000324,defense
+1130000325,"elections, foreign, labor"
+1130000326,None
+1130000327,None
+1130000328,"elections, foreign, labor"
+1130000329,None
+1130000330,None
+1130000331,defense
+1130000332,"elections, labor"
+1130000333,federalism
+1130000334,"defense, federalism, labor"
+1130000335,None
+1130000336,"elections, foreign, tax"
+1130000337,None
+1130000338,"business, labor"
+1130000339,None
+1130000340,None
+1130000341,None
+1130000342,"federalism, foreign, immigration"
+1130000343,"federalism, foreign"
+1130000344,"foreign, justice, minorities"
+1130000345,"elections, federalism"
+1130000346,None
+1130000347,None
+1130000348,None
+1130000349,elections
+1130000350,federalism
+1130000351,"elections, minorities"
+1130000352,None
+1130000353,None
+1130000354,federalism
+1130000355,"justice, minorities"
+1130000356,None
+1130000357,None
+1130000358,minorities
+1130000359,None
+1130000360,"environment, federalism"
+1130000361,None
+1130000362,"elections, foreign"
+1130000363,None
+1130000364,None
+1130000365,federalism
+1130000366,None
+1130000367,None
+1130000368,None
+1130000369,None
+1130000370,None
+1130000371,None
+1130000372,None
+1130000373,"elections, federalism, justice, labor, minorities, money, government"
+1130000374,None
+1130000375,None
+1130000376,None
+1130000377,None
+1130000378,None
+1130000379,"justice, minorities"
+1130000380,"defense, federalism"
+1130000381,"justice, minorities"
+1130000382,None
+1130000383,money
+1130000384,"elections, federalism, labor"
+1130000385,None
+1130000386,"elections, foreign, labor"
+1130000387,"foreign, labor"
+1130000388,"federalism, foreign, money"
+1130000389,foreign
+1130000390,None
+1130000391,None
+1130000392,None
+1130000393,elections
+1130000394,None
+1130000395,None
+1130000396,None
+1130000397,None
+1130000398,None
+1130000399,None
+1130000400,None
+1130000401,None
+1130000402,federalism
+1130000403,federalism
+1130000404,None
+1130000405,"elections, federalism"
+1130000406,elections
+1130000407,None
+1130000408,None
+1130000409,None
+1130000410,justice
+1130000411,None
+1130000412,None
+1130000413,None
+1130000414,"budget, business, elections, federalism, labor"
+1130000415,justice
+1130000416,None
+1130000417,None
+1130000418,"elections, federalism, health, labor"
+1130000419,None
+1130000420,None
+1130000421,"business, federalism, foreign, government, immigration, justice, labor, tax"
+1130000422,"budget, elections, government, justice, minorities, tax"
+1130000423,"budget, defense, education, foreign, labor, minorities"
+1130000424,"business, education, federalism, justice, labor, minorities"
+1130000425,"budget, business, defense, elections, environment, justice, labor, minorities, money"
+1130000426,"alcohol, budget, defense, federalism, money"
+1130000427,None
+1130000428,justice
+1130000429,elections
+1130000430,None
+1130000431,None
+1130000432,None
+1130000433,None
+1130000434,None
+1130000435,None
+1130000436,religion
+1130000437,None
+1130000438,None
+1130000439,defense
+1130000440,"education, federalism"
+1130000441,"elections, minorities"
+1130000442,"crime, health, money, tax"
+1130000443,None
+1130000444,"federalism, health, justice"
+1130000445,elections
+1130000446,"business, crime, government, justice, minorities, mail"
+1130000447,"defense, economy, education, foreign, health"
+1130000448,"alcohol, defense, federalism"
+1130000449,"defense, education, foreign"
+1130000450,None
+1130000451,"education, federalism, immigration, labor"
+1130000452,"budget, defense, economy, labor"
+1130000453,"elections, foreign, minorities"
+1130000454,None
+1130000455,"federalism, minorities, government"
+1130000456,"alcohol, federalism, labor"
+1130000457,"business, defense, labor"
+1130000458,"budget, business, elections, health, labor, tax"
+1130000459,None
+1130000460,elections
+1130000461,None
+1130000462,None
+1130000463,None
+1130000464,None
+1130000465,"budget, economy, immigration, labor, money, defense"
+1130000466,None
+1130000467,"health, labor, tax"
+1130000468,health
+1130000469,None
+1130000470,None
+1130000471,None
+1130000472,None
+1130000473,None
+1130000474,None
+1130000475,None
+1130000476,None
+1130000477,None
+1130000478,None
+1130000479,None
+1130000480,None
+1130000481,None
+1130000482,"federalism, minorities"
+1130000483,federalism
+1130000484,None
+1130000485,None
+1130000486,None
+1130000487,None
+1130000488,"federalism, foreign"
+1130000489,None
+1130000490,"elections, labor"
+1130000491,None
+1130000492,"defense, minorities"
+1130000493,None
+1130000494,None
+1130000495,"budget, elections, federalism, foreign, labor, minorities, money"
+1130000496,"budget, federalism"
+1130000497,labor
+1130000498,"elections, federalism"
+1130000499,"federalism, minorities"
+1130000500,None
+1130000501,None
+1130000502,None
+1130000503,None
+1130000504,None
+1130000505,None
+1130000506,None
+1130000507,None
+1130000508,elections
+1130000509,elections
+1130000510,None
+1130000511,elections
+1130000512,elections
+1130000513,elections
+1130000514,"foreign, health, immigration, justice, minorities"
+1130000515,None
+1130000516,None
+1130000517,None
+1130000518,None
+1130000519,elections
+1130000520,None
+1130000521,crime
+1130000522,business
+1130000523,"justice, minorities"
+1130000524,tax
+1130000525,"crime, justice, minorities"
+1130000526,federalism
+1130000527,None
+1130000528,None
+1130000529,None
+1130000530,"crime, health"
+1130000531,"business, crime, education, elections, foreign, health, minorities, religion"
+1130000532,None
+1130000533,"crime, defense, education, health, labor, minorities"
+1130000534,None
+1130000535,"health, justice, minorities"
+1130000536,None
+1130000537,"crime, federalism, health, minorities"
+1130000538,None
+1130000539,"health, justice, minorities"
+1130000540,None
+1130000541,"crime, education, federalism, health, justice, minorities"
+1130000542,"education, federalism, government, health, justice, minorities, crime, defense"
+1130000543,"crime, education, health"
+1130000544,None
+1130000545,None
+1130000546,None
+1130000547,None
+1130000548,None
+1130000549,None
+1130000550,None
+1130000551,"alcohol, federalism, religion"
+1130000552,None
+1130000553,"education, federalism"
+1130000554,"business, education, environment, labor, minorities"
+1130000555,"defense, federalism"
+1130000556,labor
+1130000557,"budget, education, federalism, foreign, immigration"
+1130000558,"alcohol, federalism, labor"
+1130000559,economy
+1130000560,"defense, justice, labor"
+1130000561,"budget, business, government, health, justice, labor, minorities, tax"
+1130000562,budget
+1130000563,"business, defense, education, federalism, health, labor, minorities"
+1130000564,"federalism, religion"
+1130000565,"defense, labor"
+1130000566,None
+1130000567,"education, federalism, money"
+1130000568,"federalism, government"
+1130000569,"business, crime, defense, education"
+1130000570,"alcohol, federalism, justice, labor, minorities"
+1130000571,"defense, education"
+1130000572,"environment, federalism, justice, labor, minorities"
+1130000573,"crime, defense, labor, minorities"
+1130000574,"budget, crime, defense, education, elections, federalism, health, justice, government"
+1130000575,None
+1130000576,None
+1130000577,None
+1130000578,None
+1130000579,"federalism, labor"
+1130000580,None
+1130000581,None
+1130000582,federalism
+1130000583,"federalism, immigration"
+1130000584,None
+1130000585,federalism
+1130000586,None
+1130000587,federalism
+1130000588,None
+1130000589,"elections, federalism"
+1130000590,None
+1130000591,None
+1130000592,None
+1130000593,"federalism, immigration"
+1130000594,None
+1130000595,elections
+1130000596,None
+1130000597,None
+1130000598,None
+1130000599,"business, justice"
+1130000600,None
+1130000601,federalism
+1130000602,None
+1130000603,None
+1130000604,None
+1130000605,None
+1130000606,None
+1130000607,None
+1130000608,None
+1130000609,None
+1130000610,None
+1130000611,None
+1130000612,None
+1130000613,None
+1130000614,None
+1130000615,None
+1130000616,None
+1130000617,None
+1130000618,None
+1130000619,None
+1130000620,None
+1130000621,None
+1130000622,None
+1130000623,elections
+1130000624,None
+1130000625,labor
+1130000626,None
+1130000627,"business, foreign, immigration, minorities"
+1130000628,None
+1130000629,"foreign, immigration, justice, minorities, money"
+1130000630,None
+1130000631,"defense, justice"
+1130000632,None
+1130000633,"defense, federalism, labor"
+1130000634,None
+1130000635,federalism
+1130000636,None
+1130000637,tax
+1130000638,None
+1130000639,"federalism, labor, tax"
+1130000640,None
+1130000641,"business, federalism, foreign"
+1130000642,None
+1130000643,"business, federalism, money"
+1130000644,None
+1130000645,"defense, federalism, foreign, immigration"
+1130000646,None
+1130000647,"business, federalism, minorities"
+1130000648,None
+1130000649,immigration
+1130000650,None
+1130000651,None
+1130000652,None
+1130000653,justice
+1130000654,None
+1130000655,"federalism, labor"
+1130000656,None
+1130000657,justice
+1130000658,None
+1130000659,"federalism, foreign, immigration, justice"
+1130000660,None
+1130000661,"defense, federalism, foreign, justice"
+1130000662,None
+1130000663,"business, crime, federalism"
+1130000664,None
+1130000665,labor
+1130000666,None
+1130000667,"federalism, minorities"
+1130000668,None
+1130000669,federalism
+1130000670,None
+1130000671,None
+1130000672,None
+1130000673,None
+1130000674,None
+1130000675,"business, defense, federalism, justice, minorities"
+1130000676,None
+1130000677,"crime, defense, justice, minorities"
+1130000678,None
+1130000679,"crime, federalism, justice, minorities"
+1130000680,None
+1130000681,"justice, minorities"
+1130000682,None
+1130000683,None
+1130000684,None
+1130000685,"elections, federalism, foreign"
+1130000686,None
+1130000687,"elections, federalism"
+1130000688,None
+1130000689,None
+1130000690,None
+1130000691,crime
+1130000692,None
+1130000693,"federalism, minorities"
+1130000694,None
+1130000695,"crime, elections, federalism, justice, minorities"
+1130000696,None
+1130000697,"budget, elections, federalism, foreign, money"
+1130000698,None
+1130000699,"elections, federalism, foreign, justice, labor, minorities"
+1130000700,None
+1130000701,"elections, federalism"
+1130000702,None
+1130000703,"elections, federalism, justice, minorities"
+1130000704,None
+1130000705,None
+1130000706,None
+1130000707,None
+1130000708,None
+1130000709,"justice, minorities"
+1130000710,None
+1130000711,federalism
+1130000712,None
+1130000713,None
+1130000714,None
+1130000715,"federalism, minorities"
+1130000716,None
+1130000717,"elections, federalism, justice, labor, minorities, tax"
+1130000718,None
+1130000719,None
+1130000720,None
+1130000721,"elections, federalism, justice, minorities"
+1130000722,None
+1130000723,None
+1130000724,None
+1130000725,None
+1130000726,"education, federalism"
+1130000727,"budget, defense, health, labor"
+1130000728,government
+1130000729,federalism
+1130000730,"business, labor"
+1130000731,"labor, minorities"
+1130000732,"federalism, minorities"
+1130000733,None
+1130000734,"budget, labor, tax"
+1130000735,"economy, labor"
+1130000736,None
+1130000737,budget
+1130000738,health
+1130000739,"crime, federalism, justice, labor, minorities"
+1130000740,"federalism, government"
+1130000741,minorities
+1130000742,"business, federalism"
+1130000743,"defense, education, elections"
+1130000744,None
+1130000745,"health, minorities"
+1130000746,None
+1130000747,None
+1130000748,None
+1130000749,None
+1130000750,None
+1130000751,None
+1130000752,None
+1130000753,"budget, business, elections, federalism, justice, labor, religion"
+1130000754,foreign
+1130000755,defense
+1130000756,"defense, elections"
+1130000757,None
+1130000758,None
+1130000759,"elections, foreign, justice, labor, minorities"
+1130000760,None
+1130000761,foreign
+1130000762,None
+1130000763,"budget, government, health, justice, minorities"
+1130000764,None
+1130000765,"business, justice, minorities"
+1130000766,None
+1130000767,"defense, federalism, labor, money"
+1130000768,None
+1130000769,None
+1130000770,None
+1130000771,None
+1130000772,"defense, elections, money"
+1130000773,None
+1130000774,None
+1130000775,None
+1130000776,None
+1130000777,foreign
+1130000778,None
+1130000779,"elections, labor"
+1130000780,None
+1130000781,None
+1130000782,None
+1130000783,None
+1130000784,None
+1130000785,None
+1130000786,"business, elections, federalism, foreign, labor"
+1130000787,None
+1130000788,None
+1130000789,"elections, federalism, minorities"
+1130000790,None
+1130000791,None
+1130000792,None
+1130000793,"business, elections, foreign, labor, trade"
+1130000794,None
+1130000795,None
+1130000796,None
+1130000797,None
+1130000798,"health, justice, minorities"
+1130000799,None
+1130000800,"justice, minorities"
+1130000801,None
+1130000802,"elections, labor"
+1130000803,None
+1130000804,None
+1130000805,"elections, labor"
+1130000806,foreign
+1130000807,None
+1130000808,"justice, minorities"
+1130000809,None
+1130000810,None
+1130000811,"business, elections"
+1130000812,None
+1130000813,None
+1130000814,None
+1130000815,"federalism, foreign"
+1130000816,None
+1130000817,None
+1130000818,foreign
+1130000819,None
+1130000820,None
+1130000821,elections
+1130000822,elections
+1130000823,None
+1130000824,None
+1130000825,elections
+1130000826,elections
+1130000827,None
+1130000828,elections
+1130000829,None
+1130000830,None
+1130000831,elections
+1130000832,elections
+1130000833,elections
+1130000834,None
+1130000835,None
+1130000836,None
+1130000837,None
+1130000838,"business, foreign"
+1130000839,None
+1130000840,"foreign, health"
+1130000841,foreign
+1130000842,"business, minorities"
+1130000843,None
+1130000844,"foreign, justice"
+1130000845,None
+1130000846,None
+1130000847,None
+1130000848,None
+1130000849,None
+1130000850,None
+1130000851,None
+1130000852,defense
+1130000853,"defense, elections, money"
+1130000854,None
+1130000855,None
+1130000856,"elections, justice"
+1130000857,None
+1130000858,health
+1130000859,None
+1130000860,labor
+1130000861,None
+1130000862,None
+1130000863,foreign
+1130000864,None
+1130000865,None
+1130000866,None
+1130000867,"elections, foreign, health"
+1130000868,None
+1130000869,None
+1130000870,None
+1130000871,"education, health"
+1130000872,None
+1130000873,None
+1130000874,None
+1130000875,None
+1130000876,None
+1130000877,None
+1130000878,None
+1130000879,education
+1130000880,None
+1130000881,None
+1130000882,"budget, elections, federalism, labor"
+1130000883,None
+1130000884,None
+1130000885,None
+1130000886,"federalism, justice"
+1130000887,None
+1130000888,None
+1130000889,None
+1130000890,environment
+1130000891,None
+1130000892,None
+1130000893,None
+1130000894,None
+1130000895,None
+1130000896,"elections, federalism, justice, minorities"
+1130000897,None
+1130000898,None
+1130000899,"justice, minorities"
+1130000900,None
+1130000901,None
+1130000902,"economy, health, tax"
+1130000903,None
+1130000904,None
+1130000905,"elections, justice, minorities"
+1130000906,None
+1130000907,None
+1130000908,"business, elections, justice, labor, religion"
+1130000909,None
+1130000910,None
+1130000911,"elections, federalism, foreign, health, justice"
+1130000912,None
+1130000913,None
+1130000914,"federalism, foreign, justice, minorities"
+1130000915,None
+1130000916,"budget, elections, money"
+1130000917,None
+1130000918,labor
+1130000919,"budget, federalism, labor, money"
+1130000920,"budget, labor"
+1130000921,"elections, foreign, money"
+1130000922,None
+1130000923,elections
+1130000924,None
+1130000925,None
+1130000926,"budget, justice, minorities"
+1130000927,None
+1130000928,"budget, business, elections, labor"
+1130000929,"budget, labor"
+1130000930,None
+1130000931,"budget, federalism, justice, labor"
+1130000932,None
+1130000933,None
+1130000934,None
+1130000935,"budget, defense, foreign, health, immigration"
+1130000936,None
+1130000937,budget
+1130000938,"foreign, health, labor, minorities"
+1130000939,None
+1130000940,None
+1130000941,None
+1130000942,None
+1130000943,None
+1130000944,elections
+1130000945,elections
+1130000946,elections
+1130000947,elections
+1130000948,elections
+1130000949,justice
+1130000950,foreign
+1130000951,"federalism, labor"
+1130000952,None
+1130000953,"federalism, foreign, tax"
+1130000954,None
+1130000955,"labor, money"
+1130000956,None
+1130000957,None
+1130000958,None
+1130000959,justice
+1130000960,None
+1130000961,None
+1130000962,"elections, federalism, justice"
+1130000963,federalism
+1130000964,None
+1130000965,None
+1130000966,federalism
+1130000967,None
+1130000968,"federalism, justice, minorities"
+1130000969,None
+1130000970,minorities
+1130000971,None
+1130000972,None
+1130000973,foreign
+1130000974,None
+1130000975,government
+1130000976,None
+1130000977,None
+1130000978,None
+1130000979,None
+1130000980,government
+1130000981,"justice, labor, money"
+1130000982,"elections, foreign"
+1130000983,None
+1130000984,None
+1130000985,federalism
+1130000986,"budget, federalism"
+1130000987,None
+1130000988,labor
+1130000989,None
+1130000990,None
+1130000991,federalism
+1130000992,elections
+1130000993,None
+1130000994,"justice, labor"
+1130000995,"environment, federalism"
+1130000996,None
+1130000997,None
+1130000998,None
+1130000999,None
+1130001000,None
+1130001001,"justice, money"
+1130001002,"foreign, labor"
+1130001003,None
+1130001004,None
+1130001005,None
+1130001006,None
+1130001007,None
+1130001008,"labor, money"
+1130001009,None
+1130001010,None
+1130001011,budget
+1130001012,elections
+1130001013,"justice, labor"
+1130001014,"budget, business, foreign, labor"
+1130001015,None
+1130001016,"federalism, labor"
+1130001017,None
+1130001018,None
+1130001019,None
+1130001020,None
+1130001021,"elections, money"
+1130001022,elections
+1130001023,justice
+1130001024,"federalism, government"
+1130001025,None
+1130001026,None
+1130001027,None
+1130001028,None
+1130001029,None
+1130001030,None
+1130001031,None
+1130001032,"justice, money"
+1130001033,health
+1130001034,None
+1130001035,None
+1130001036,None
+1130001037,None
+1130001038,"justice, labor"
+1130001039,None
+1130001040,None
+1130001041,None
+1130001042,None
+1130001043,None
+1130001044,"justice, money"
+1130001045,justice
+1130001046,"budget, education, elections, federalism, labor"
+1130001047,None
+1130001048,"foreign, federalism"
+1130001049,"budget, foreign"
+1130001050,None
+1130001051,budget
+1130001052,elections
+1130001053,"justice, labor"
+1130001054,"budget, federalism, money"
+1130001055,None
+1130001056,None
+1130001057,"budget, elections, federalism"
+1130001058,None
+1130001059,federalism
+1130001060,federalism
+1130001061,elections
+1130001062,justice
+1130001063,"justice, minorities, topic"
+1130001064,None
+1130001065,None
+1130001066,None
+1130001067,"budget, elections"
+1130001068,None
+1130001069,budget
+1130001070,elections
+1130001071,justice
+1130001072,"budget, defense, foreign, labor, minorities"
+1130001073,None
+1130001074,None
+1130001075,None
+1130001076,None
+1130001077,None
+1130001078,business
+1130001079,None
+1130001080,None
+1130001081,elections
+1130001082,None
+1130001083,None
+1130001084,elections
+1130001085,None
+1130001086,elections
+1130001087,None
+1130001088,elections
+1130001089,None
+1130001090,elections
+1130001091,None
+1130001092,elections
+1130001093,elections
+1130001094,"elections, federalism, labor"
+1130001095,elections
+1130001096,None
+1130001097,None
+1130001098,None
+1130001099,justice
+1130001100,None
+1130001101,None
+1130001102,business
+1130001103,federalism
+1130001104,None
+1130001105,None
+1130001106,None
+1130001107,None
+1130001108,None
+1130001109,None
+1130001110,None
+1130001111,None
+1130001112,"budget, economy, labor, tax"
+1130001113,"budget, government, health, justice, minorities"
+1130001114,None
+1130001115,"budget, labor"
+1130001116,"budget, federalism, tax"
+1130001117,"budget, business, foreign, immigration, justice, labor, minorities, tax"
+1130001118,None
+1130001119,"budget, labor, money, tax"
+1130001120,None
+1130001121,None
+1130001122,"budget, defense, justice, tax"
+1130001123,None
+1130001124,None
+1130001125,None
+1130001126,"budget, business"
+1130001127,None
+1130001128,"budget, labor"
+1130001129,None
+1130001130,None
+1130001131,"federalism, justice, minorities, money"
+1130001132,"elections, justice, labor, minorities"
+1130001133,"labor, money, economy"
+1130001134,"budget, justice, minorities, tax"
+1130001135,"defense, federalism, government, money"
+1130001136,"federalism, justice, minorities"
+1130001137,"budget, economy, federalism, government"
+1130001138,"economy, environment, federalism"
+1130001139,"budget, minorities, tax"
+1130001140,"federalism, justice, labor, minorities"
+1130001141,"budget, business, economy, federalism, government, health, tax"
+1130001142,alcohol
+1130001143,None
+1130001144,"justice, labor, minorities, tax"
+1130001145,"budget, minorities, tax"
+1130001146,None
+1130001147,None
+1130001148,None
+1130001149,"budget, business, elections, foreign, health, money"
+1130001150,None
+1130001151,"budget, business, crime, elections, immigration, justice, labor, minorities, money, religion"
+1130001152,None
+1130001153,"foreign, immigration"
+1130001154,None
+1130001155,"federalism, justice, minorities"
+1130001156,"defense, federalism, minorities"
+1130001157,labor
+1130001158,"defense, education, federalism, foreign, labor"
+1130001159,None
+1130001160,"business, education, federalism, labor, minorities"
+1130001161,"economy, federalism"
+1130001162,"business, education, government, justice, defense"
+1130001163,"foreign, government"
+1130001164,elections
+1130001165,None
+1130001166,elections
+1130001167,education
+1130001168,"business, defense, education, elections, environment, foreign, health, justice, government"
+1130001169,"federalism, justice, labor, minorities"
+1130001170,"defense, foreign, justice, money"
+1130001171,"business, elections, federalism, foreign, immigration, justice, religion"
+1130001172,"crime, education, federalism, labor"
+1130001173,"business, justice, labor"
+1130001174,"defense, education, federalism, government, health, justice, labor, mail, minorities, money"
+1130001175,elections
+1130001176,"federalism, foreign"
+1130001177,"budget, economy, federalism, labor"
+1130001178,"education, federalism, government, health, labor"
+1130001179,budget
+1130001180,"elections, federalism, justice, labor, minorities"
+1130001181,"health, justice"
+1130001182,health
+1130001183,"federalism, government, justice, labor, minorities, religion"
+1130001184,foreign
+1130001185,"elections, federalism, immigration, justice, minorities, tax"
+1130001186,"elections, foreign"
+1130001187,None
+1130001188,None
+1130001189,None
+1130001190,None
+1130001191,None
+1130001192,"defense, education, labor"
+1130001193,"defense, education, federalism, minorities"
+1130001194,labor
+1130001195,"business, foreign, government"
+1130001196,"education, elections, federalism, topic"
+1130001197,federalism
+1130001198,"crime, health"
+1130001199,"education, minorities"
+1130001200,"defense, environment, federalism, labor"
+1130001201,"education, federalism, immigration, labor"
+1130001202,elections
+1130001203,"federalism, health"
+1130001204,federalism
+1130001205,"defense, education, labor"
+1130001206,"defense, foreign, immigration, justice"
+1130001207,"defense, federalism, health, justice"
+1130001208,"alcohol, foreign"
+1130001209,elections
+1130001210,"federalism, religion"
+1130001211,None
+1130001212,None
+1130001213,None
+1130001214,None
+1130001215,None
+1130001216,None
+1130001217,"budget, business, environment, foreign, health, justice, labor, minorities, money, tax"
+1130001218,None
+1130001219,"business, education, foreign, minorities"
+1130001220,None
+1130001221,"budget, elections, justice, minorities"
+1130001222,None
+1130001223,"federalism, health, labor, money"
+1130001224,foreign
+1130001225,"foreign, money"
+1130001226,"elections, federalism, minorities, foreign"
+1130001227,None
+1130001228,"budget, business, defense, economy, elections, government, health, justice, labor, minorities"
+1130001229,None
+1130001230,None
+1130001231,elections
+1130001232,None
+1130001233,elections
+1130001234,None
+1130001235,None
+1130001236,education
+1130001237,"foreign, health, justice, minorities"
+1130001238,"justice, minorities, religion"
+1130001239,"justice, minorities"
+1130001240,"education, justice, minorities"
+1130001241,"justice, labor"
+1130001242,"business, environment, foreign, labor, trade"
+1130001243,"justice, minorities"
+1130001244,"education, justice, minorities"
+1130001245,"justice, health, minorities"
+1130001246,"health, justice, minorities"
+1130001247,"health, justice, minorities"
+1130001248,"budget, justice, labor, minorities"
+1130001249,"justice, minorities"
+1130001250,"budget, minorities"
+1130001251,"health, justice, minorities"
+1130001252,"foreign, health, justice, minorities"
+1130001253,"budget, federalism, justice, labor, minorities"
+1130001254,elections
+1130001255,health
+1130001256,None
+1130001257,None
+1130001258,None
+1130001259,"elections, health"
+1130001260,"budget, federalism, health"
+1130001261,None
+1130001262,"foreign, health"
+1130001263,None
+1130001264,"federalism, health"
+1130001265,None
+1130001266,"federalism, health"
+1130001267,None
+1130001268,"education, elections, health"
+1130001269,None
+1130001270,None
+1130001271,"crime, defense, elections, federalism, health, minorities"
+1130001272,None
+1130001273,None
+1130001274,None
+1130001275,None
+1130001276,None
+1130001277,None
+1130001278,None
+1130001279,"elections, health"
+1130001280,None
+1130001281,None
+1130001282,None
+1130001283,elections
+1130001284,None
+1130001285,None
+1130001286,"budget, justice, labor, minorities"
+1130001287,"budget, federalism, justice"
+1130001288,"budget, justice, minorities"
+1130001289,education
+1130001290,None
+1130001291,"budget, business, crime, education, elections, environment, federalism, government, health, immigration, justice, minorities, money, tax, defense, foreign, labor"
+1130001292,None
+1130001293,None
+1130001294,None
+1130001295,"alcohol, crime, defense, education, federalism, foreign, health, justice, labor, topic, minorities"
+1130001296,"defense, federalism, justice, minorities, money"
+1130001297,None
+1130001298,"justice, minorities"
+1130001299,None
+1130001300,justice
+1130001301,None
+1130001302,justice
+1130001303,None
+1130001304,"education, health, justice, labor"
+1130001305,None
+1130001306,"federalism, health"
+1130001307,None
+1130001308,"federalism, labor, minorities"
+1130001309,None
+1130001310,"education, justice, minorities"
+1130001311,None
+1130001312,justice
+1130001313,None
+1130001314,"budget, justice, labor, minorities, foreign"
+1130001315,None
+1130001316,None
+1130001317,"education, foreign, minorities"
+1130001318,federalism
+1130001319,"education, minorities"
+1130001320,None
+1130001321,"federalism, minorities, money"
+1130001322,None
+1130001323,None
+1130001324,None
+1130001325,None
+1130001326,None
+1130001327,None
+1130001328,"federalism, religion, topic, justice"
+1130001329,None
+1130001330,None
+1130001331,None
+1130001332,"health, justice, labor, minorities"
+1130001333,"minorities, health"
+1130001334,None
+1130001335,None
+1130001336,"foreign, minorities"
+1130001337,None
+1130001338,"foreign, minorities"
+1130001339,"federalism, foreign, health, immigration, minorities"
+1130001340,"business, foreign, justice"
+1130001341,"education, federalism, foreign, justice, minorities"
+1130001342,minorities
+1130001343,minorities
+1130001344,None
+1130001345,"justice, minorities"
+1130001346,None
+1130001347,minorities
+1130001348,"alcohol, federalism, justice, minorities"
+1130001349,"federalism, justice"
+1130001350,"federalism, government"
+1130001351,"education, health, justice, minorities"
+1130001352,religion
+1130001353,"budget, tax"
+1130001354,None
+1130001355,None
+1130001356,None
+1130001357,None
+1130001358,"business, crime, foreign, justice, minorities, tax"
+1130001359,None
+1130001360,"budget, elections, labor"
+1130001361,None
+1130001362,"budget, business, elections, federalism, health, tax, government"
+1130001363,justice
+1130001364,None
+1130001365,None
+1130001366,None
+1130001367,"elections, federalism, government, justice, labor, minorities"
+1130001368,None
+1130001369,justice
+1130001370,None
+1130001371,None
+1130001372,"budget, business, elections, federalism, immigration, justice, minorities"
+1130001373,None
+1130001374,None
+1130001375,None
+1130001376,"elections, justice"
+1130001377,federalism
+1130001378,"business, federalism, health, labor, defense"
+1130001379,"justice, minorities, tax"
+1130001380,government
+1130001381,None
+1130001382,"justice, minorities"
+1130001383,None
+1130001384,None
+1130001385,None
+1130001386,None
+1130001387,None
+1130001388,justice
+1130001389,None
+1130001390,None
+1130001391,"budget, business, elections, government, health, labor, money, tax"
+1130001392,justice
+1130001393,None
+1130001394,None
+1130001395,None
+1130001396,None
+1130001397,None
+1130001398,"business, education, elections, federalism, labor, tax, trade"
+1130001399,justice
+1130001400,None
+1130001401,None
+1130001402,"budget, education, elections, federalism, government, labor, minorities"
+1130001403,None
+1130001404,None
+1130001405,None
+1130001406,justice
+1130001407,None
+1130001408,None
+1130001409,None
+1130001410,None
+1130001411,"defense, justice, minorities"
+1130001412,"foreign, health, justice, minorities"
+1130001413,None
+1130001414,None
+1130001415,None
+1130001416,None
+1130001417,None
+1130001418,None
+1130001419,None
+1130001420,None
+1130001421,None
+1130001422,None
+1130001423,None
+1130001424,None
+1130001425,"crime, federalism, minorities"
+1130001426,"crime, education, health, justice"
+1130001427,"health, labor"
+1130001428,"federalism, health, labor"
+1130001429,None
+1130001430,None
+1130001431,None
+1130001432,"alcohol, defense, federalism, labor, minorities"
+1130001433,"federalism, justice, labor, minorities, religion"
+1130001434,None
+1130001435,None
+1130001436,"elections, foreign, health, immigration, justice"
+1130001437,None
+1130001438,justice
+1130001439,None
+1130001440,None
+1130001441,"alcohol, elections, federalism, government, immigration, justice, labor, minorities, tax, health"
+1130001442,None
+1130001443,None
+1130001444,"business, education, minorities, money"
+1130001445,"alcohol, foreign, minorities"
+1130001446,None
+1130001447,None
+1130001448,justice
+1130001449,None
+1130001450,None
+1130001451,religion
+1130001452,None
+1130001453,None
+1130001454,"education, elections, environment, federalism, government"
+1130001455,None
+1130001456,None
+1130001457,"education, federalism"
+1130001458,elections
+1130001459,"crime, labor"
+1130001460,"alcohol, foreign, minorities"
+1130001461,"crime, education, environment, federalism, foreign, immigration, justice, minorities"
+1130001462,None
+1130001463,"education, federalism"
+1130001464,"education, federalism"
+1130001465,"business, crime, defense, federalism, foreign, immigration, minorities, religion, topic"
+1130001466,budget
+1130001467,budget
+1130001468,"education, federalism, labor"
+1130001469,"education, elections, environment, federalism, minorities"
+1130001470,"alcohol, business, federalism, justice"
+1130001471,"budget, federalism, justice, minorities, government"
+1130001472,None
+1130001473,elections
+1130001474,"business, economy, federalism, foreign, government, health, immigration, justice, labor, minorities"
+1130001475,None
+1130001476,elections
+1130001477,None
+1130001478,elections
+1130001479,None
+1130001480,None
+1130001481,None
+1130001482,None
+1130001483,"budget, government, labor"
+1130001484,education
+1130001485,"minorities, money"
+1130001486,"budget, labor, minorities"
+1130001487,"budget, defense, labor"
+1130001488,"health, justice, minorities"
+1130001489,"budget, business"
+1130001490,"labor, money"
+1130001491,"budget, labor"
+1130001492,"crime, elections, government"
+1130001493,None
+1130001494,None
+1130001495,None
+1130001496,None
+1130001497,None
+1130001498,"alcohol, budget, business, economy, labor"
+1130001499,None
+1130001500,None
+1130001501,"budget, business, crime, elections, tax, justice, labor"
+1130001502,"budget, labor"
+1130001503,"budget, labor"
+1130001504,"budget, business, government, justice, money"
+1130001505,budget
+1130001506,"budget, business, education, justice, labor, minorities"
+1130001507,elections
+1130001508,"budget, business, elections, labor"
+1130001509,None
+1130001510,None
+1130001511,"budget, business, federalism, government, health, labor, tax"
+1130001512,None
+1130001513,None
+1130001514,"elections, labor"
+1130001515,"budget, justice, labor"
+1130001516,"budget, labor"
+1130001517,"budget, labor, tax"
+1130001518,None
+1130001519,None
+1130001520,"budget, economy, government, labor"
+1130001521,"budget, economy, government, health, justice, labor, tax"
+1130001522,None
+1130001523,None
+1130001524,None
+1130001525,"budget, elections"
+1130001526,None
+1130001527,"budget, elections, justice, minorities, tax"
+1130001528,"budget, labor"
+1130001529,"budget, elections, justice, labor"
+1130001530,None
+1130001531,federalism
+1130001532,None
+1130001533,None
+1130001534,None
+1130001535,elections
+1130001536,None
+1130001537,elections
+1130001538,elections
+1130001539,elections
+1130001540,money
+1130001541,None
+1130001542,None
+1130001543,None
+1130001544,None
+1130001545,"budget, education, labor, money, business"
+1130001546,"budget, business, economy, labor"
+1130001547,"budget, business"
+1130001548,"budget, labor"
+1130001549,None
+1130001550,None
+1130001551,None
+1130001552,budget
+1130001553,"budget, business, justice, labor, minorities, money, tax"
+1130001554,"budget, federalism"
+1130001555,"budget, justice, labor, minorities, money"
+1130001556,None
+1130001557,None
+1130001558,"budget, labor"
+1130001559,None
+1130001560,"budget, business, labor"
+1130001561,None
+1130001562,"budget, economy, labor, tax"
+1130001563,None
+1130001564,"budget, labor"
+1130001565,None
+1130001566,"budget, labor"
+1130001567,None
+1130001568,"budget, government, labor, tax"
+1130001569,None
+1130001570,budget
+1130001571,None
+1130001572,"budget, business, crime, education, labor, tax, government"
+1130001573,None
+1130001574,"budget, labor"
+1130001575,None
+1130001576,"budget, business, environment, health"
+1130001577,None
+1130001578,"budget, government, health"
+1130001579,None
+1130001580,"budget, labor"
+1130001581,None
+1130001582,"budget, labor"
+1130001583,None
+1130001584,None
+1130001585,None
+1130001586,"budget, business"
+1130001587,budget
+1130001588,None
+1130001589,"budget, labor, tax"
+1130001590,None
+1130001591,"budget, elections, government, health, labor"
+1130001592,None
+1130001593,"budget, justice, labor, minorities"
+1130001594,None
+1130001595,None
+1130001596,budget
+1130001597,None
+1130001598,None
+1130001599,budget
+1130001600,None
+1130001601,"budget, education, labor, minorities"
+1130001602,None
+1130001603,"budget, labor"
+1130001604,None
+1130001605,None
+1130001606,None
+1130001607,None
+1130001608,labor
+1130001609,None
+1130001610,None
+1130001611,"budget, business, health, money"
+1130001612,None
+1130001613,None
+1130001614,None
+1130001615,"budget, labor"
+1130001616,"budget, labor"
+1130001617,"budget, business, elections, labor, tax, topic"
+1130001618,"budget, crime, elections, government, justice, labor"
+1130001619,"budget, crime, federalism, justice, labor, money"
+1130001620,"budget, government, labor"
+1130001621,None
+1130001622,"budget, business, labor"
+1130001623,budget
+1130001624,None
+1130001625,"budget, business, economy, elections, labor"
+1130001626,None
+1130001627,"budget, business, economy, elections, government, health, justice, labor, minorities, tax"
+1130001628,None
+1130001629,None
+1130001630,justice
+1130001631,"business, economy, labor"
+1130001632,None
+1130001633,None
+1130001634,"budget, elections, labor, money"
+1130001635,None
+1130001636,None
+1130001637,"business, economy, elections, labor"
+1130001638,None
+1130001639,"budget, labor"
+1130001640,budget
+1130001641,"budget, elections, labor"
+1130001642,"budget, business, economy, elections, labor"
+1130001643,"budget, crime, economy, elections, government, health, immigration, justice, labor, minorities, money, trade"
+1130001644,None
+1130001645,None
+1130001646,None
+1130001647,None
+1130001648,justice
+1130001649,None
+1130001650,None
+1130001651,"budget, economy, elections, government, health, labor"
+1130001652,None
+1130001653,None
+1130001654,None
+1130001655,None
+1130001656,"budget, business, economy, labor"
+1130001657,None
+1130001658,None
+1130001659,None
+1130001660,elections
+1130001661,None
+1130001662,None
+1130001663,elections
+1130001664,elections
+1130001665,None
+1130001666,None
+1130001667,None
+1130001668,None
+1130001669,None
+1130001670,None
+1130001671,None
+1130001672,None
+1130001673,None
+1130001674,None
+1130001675,"justice, minorities"
+1130001676,None
+1130001677,education
+1130001678,"business, government"
+1130001679,"budget, business"
+1130001680,None
+1130001681,None
+1130001682,"alcohol, defense, education, federalism, justice, labor"
+1130001683,None
+1130001684,"business, defense, elections, foreign, justice"
+1130001685,"foreign, immigration, labor"
+1130001686,"federalism, government, immigration"
+1130001687,None
+1130001688,"budget, business, crime, education, elections, environment, federalism, health, justice, labor"
+1130001689,None
+1130001690,"health, justice, minorities"
+1130001691,None
+1130001692,"federalism, health, labor, topic, justice"
+1130001693,None
+1130001694,None
+1130001695,budget
+1130001696,None
+1130001697,None
+1130001698,None
+1130001699,None
+1130001700,None
+1130001701,None
+1130001702,justice
+1130001703,None
+1130001704,"justice, minorities"
+1130001705,None
+1130001706,None
+1130001707,money
+1130001708,justice
+1130001709,None
+1130001710,None
+1130001711,"budget, business, federalism, government, justice, labor, minorities, tax"
+1130001712,justice
+1130001713,None
+1130001714,None
+1130001715,None
+1130001716,None
+1130001717,None
+1130001718,None
+1130001719,justice
+1130001720,None
+1130001721,None
+1130001722,None
+1130001723,"budget, business, defense, elections, federalism, justice, labor, money, tax"
+1130001724,None
+1130001725,None
+1130001726,None
+1130001727,budget
+1130001728,"defense, minorities, tax"
+1130001729,"budget, business, government, health, labor"
+1130001730,"federalism, labor"
+1130001731,None
+1130001732,"alcohol, budget, defense, economy, education, elections, federalism, government, health, immigration, justice, labor, minorities, money"
+1130001733,justice
+1130001734,None
+1130001735,None
+1130001736,"budget, business, elections, justice, labor, tax"
+1130001737,None
+1130001738,"budget, economy, elections, health, labor, tax"
+1130001739,None
+1130001740,None
+1130001741,None
+1130001742,"business, defense, education, federalism, labor, minorities"
+1130001743,None
+1130001744,"federalism, minorities, topic"
+1130001745,justice
+1130001746,None
+1130001747,None
+1130001748,None
+1130001749,"budget, labor"
+1130001750,None
+1130001751,"budget, minorities"
+1130001752,"business, defense, elections, justice, minorities"
+1130001753,None
+1130001754,None
+1130001755,"elections, federalism, immigration, justice, labor, minorities"
+1130001756,justice
+1130001757,None
+1130001758,None
+1130001759,None
+1130001760,None
+1130001761,"alcohol, crime, health, justice, defense, foreign"
+1130001762,None
+1130001763,"business, federalism, labor, topic"
+1130001764,None
+1130001765,None
+1130001766,None
+1130001767,justice
+1130001768,None
+1130001769,None
+1130001770,"economy, foreign, immigration, labor, tax"
+1130001771,justice
+1130001772,None
+1130001773,None
+1130001774,"business, elections, federalism, foreign, government, justice, labor, minorities, tax"
+1130001775,None
+1130001776,None
+1130001777,None
+1130001778,None
+1130001779,None
+1130001780,justice
+1130001781,None
+1130001782,None
+1130001783,None
+1130001784,"budget, business, elections, federalism, foreign, justice, labor, minorities"
+1130001785,"budget, business, economy, federalism, immigration, justice, minorities"
+1130001786,"defense, elections, labor, minorities"
+1130001787,"defense, health, labor"
+1130001788,None
+1130001789,"elections, federalism, immigration, justice, labor, minorities"
+1130001790,"education, justice, minorities"
+1130001791,"budget, economy, education, federalism, government, justice, business"
+1130001792,None
+1130001793,"budget, foreign, government, health, immigration, labor, minorities, tax"
+1130001794,"budget, business, health, money, tax"
+1130001795,None
+1130001796,"foreign, immigration"
+1130001797,None
+1130001798,None
+1130001799,None
+1130001800,None
+1130001801,None
+1130001802,None
+1130001803,None
+1130001804,None
+1130001805,justice
+1130001806,None
+1130001807,None
+1130001808,None
+1130001809,justice
+1130001810,None
+1130001811,None
+1130001812,religion
+1130001813,None
+1130001814,None
+1130001815,"defense, federalism, foreign, money, trade, business"
+1130001816,None
+1130001817,"education, federalism"
+1130001818,None
+1130001819,"economy, labor, tax"
+1130001820,"defense, education, federalism, foreign, immigration"
+1130001821,"federalism, justice"
+1130001822,foreign
+1130001823,"education, immigration"
+1130001824,None
+1130001825,"federalism, foreign, health, immigration"
+1130001826,"business, health, tax"
+1130001827,"crime, health, minorities"
+1130001828,"defense, federalism"
+1130001829,"business, elections, federalism, minorities"
+1130001830,"education, elections, federalism, labor, minorities"
+1130001831,"education, federalism"
+1130001832,"foreign, government"
+1130001833,"federalism, justice, labor, minorities"
+1130001834,"defense, education, federalism, justice, labor, minorities"
+1130001835,"education, environment, foreign, health, minorities, money"
+1130001836,"health, justice, minorities"
+1130001837,"education, federalism, foreign, minorities"
+1130001838,"alcohol, elections, immigration, justice, minorities"
+1130001839,"education, elections, federalism, minorities"
+1130001840,"education, money"
+1130001841,federalism
+1130001842,"federalism, tax"
+1130001843,"education, federalism"
+1130001844,federalism
+1130001845,"defense, education"
+1130001846,"alcohol, health, justice, minorities"
+1130001847,"crime, elections, federalism, justice, labor, minorities"
+1130001848,"federalism, health"
+1130001849,"defense, education, federalism, health, immigration, minorities"
+1130001850,budget
+1130001851,"defense, education, elections, health, labor, minorities"
+1130001852,"defense, justice, labor, minorities"
+1130001853,"education, federalism, foreign, money"
+1130001854,elections
+1130001855,"federalism, justice, minorities"
+1130001856,None
+1130001857,justice
+1130001858,None
+1130001859,None
+1130001860,None
+1130001861,None
+1130001862,money
+1130001863,justice
+1130001864,None
+1130001865,None
+1130001866,None
+1130001867,"budget, elections, labor, tax"
+1130001868,justice
+1130001869,None
+1130001870,None
+1130001871,None
+1130001872,None
+1130001873,"environment, federalism, government, justice, labor, money, health"
+1130001874,None
+1130001875,None
+1130001876,None
+1130001877,"alcohol, business, federalism, foreign, justice, minorities"
+1130001878,justice
+1130001879,None
+1130001880,None
+1130001881,"budget, business, economy, federalism, government, health, labor, money, tax"
+1130001882,None
+1130001883,"alcohol, budget, business, defense, economy, federalism, labor, tax"
+1130001884,None
+1130001885,None
+1130001886,None
+1130001887,"budget, economy, federalism, government, health, labor"
+1130001888,None
+1130001889,None
+1130001890,None
+1130001891,"crime, defense, education, federalism, foreign, justice, minorities"
+1130001892,None
+1130001893,"business, defense, federalism, justice"
+1130001894,justice
+1130001895,None
+1130001896,None
+1130001897,"budget, business, justice, labor, health"
+1130001898,None
+1130001899,None
+1130001900,None
+1130001901,justice
+1130001902,None
+1130001903,None
+1130001904,"health, immigration, justice, minorities"
+1130001905,justice
+1130001906,None
+1130001907,None
+1130001908,None
+1130001909,None
+1130001910,None
+1130001911,None
+1130001912,None
+1130001913,"budget, economy, elections, foreign, government, health, justice, labor, money, tax"
+1130001914,None
+1130001915,"budget, money"
+1130001916,"budget, elections, federalism, immigration"
+1130001917,justice
+1130001918,None
+1130001919,None
+1130001920,None
+1130001921,None
+1130001922,"budget, business, labor, money, tax"
+1130001923,justice
+1130001924,None
+1130001925,None
+1130001926,None
+1130001927,None
+1130001928,"business, elections, federalism, government, health, justice, minorities, tax"
+1130001929,"elections, government, justice, minorities"
+1130001930,"budget, business, education, elections, federalism, government, labor, trade"
+1130001931,None
+1130001932,None
+1130001933,None
+1130001934,"budget, elections, federalism, tax, justice, mail"
+1130001935,None
+1130001936,None
+1130001937,None
+1130001938,None
+1130001939,justice
+1130001940,money
+1130001941,None
+1130001942,None
+1130001943,None
+1130001944,"elections, federalism, foreign, immigration"
+1130001945,None
+1130001946,"justice, minorities"
+1130001947,None
+1130001948,None
+1130001949,None
+1130001950,None
+1130001951,"elections, justice"
+1130001952,None
+1130001953,"elections, justice, minorities"
+1130001954,"budget, defense, elections, federalism, labor, tax, minorities"
+1130001955,None
+1130001956,None
+1130001957,"budget, defense, elections, foreign, labor"
+1130001958,None
+1130001959,"budget, elections, environment, federalism, justice, money, tax"
+1130001960,None
+1130001961,None
+1130001962,"elections, federalism, labor"
+1130001963,justice
+1130001964,None
+1130001965,None
+1130001966,"alcohol, elections"
+1130001967,"elections, justice, minorities"
+1130001968,"elections, federalism, justice, labor"
+1130001969,"business, crime, elections, federalism, justice, labor, minorities"
+1130001970,None
+1130001971,None
+1130001972,None
+1130001973,elections
+1130001974,justice
+1130001975,None
+1130001976,None
+1130001977,None
+1130001978,"federalism, justice, labor, minorities"
+1130001979,None
+1130001980,None
+1130001981,"justice, minorities"
+1130001982,None
+1130001983,None
+1130001984,None
+1130001985,None
+1130001986,None
+1130001987,None
+1130001988,justice
+1130001989,None
+1130001990,None
+1130001991,None
+1130001992,None
+1130001993,None
+1130001994,justice
+1130001995,None
+1130001996,None
+1130001997,elections
+1130001998,None
+1130001999,elections
+1130002000,None

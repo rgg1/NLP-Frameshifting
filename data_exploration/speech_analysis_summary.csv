@@ -1,0 +1,2 @@
+,total_speeches,unique_speakers,date_range,length_stats,party_distribution
+0,24041,901,2013-01-03 00:00:00 to 2015-02-26 00:00:00,"{'mean_length': np.float64(201.82821014100912), 'median_length': np.float64(30.0), 'std_length': np.float64(461.9561056333619), 'min_length': np.int64(1), 'max_length': np.int64(21422), 'quartiles': {0.25: 10.0, 0.5: 30.0, 0.75: 219.0}}","{'Counts': {'D': 7607, 'R': 7175, 'I': 63}, 'Percentage': {'D': 31.64, 'R': 29.84, 'I': 0.26}}"
