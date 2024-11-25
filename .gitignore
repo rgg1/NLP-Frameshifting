@@ -1,3 +1,4 @@
 /myenv
 /vocabulary
 .DS_Store
+.env
