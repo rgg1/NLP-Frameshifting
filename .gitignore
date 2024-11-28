@@ -2,3 +2,5 @@
 /vocabulary
 .DS_Store
 .env
+/hein-bound
+/hein-daily
