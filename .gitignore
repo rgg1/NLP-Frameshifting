@@ -4,3 +4,4 @@
 .env
 /hein-bound
 /hein-daily
+model.pt

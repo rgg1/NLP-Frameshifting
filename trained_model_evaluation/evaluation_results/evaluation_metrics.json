@@ -1,0 +1,12 @@
+{
+    "emotional_intensity": {
+        "accuracy": 0.828,
+        "mae": 0.176,
+        "off_by_one_pct": 0.996
+    },
+    "political_spectrum": {
+        "accuracy": 0.854,
+        "mae": 0.154,
+        "off_by_one_pct": 0.992
+    }
+}
