@@ -1,0 +1,64 @@
+Congressional Speech Analysis Summary
+===================================
+
+Analysis Parameters:
+- Congress Range: 79-114
+- Speeches per Congress: 1000
+- Total Speeches Analyzed: 36000
+
+Overall Trends:
+--------------
+
+Democratic Party:
+- Emotional Intensity Change: 0.96
+- Political Position Change: -0.56
+
+Republican Party:
+- Emotional Intensity Change: 0.13
+- Political Position Change: 0.05
+
+Polarization Analysis:
+---------------------
+- Initial Emotional Gap: 0.28
+- Final Emotional Gap: -0.28
+- Initial Political Gap: 0.10
+- Final Political Gap: 0.19
+
+Issue-Specific Findings:
+----------------------
+
+Budget and Fiscal Responsibility:
+- Polarization Change: -0.23
+- Emotional Intensity Change: -0.26
+
+Defense and Security:
+- Polarization Change: 0.25
+- Emotional Intensity Change: -0.69
+
+Economy and Jobs:
+- Polarization Change: 0.28
+- Emotional Intensity Change: -0.33
+
+Education and Innovation:
+- Polarization Change: -0.08
+- Emotional Intensity Change: -0.33
+
+Environment and Energy:
+- Polarization Change: 0.08
+- Emotional Intensity Change: -1.13
+
+Health and Social Services:
+- Polarization Change: 0.31
+- Emotional Intensity Change: -0.35
+
+Immigration and Border Policy:
+- Polarization Change: -0.90
+- Emotional Intensity Change: -0.88
+
+Infrastructure and Transportation:
+- Polarization Change: 0.40
+- Emotional Intensity Change: -0.81
+
+Justice and Civil Rights:
+- Polarization Change: 0.21
+- Emotional Intensity Change: -0.41

@@ -5,3 +5,4 @@
 /hein-bound
 /hein-daily
 model.pt
+model.safetensors

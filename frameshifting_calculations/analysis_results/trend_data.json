@@ -1,0 +1,5605 @@
+{
+  "by_party": {
+    "D": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.248,
+        "emotional_std": 0.7923077072741449,
+        "political_avg": 2.974,
+        "political_std": 0.42624802022941877,
+        "count": 500
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.5,
+        "emotional_std": 0.8169055449307939,
+        "political_avg": 2.972,
+        "political_std": 0.532713400558188,
+        "count": 500
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.15,
+        "emotional_std": 0.7853237975089433,
+        "political_avg": 2.988,
+        "political_std": 0.44750029388376056,
+        "count": 500
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.22,
+        "emotional_std": 0.8252041710072092,
+        "political_avg": 2.954,
+        "political_std": 0.4101468528244043,
+        "count": 500
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.36,
+        "emotional_std": 0.7820634542624952,
+        "political_avg": 2.964,
+        "political_std": 0.4971905035231336,
+        "count": 500
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.188,
+        "emotional_std": 0.8614756413045712,
+        "political_avg": 2.942,
+        "political_std": 0.4550275818018077,
+        "count": 500
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.332,
+        "emotional_std": 0.8409461223892546,
+        "political_avg": 2.92,
+        "political_std": 0.5235917270098778,
+        "count": 500
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.322,
+        "emotional_std": 0.8072293592758838,
+        "political_avg": 2.954,
+        "political_std": 0.4693875257168614,
+        "count": 500
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.266,
+        "emotional_std": 0.8465679858755697,
+        "political_avg": 2.922,
+        "political_std": 0.49030275706666626,
+        "count": 500
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.39,
+        "emotional_std": 0.933618383802047,
+        "political_avg": 2.966,
+        "political_std": 0.5912216895313843,
+        "count": 500
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.422,
+        "emotional_std": 0.8907878569064713,
+        "political_avg": 2.854,
+        "political_std": 0.5488957762146586,
+        "count": 500
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.474,
+        "emotional_std": 0.9333092372116163,
+        "political_avg": 2.808,
+        "political_std": 0.5401105802312667,
+        "count": 500
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.46,
+        "emotional_std": 1.0012016827888566,
+        "political_avg": 2.852,
+        "political_std": 0.5681034086906466,
+        "count": 500
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.474,
+        "emotional_std": 0.9691245558800062,
+        "political_avg": 2.768,
+        "political_std": 0.5957228982866835,
+        "count": 500
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.392,
+        "emotional_std": 0.942397063051927,
+        "political_avg": 2.808,
+        "political_std": 0.5654870034777143,
+        "count": 500
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.296,
+        "emotional_std": 0.9066576289384127,
+        "political_avg": 2.84,
+        "political_std": 0.5281646673450083,
+        "count": 500
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.262,
+        "emotional_std": 0.9311767718111966,
+        "political_avg": 2.878,
+        "political_std": 0.5288434084881865,
+        "count": 500
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.324,
+        "emotional_std": 0.9190829270820493,
+        "political_avg": 2.878,
+        "political_std": 0.4935617554195479,
+        "count": 500
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.62,
+        "emotional_std": 1.0008012821798469,
+        "political_avg": 2.794,
+        "political_std": 0.6231698655765742,
+        "count": 500
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 2.598,
+        "emotional_std": 0.9850566853469366,
+        "political_avg": 2.718,
+        "political_std": 0.628702261063321,
+        "count": 500
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 2.63,
+        "emotional_std": 0.9935160533663225,
+        "political_avg": 2.732,
+        "political_std": 0.6007476971168365,
+        "count": 500
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 2.42,
+        "emotional_std": 1.057277480769682,
+        "political_avg": 2.75,
+        "political_std": 0.565809403033497,
+        "count": 500
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 2.472,
+        "emotional_std": 1.0916039567520786,
+        "political_avg": 2.744,
+        "political_std": 0.6286926983972663,
+        "count": 500
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 2.468,
+        "emotional_std": 1.127616529710412,
+        "political_avg": 2.726,
+        "political_std": 0.6478916013146861,
+        "count": 500
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 2.388,
+        "emotional_std": 1.0898769028319912,
+        "political_avg": 2.78,
+        "political_std": 0.6167339146203051,
+        "count": 500
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 2.91,
+        "emotional_std": 1.0138816064135139,
+        "political_avg": 2.642,
+        "political_std": 0.8019490286102838,
+        "count": 500
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 3.008,
+        "emotional_std": 1.0207938283905131,
+        "political_avg": 2.596,
+        "political_std": 0.7758788410260354,
+        "count": 500
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 3.04,
+        "emotional_std": 1.0548105282471358,
+        "political_avg": 2.498,
+        "political_std": 0.7477394121329394,
+        "count": 500
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 2.642,
+        "emotional_std": 1.2283540643539343,
+        "political_avg": 2.654,
+        "political_std": 0.6687139573191417,
+        "count": 500
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 2.934,
+        "emotional_std": 1.050643471119872,
+        "political_avg": 2.576,
+        "political_std": 0.7908697426882632,
+        "count": 500
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 3.154,
+        "emotional_std": 1.0239046642744851,
+        "political_avg": 2.442,
+        "political_std": 0.8556285411326585,
+        "count": 500
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 2.782,
+        "emotional_std": 1.1854478365353291,
+        "political_avg": 2.514,
+        "political_std": 0.7147206806176839,
+        "count": 500
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 2.74,
+        "emotional_std": 1.174375713574351,
+        "political_avg": 2.584,
+        "political_std": 0.7348632853097182,
+        "count": 500
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 2.838,
+        "emotional_std": 1.2372621530098384,
+        "political_avg": 2.494,
+        "political_std": 0.8783547199327025,
+        "count": 500
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 2.9,
+        "emotional_std": 1.1733513996301483,
+        "political_avg": 2.496,
+        "political_std": 0.8168957321926398,
+        "count": 500
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 3.208,
+        "emotional_std": 1.0328938665124108,
+        "political_avg": 2.414,
+        "political_std": 0.8532643905850525,
+        "count": 500
+      }
+    ],
+    "R": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.406,
+        "emotional_std": 0.760473958319787,
+        "political_avg": 2.972,
+        "political_std": 0.47293057276233114,
+        "count": 500
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.214,
+        "emotional_std": 0.818256125044197,
+        "political_avg": 2.964,
+        "political_std": 0.3781401591472662,
+        "count": 500
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.312,
+        "emotional_std": 0.7428051689629496,
+        "political_avg": 2.998,
+        "political_std": 0.46306030892249744,
+        "count": 500
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.396,
+        "emotional_std": 0.8127145932121804,
+        "political_avg": 3.002,
+        "political_std": 0.4716363872344107,
+        "count": 500
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.2,
+        "emotional_std": 0.7932581654380042,
+        "political_avg": 2.948,
+        "political_std": 0.426215108410383,
+        "count": 500
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.35,
+        "emotional_std": 0.7646367364162898,
+        "political_avg": 2.94,
+        "political_std": 0.45255896769203124,
+        "count": 500
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.418,
+        "emotional_std": 0.8298513762193966,
+        "political_avg": 2.974,
+        "political_std": 0.49579797424205463,
+        "count": 500
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.466,
+        "emotional_std": 0.8890584062362826,
+        "political_avg": 2.94,
+        "political_std": 0.5666057572671995,
+        "count": 500
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.484,
+        "emotional_std": 0.8142911888756755,
+        "political_avg": 2.94,
+        "political_std": 0.5412817860817855,
+        "count": 500
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.546,
+        "emotional_std": 0.8656689699481332,
+        "political_avg": 2.97,
+        "political_std": 0.598176923044115,
+        "count": 500
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.484,
+        "emotional_std": 0.7993885438809943,
+        "political_avg": 2.916,
+        "political_std": 0.549133038696796,
+        "count": 500
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.602,
+        "emotional_std": 0.8747149550024911,
+        "political_avg": 2.896,
+        "political_std": 0.630856528792276,
+        "count": 500
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.534,
+        "emotional_std": 0.8545786150018247,
+        "political_avg": 2.854,
+        "political_std": 0.5703811614514257,
+        "count": 500
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.534,
+        "emotional_std": 0.900258257312711,
+        "political_avg": 2.838,
+        "political_std": 0.6003973300305521,
+        "count": 500
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.532,
+        "emotional_std": 0.8138185308792156,
+        "political_avg": 2.864,
+        "political_std": 0.57459927658962,
+        "count": 500
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.462,
+        "emotional_std": 0.8330329451921762,
+        "political_avg": 2.936,
+        "political_std": 0.5661670161536795,
+        "count": 500
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.426,
+        "emotional_std": 0.8110731652315452,
+        "political_avg": 2.87,
+        "political_std": 0.5880404604840832,
+        "count": 500
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.572,
+        "emotional_std": 0.88904262754222,
+        "political_avg": 2.98,
+        "political_std": 0.623198807369698,
+        "count": 500
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.286,
+        "emotional_std": 0.9560502414247153,
+        "political_avg": 2.95,
+        "political_std": 0.5550821853247768,
+        "count": 500
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 2.334,
+        "emotional_std": 0.9881279236956996,
+        "political_avg": 2.864,
+        "political_std": 0.5675810925261573,
+        "count": 500
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 2.35,
+        "emotional_std": 0.9825634135888873,
+        "political_avg": 2.926,
+        "political_std": 0.5702406059703173,
+        "count": 500
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 2.7,
+        "emotional_std": 0.9590827281098944,
+        "political_avg": 2.85,
+        "political_std": 0.7074609544024377,
+        "count": 500
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 2.792,
+        "emotional_std": 0.9584222171321913,
+        "political_avg": 2.87,
+        "political_std": 0.7363316974960911,
+        "count": 500
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 2.814,
+        "emotional_std": 0.9619015069215955,
+        "political_avg": 2.84,
+        "political_std": 0.7179351375461761,
+        "count": 500
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 2.742,
+        "emotional_std": 0.9845683061621463,
+        "political_avg": 3.026,
+        "political_std": 0.8430572287703629,
+        "count": 500
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 2.484,
+        "emotional_std": 1.0411108604021448,
+        "political_avg": 3.018,
+        "political_std": 0.6918332649801295,
+        "count": 500
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 2.386,
+        "emotional_std": 1.0896691045978268,
+        "political_avg": 2.912,
+        "political_std": 0.6550681097847108,
+        "count": 500
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 2.522,
+        "emotional_std": 1.1454869185464853,
+        "political_avg": 2.886,
+        "political_std": 0.7141596796908884,
+        "count": 500
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 2.74,
+        "emotional_std": 1.0912293815354555,
+        "political_avg": 2.834,
+        "political_std": 0.7095427413507992,
+        "count": 500
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 2.336,
+        "emotional_std": 1.0979594847079377,
+        "political_avg": 2.878,
+        "political_std": 0.6449402265261357,
+        "count": 500
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 2.41,
+        "emotional_std": 1.1226846581669168,
+        "political_avg": 2.884,
+        "political_std": 0.6413787753480262,
+        "count": 500
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 2.908,
+        "emotional_std": 0.9764440003254375,
+        "political_avg": 2.914,
+        "political_std": 0.83185814653215,
+        "count": 500
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.086,
+        "emotional_std": 0.848554116233227,
+        "political_avg": 3.156,
+        "political_std": 1.051606272091892,
+        "count": 500
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 2.802,
+        "emotional_std": 0.9678167898302626,
+        "political_avg": 3.182,
+        "political_std": 0.8822884254774416,
+        "count": 500
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 2.896,
+        "emotional_std": 1.038914185758738,
+        "political_avg": 3.122,
+        "political_std": 0.914762034169716,
+        "count": 500
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 2.538,
+        "emotional_std": 1.1468157536175945,
+        "political_avg": 3.022,
+        "political_std": 0.7866088653289054,
+        "count": 500
+      }
+    ]
+  },
+  "by_issue": {
+    "Budget and Fiscal Responsibility": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.3597560975609757,
+        "emotional_std": 0.7823763950824588,
+        "political_avg": 3.091463414634146,
+        "political_std": 0.4804653213642661,
+        "count": 164
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.3068181818181817,
+        "emotional_std": 0.776187820355056,
+        "political_avg": 2.9943181818181817,
+        "political_std": 0.47204308630110803,
+        "count": 176
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.2873563218390807,
+        "emotional_std": 0.6611960781823603,
+        "political_avg": 2.9770114942528734,
+        "political_std": 0.40164435118424946,
+        "count": 174
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.272277227722772,
+        "emotional_std": 0.691183830063703,
+        "political_avg": 3.00990099009901,
+        "political_std": 0.34540478827052884,
+        "count": 202
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.2627737226277373,
+        "emotional_std": 0.6671942237801516,
+        "political_avg": 3.124087591240876,
+        "political_std": 0.460901537820692,
+        "count": 137
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.1180124223602483,
+        "emotional_std": 0.7104477636284883,
+        "political_avg": 2.9751552795031055,
+        "political_std": 0.31524416249564025,
+        "count": 161
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.4257425742574257,
+        "emotional_std": 0.7309305001769064,
+        "political_avg": 3.01980198019802,
+        "political_std": 0.4674520332388596,
+        "count": 202
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.393258426966292,
+        "emotional_std": 0.7382675938864052,
+        "political_avg": 3.0730337078651684,
+        "political_std": 0.4513042104642768,
+        "count": 178
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.3179190751445087,
+        "emotional_std": 0.6448113608548718,
+        "political_avg": 3.040462427745665,
+        "political_std": 0.46202765324078604,
+        "count": 173
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.409090909090909,
+        "emotional_std": 0.7907339855774879,
+        "political_avg": 3.0681818181818183,
+        "political_std": 0.5123390727520445,
+        "count": 132
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.3642857142857143,
+        "emotional_std": 0.7414812540814246,
+        "political_avg": 2.95,
+        "political_std": 0.46957810545456885,
+        "count": 140
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.5089820359281436,
+        "emotional_std": 0.684318881078587,
+        "political_avg": 2.9880239520958085,
+        "political_std": 0.5146998651933669,
+        "count": 167
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.3446327683615817,
+        "emotional_std": 0.7832674900476772,
+        "political_avg": 2.8926553672316384,
+        "political_std": 0.4824208129638357,
+        "count": 177
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.3846153846153846,
+        "emotional_std": 0.823754471047914,
+        "political_avg": 2.9881656804733727,
+        "political_std": 0.5343906819528353,
+        "count": 169
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.463855421686747,
+        "emotional_std": 0.7678507293783022,
+        "political_avg": 3.0,
+        "political_std": 0.5613835722137897,
+        "count": 166
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.425287356321839,
+        "emotional_std": 0.7622932227243449,
+        "political_avg": 3.0114942528735633,
+        "political_std": 0.5585748354406855,
+        "count": 174
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.3515151515151516,
+        "emotional_std": 0.8540153409119383,
+        "political_avg": 2.963636363636364,
+        "political_std": 0.6037576348142129,
+        "count": 165
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.4066985645933014,
+        "emotional_std": 0.7609161419276151,
+        "political_avg": 3.0861244019138754,
+        "political_std": 0.5209540100657705,
+        "count": 209
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.473913043478261,
+        "emotional_std": 0.8445651532489366,
+        "political_avg": 3.0608695652173914,
+        "political_std": 0.6168939880720681,
+        "count": 230
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 2.4148936170212765,
+        "emotional_std": 0.8326181176257288,
+        "political_avg": 2.984042553191489,
+        "political_std": 0.532133872322173,
+        "count": 188
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 2.427230046948357,
+        "emotional_std": 0.8245126225554704,
+        "political_avg": 2.9577464788732395,
+        "political_std": 0.5347355117245679,
+        "count": 213
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 2.5419847328244276,
+        "emotional_std": 0.8344463109864927,
+        "political_avg": 3.053435114503817,
+        "political_std": 0.5988832825702368,
+        "count": 131
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 2.6904761904761907,
+        "emotional_std": 0.9410936493860437,
+        "political_avg": 2.988095238095238,
+        "political_std": 0.692025537223017,
+        "count": 168
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 2.7911392405063293,
+        "emotional_std": 0.9778033190816356,
+        "political_avg": 2.9746835443037973,
+        "political_std": 0.797682687488307,
+        "count": 158
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 2.7989130434782608,
+        "emotional_std": 0.9219834363360973,
+        "political_avg": 3.2282608695652173,
+        "political_std": 0.8441798279089712,
+        "count": 184
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 2.8879310344827585,
+        "emotional_std": 0.9047402987654416,
+        "political_avg": 3.0344827586206895,
+        "political_std": 0.8210544849362406,
+        "count": 232
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 2.8098591549295775,
+        "emotional_std": 0.9888247812970112,
+        "political_avg": 2.9788732394366195,
+        "political_std": 0.8030819169786381,
+        "count": 142
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 2.8181818181818183,
+        "emotional_std": 1.02572239429351,
+        "political_avg": 2.9757575757575756,
+        "political_std": 0.8968203667069724,
+        "count": 165
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 2.609375,
+        "emotional_std": 0.9899842916116373,
+        "political_avg": 2.96875,
+        "political_std": 0.7310600651777102,
+        "count": 128
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 2.7278481012658227,
+        "emotional_std": 1.0384256467911266,
+        "political_avg": 2.8987341772151898,
+        "political_std": 0.7915949667023878,
+        "count": 158
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 2.8615384615384616,
+        "emotional_std": 1.017321655732552,
+        "political_avg": 2.8230769230769233,
+        "political_std": 0.9273232681483701,
+        "count": 130
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 2.7916666666666665,
+        "emotional_std": 0.9227126320792414,
+        "political_avg": 3.0902777777777777,
+        "political_std": 0.8763656231942839,
+        "count": 144
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.0635838150289016,
+        "emotional_std": 0.9031616882293896,
+        "political_avg": 3.2832369942196533,
+        "political_std": 1.10790339202718,
+        "count": 173
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 3.056410256410256,
+        "emotional_std": 0.9371471492117482,
+        "political_avg": 3.1076923076923078,
+        "political_std": 1.052092812579161,
+        "count": 195
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 2.8974358974358974,
+        "emotional_std": 0.9979300329697771,
+        "political_avg": 2.9551282051282053,
+        "political_std": 0.8750516940891953,
+        "count": 156
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 2.55,
+        "emotional_std": 1.0050505371763556,
+        "political_avg": 3.1375,
+        "political_std": 0.7419398112679382,
+        "count": 80
+      }
+    ],
+    "Defense and Security": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.568306010928962,
+        "emotional_std": 0.787596757925995,
+        "political_avg": 2.9344262295081966,
+        "political_std": 0.4984212148776383,
+        "count": 183
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.7672955974842766,
+        "emotional_std": 0.8508742232049765,
+        "political_avg": 2.9874213836477987,
+        "political_std": 0.5735457270861957,
+        "count": 159
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.50561797752809,
+        "emotional_std": 0.7383535739244173,
+        "political_avg": 3.056179775280899,
+        "political_std": 0.5284996472115889,
+        "count": 178
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.606986899563319,
+        "emotional_std": 0.7797571061327162,
+        "political_avg": 3.0087336244541483,
+        "political_std": 0.45874797552539437,
+        "count": 229
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.529850746268657,
+        "emotional_std": 0.8197771429004321,
+        "political_avg": 2.9477611940298507,
+        "political_std": 0.5793068736180506,
+        "count": 134
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.638709677419355,
+        "emotional_std": 0.7885863644056487,
+        "political_avg": 2.9612903225806453,
+        "political_std": 0.5081654164641224,
+        "count": 155
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.6490066225165565,
+        "emotional_std": 0.834255560338587,
+        "political_avg": 2.933774834437086,
+        "political_std": 0.5850227821453956,
+        "count": 151
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.778523489932886,
+        "emotional_std": 0.8040912075458871,
+        "political_avg": 2.959731543624161,
+        "political_std": 0.5560380435029614,
+        "count": 149
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.723926380368098,
+        "emotional_std": 0.7957320067996884,
+        "political_avg": 3.0552147239263805,
+        "political_std": 0.5905796874167577,
+        "count": 163
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.888111888111888,
+        "emotional_std": 0.8484027669677431,
+        "political_avg": 3.0,
+        "political_std": 0.7021094974994094,
+        "count": 143
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.75177304964539,
+        "emotional_std": 0.8379910361674889,
+        "political_avg": 2.8297872340425534,
+        "political_std": 0.6861637331519418,
+        "count": 141
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.8762886597938144,
+        "emotional_std": 0.8302285341003788,
+        "political_avg": 2.8711340206185567,
+        "political_std": 0.6266050913411345,
+        "count": 194
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.926701570680628,
+        "emotional_std": 0.8552433386855118,
+        "political_avg": 2.842931937172775,
+        "political_std": 0.6931543388368372,
+        "count": 191
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.8465608465608465,
+        "emotional_std": 0.833316446975145,
+        "political_avg": 2.798941798941799,
+        "political_std": 0.6618791284193604,
+        "count": 189
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.765765765765766,
+        "emotional_std": 0.8197001109602656,
+        "political_avg": 2.963963963963964,
+        "political_std": 0.5709311043920501,
+        "count": 111
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.7022900763358777,
+        "emotional_std": 0.7912468883258743,
+        "political_avg": 2.954198473282443,
+        "political_std": 0.5799548446593106,
+        "count": 131
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.6296296296296298,
+        "emotional_std": 0.7200822998230957,
+        "political_avg": 2.911111111111111,
+        "political_std": 0.5790711381899266,
+        "count": 135
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.827338129496403,
+        "emotional_std": 0.8246919280217928,
+        "political_avg": 3.0071942446043165,
+        "political_std": 0.6312674492086563,
+        "count": 139
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.847058823529412,
+        "emotional_std": 0.9231523347778027,
+        "political_avg": 2.8294117647058825,
+        "political_std": 0.6059514557492853,
+        "count": 170
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 2.854054054054054,
+        "emotional_std": 0.8940001077821265,
+        "political_avg": 2.864864864864865,
+        "political_std": 0.7133114053392628,
+        "count": 185
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 2.8866995073891624,
+        "emotional_std": 0.9291593365099006,
+        "political_avg": 2.9014778325123154,
+        "political_std": 0.7037015169808996,
+        "count": 203
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 3.0153061224489797,
+        "emotional_std": 0.8441475191064685,
+        "political_avg": 2.8214285714285716,
+        "political_std": 0.7187952884282609,
+        "count": 196
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 3.130952380952381,
+        "emotional_std": 0.858626697757577,
+        "political_avg": 2.7976190476190474,
+        "political_std": 0.7781409121463629,
+        "count": 168
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 3.081081081081081,
+        "emotional_std": 0.9605925022332056,
+        "political_avg": 2.7675675675675677,
+        "political_std": 0.7409064857872085,
+        "count": 185
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 2.9383561643835616,
+        "emotional_std": 1.0049711111972566,
+        "political_avg": 2.8219178082191783,
+        "political_std": 0.7582641838490504,
+        "count": 146
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 3.121212121212121,
+        "emotional_std": 0.9731533934484322,
+        "political_avg": 2.8181818181818183,
+        "political_std": 0.8363696707986149,
+        "count": 132
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 3.122950819672131,
+        "emotional_std": 0.9923498187890005,
+        "political_avg": 2.7868852459016393,
+        "political_std": 0.6950772380735507,
+        "count": 122
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 3.01840490797546,
+        "emotional_std": 1.1625450615880129,
+        "political_avg": 2.6932515337423313,
+        "political_std": 0.7480946030454022,
+        "count": 163
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 3.207920792079208,
+        "emotional_std": 1.1001296321912433,
+        "political_avg": 2.782178217821782,
+        "political_std": 0.6403351174250506,
+        "count": 202
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 3.1923076923076925,
+        "emotional_std": 0.9435970141739183,
+        "political_avg": 2.610576923076923,
+        "political_std": 0.7403378611442394,
+        "count": 208
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 3.2327586206896552,
+        "emotional_std": 0.9746373162329462,
+        "political_avg": 2.6336206896551726,
+        "political_std": 0.7725197951222993,
+        "count": 232
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 3.3034825870646767,
+        "emotional_std": 0.8845551486172434,
+        "political_avg": 2.736318407960199,
+        "political_std": 0.8397168440072241,
+        "count": 201
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.34375,
+        "emotional_std": 0.8618166785467682,
+        "political_avg": 2.8,
+        "political_std": 0.8745169376369084,
+        "count": 160
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 3.261437908496732,
+        "emotional_std": 1.0180686166906108,
+        "political_avg": 2.758169934640523,
+        "political_std": 0.794935811632891,
+        "count": 153
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 3.2594594594594595,
+        "emotional_std": 0.9427813440823414,
+        "political_avg": 2.8324324324324324,
+        "political_std": 0.8334234185542152,
+        "count": 185
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 3.276190476190476,
+        "emotional_std": 1.0259339364764801,
+        "political_avg": 2.8047619047619046,
+        "political_std": 0.8831090091187979,
+        "count": 210
+      }
+    ],
+    "Economy and Jobs": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.5546218487394956,
+        "emotional_std": 0.6959494500241903,
+        "political_avg": 2.9411764705882355,
+        "political_std": 0.4825060747665741,
+        "count": 238
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.640625,
+        "emotional_std": 0.7097050674206244,
+        "political_avg": 2.921875,
+        "political_std": 0.5004088642436428,
+        "count": 192
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.5123152709359604,
+        "emotional_std": 0.6701529743447162,
+        "political_avg": 2.9310344827586206,
+        "political_std": 0.4721683851694941,
+        "count": 203
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.63681592039801,
+        "emotional_std": 0.7158476171262105,
+        "political_avg": 2.9751243781094527,
+        "political_std": 0.5606943101661869,
+        "count": 201
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.585,
+        "emotional_std": 0.6670832032063166,
+        "political_avg": 2.855,
+        "political_std": 0.5150742738068835,
+        "count": 200
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.5523012552301254,
+        "emotional_std": 0.719173879202957,
+        "political_avg": 2.924686192468619,
+        "political_std": 0.5370490152756553,
+        "count": 239
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.6470588235294117,
+        "emotional_std": 0.7521804311928879,
+        "political_avg": 2.8552036199095023,
+        "political_std": 0.622920233610518,
+        "count": 221
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.6037735849056602,
+        "emotional_std": 0.7464588801830654,
+        "political_avg": 2.9748427672955975,
+        "political_std": 0.605352554820525,
+        "count": 159
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.6513761467889907,
+        "emotional_std": 0.7103727429303918,
+        "political_avg": 2.830275229357798,
+        "political_std": 0.5544964232046239,
+        "count": 218
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.6857142857142855,
+        "emotional_std": 0.6936256804392845,
+        "political_avg": 2.9771428571428573,
+        "political_std": 0.651737604225738,
+        "count": 175
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.668539325842697,
+        "emotional_std": 0.694790218409329,
+        "political_avg": 2.837078651685393,
+        "political_std": 0.5638611886862283,
+        "count": 178
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.909090909090909,
+        "emotional_std": 0.7637626158259733,
+        "political_avg": 2.6942148760330578,
+        "political_std": 0.6303831534155976,
+        "count": 121
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.85,
+        "emotional_std": 0.8087276451565163,
+        "political_avg": 2.72,
+        "political_std": 0.569954809479212,
+        "count": 100
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.875,
+        "emotional_std": 0.7633329321824984,
+        "political_avg": 2.734375,
+        "political_std": 0.7683131640875589,
+        "count": 128
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.829113924050633,
+        "emotional_std": 0.767102563955135,
+        "political_avg": 2.7088607594936707,
+        "political_std": 0.661052986191187,
+        "count": 158
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.6964285714285716,
+        "emotional_std": 0.7719555118222018,
+        "political_avg": 2.7976190476190474,
+        "political_std": 0.6339640879298419,
+        "count": 168
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.83030303030303,
+        "emotional_std": 0.6863143205828527,
+        "political_avg": 2.7696969696969695,
+        "political_std": 0.6863143205828527,
+        "count": 165
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.827338129496403,
+        "emotional_std": 0.7887621705251516,
+        "political_avg": 2.920863309352518,
+        "political_std": 0.7229643906623482,
+        "count": 139
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 3.0064516129032257,
+        "emotional_std": 0.8256974556263941,
+        "political_avg": 2.8838709677419354,
+        "political_std": 0.7891705222020738,
+        "count": 155
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 3.0,
+        "emotional_std": 0.7874992309581578,
+        "political_avg": 2.707692307692308,
+        "political_std": 0.6982386905153694,
+        "count": 130
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 2.9603174603174605,
+        "emotional_std": 0.7939853263207692,
+        "political_avg": 2.7777777777777777,
+        "political_std": 0.679869268479038,
+        "count": 126
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 2.9307692307692306,
+        "emotional_std": 0.8462270256207116,
+        "political_avg": 2.623076923076923,
+        "political_std": 0.6962288741497019,
+        "count": 130
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 3.055944055944056,
+        "emotional_std": 0.8288480362954099,
+        "political_avg": 2.6923076923076925,
+        "political_std": 0.8242005877722204,
+        "count": 143
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 3.1675675675675676,
+        "emotional_std": 0.7795114321518731,
+        "political_avg": 2.7135135135135133,
+        "political_std": 0.8463997161128763,
+        "count": 185
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 3.1879194630872485,
+        "emotional_std": 0.8000770867993481,
+        "political_avg": 2.9261744966442955,
+        "political_std": 1.0403609023713942,
+        "count": 149
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 3.343283582089552,
+        "emotional_std": 0.832646632862433,
+        "political_avg": 2.537313432835821,
+        "political_std": 0.9550555344866289,
+        "count": 134
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 3.2777777777777777,
+        "emotional_std": 0.7212830381922207,
+        "political_avg": 2.6018518518518516,
+        "political_std": 0.8958869130780827,
+        "count": 108
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 3.3515625,
+        "emotional_std": 0.8379750973504687,
+        "political_avg": 2.5859375,
+        "political_std": 0.9266597686161052,
+        "count": 128
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 3.1703703703703705,
+        "emotional_std": 0.9104758534483759,
+        "political_avg": 2.6592592592592594,
+        "political_std": 0.873857146723676,
+        "count": 135
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 3.1544117647058822,
+        "emotional_std": 0.9179580920845621,
+        "political_avg": 2.6176470588235294,
+        "political_std": 0.9194106286852647,
+        "count": 136
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 3.3008130081300813,
+        "emotional_std": 0.778133110000199,
+        "political_avg": 2.4390243902439024,
+        "political_std": 0.8791421066372235,
+        "count": 123
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 3.2189349112426036,
+        "emotional_std": 0.8412696197528997,
+        "political_avg": 2.5857988165680474,
+        "political_std": 0.948074229688051,
+        "count": 169
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.3976377952755907,
+        "emotional_std": 0.702447957582144,
+        "political_avg": 2.822834645669291,
+        "political_std": 1.126447350136226,
+        "count": 254
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 3.329710144927536,
+        "emotional_std": 0.7555765452146621,
+        "political_avg": 2.8043478260869565,
+        "political_std": 1.196106992187109,
+        "count": 276
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 3.288659793814433,
+        "emotional_std": 0.8692652234719741,
+        "political_avg": 2.783505154639175,
+        "political_std": 1.1264765014253282,
+        "count": 194
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 3.2550335570469797,
+        "emotional_std": 0.7636537564087057,
+        "political_avg": 2.7114093959731544,
+        "political_std": 0.9676895164159779,
+        "count": 149
+      }
+    ],
+    "Education and Innovation": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.347826086956522,
+        "emotional_std": 0.7140598174697278,
+        "political_avg": 2.869565217391304,
+        "political_std": 0.34435022157509093,
+        "count": 23
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.526315789473684,
+        "emotional_std": 0.5129891760425771,
+        "political_avg": 2.736842105263158,
+        "political_std": 0.4524139283588641,
+        "count": 19
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.28,
+        "emotional_std": 0.7371114795831993,
+        "political_avg": 3.04,
+        "political_std": 0.4546060565661952,
+        "count": 25
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.55,
+        "emotional_std": 0.7591546545162482,
+        "political_avg": 3.0,
+        "political_std": 0.7947194142390263,
+        "count": 20
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.272727272727273,
+        "emotional_std": 0.8393720596645176,
+        "political_avg": 2.757575757575758,
+        "political_std": 0.43519413988924455,
+        "count": 33
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.6666666666666665,
+        "emotional_std": 0.7337993857053428,
+        "political_avg": 2.814814814814815,
+        "political_std": 0.7357380928771742,
+        "count": 27
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.658536585365854,
+        "emotional_std": 0.8249168472507085,
+        "political_avg": 2.8780487804878048,
+        "political_std": 0.6401219396028974,
+        "count": 41
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.730769230769231,
+        "emotional_std": 0.7949690983113651,
+        "political_avg": 2.6538461538461537,
+        "political_std": 0.48038446141526137,
+        "count": 52
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.574074074074074,
+        "emotional_std": 0.837828546693646,
+        "political_avg": 2.6666666666666665,
+        "political_std": 0.5494422557947561,
+        "count": 54
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.8048780487804876,
+        "emotional_std": 0.8949656782196775,
+        "political_avg": 2.682926829268293,
+        "political_std": 0.6261394310954537,
+        "count": 82
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.6511627906976742,
+        "emotional_std": 0.7633893750199153,
+        "political_avg": 2.6744186046511627,
+        "political_std": 0.562386939542022,
+        "count": 86
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.6615384615384614,
+        "emotional_std": 0.7761467942044508,
+        "political_avg": 2.646153846153846,
+        "political_std": 0.623266827660143,
+        "count": 65
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.735294117647059,
+        "emotional_std": 0.8572369194594248,
+        "political_avg": 2.6176470588235294,
+        "political_std": 0.6471386334370269,
+        "count": 68
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.9305555555555554,
+        "emotional_std": 0.8446415839400839,
+        "political_avg": 2.6805555555555554,
+        "political_std": 0.6884640772055605,
+        "count": 72
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.7857142857142856,
+        "emotional_std": 0.7796102922564632,
+        "political_avg": 2.5892857142857144,
+        "political_std": 0.5317821055584776,
+        "count": 56
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.682926829268293,
+        "emotional_std": 0.8197263076858001,
+        "political_avg": 2.4878048780487805,
+        "political_std": 0.5532608435228448,
+        "count": 41
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.7777777777777777,
+        "emotional_std": 0.7351217861035275,
+        "political_avg": 2.6444444444444444,
+        "political_std": 0.6451058953083719,
+        "count": 45
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.7169811320754715,
+        "emotional_std": 0.8852934865509081,
+        "political_avg": 2.5849056603773586,
+        "political_std": 0.6023659207386686,
+        "count": 53
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.9743589743589745,
+        "emotional_std": 0.9028370339388787,
+        "political_avg": 2.4871794871794872,
+        "political_std": 0.6436652804465701,
+        "count": 39
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 2.888888888888889,
+        "emotional_std": 0.964788894039983,
+        "political_avg": 2.611111111111111,
+        "political_std": 0.6563669781935202,
+        "count": 54
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 3.022222222222222,
+        "emotional_std": 0.8115330298797817,
+        "political_avg": 2.4,
+        "political_std": 0.49543369430686224,
+        "count": 45
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 2.95,
+        "emotional_std": 0.8718769933456345,
+        "political_avg": 2.433333333333333,
+        "political_std": 0.5634839166238779,
+        "count": 60
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 2.727272727272727,
+        "emotional_std": 0.8914105645620286,
+        "political_avg": 2.618181818181818,
+        "political_std": 0.5607834827080006,
+        "count": 55
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 2.983050847457627,
+        "emotional_std": 0.7541042968140463,
+        "political_avg": 2.694915254237288,
+        "political_std": 0.6760493067137365,
+        "count": 59
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 2.982456140350877,
+        "emotional_std": 0.834335237312048,
+        "political_avg": 2.56140350877193,
+        "political_std": 0.5981382980205309,
+        "count": 57
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 3.1,
+        "emotional_std": 0.7354021529276429,
+        "political_avg": 2.6,
+        "political_std": 0.8329931278350429,
+        "count": 50
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 3.0,
+        "emotional_std": 0.90267093384844,
+        "political_avg": 2.4878048780487805,
+        "political_std": 0.6525146503066424,
+        "count": 82
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 3.1363636363636362,
+        "emotional_std": 0.8601231959584077,
+        "political_avg": 2.465909090909091,
+        "political_std": 0.6771961062743841,
+        "count": 88
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 3.0454545454545454,
+        "emotional_std": 0.8697878048675682,
+        "political_avg": 2.5568181818181817,
+        "political_std": 0.6584194684600623,
+        "count": 88
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 2.9076923076923076,
+        "emotional_std": 1.0416794871005928,
+        "political_avg": 2.5538461538461537,
+        "political_std": 0.7295282986022807,
+        "count": 65
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 3.1666666666666665,
+        "emotional_std": 0.7691224192380871,
+        "political_avg": 2.361111111111111,
+        "political_std": 0.6777251833155947,
+        "count": 72
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 3.1486486486486487,
+        "emotional_std": 0.7527562583268264,
+        "political_avg": 2.5405405405405403,
+        "political_std": 0.6862482714839959,
+        "count": 74
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.0821917808219177,
+        "emotional_std": 0.7773427789866051,
+        "political_avg": 2.547945205479452,
+        "political_std": 0.6675222819920396,
+        "count": 73
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 3.018867924528302,
+        "emotional_std": 1.0468003637042638,
+        "political_avg": 2.3773584905660377,
+        "political_std": 0.7652655420063634,
+        "count": 53
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 3.1621621621621623,
+        "emotional_std": 0.8917740826235626,
+        "political_avg": 2.5,
+        "political_std": 0.7448452997421312,
+        "count": 74
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 3.037037037037037,
+        "emotional_std": 0.9675283515799994,
+        "political_avg": 2.45679012345679,
+        "political_std": 0.7079792143143995,
+        "count": 81
+      }
+    ],
+    "Environment and Energy": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.263157894736842,
+        "emotional_std": 0.5619514869490164,
+        "political_avg": 3.0526315789473686,
+        "political_std": 0.40465131911125596,
+        "count": 19
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.4411764705882355,
+        "emotional_std": 0.6125543375075284,
+        "political_avg": 2.911764705882353,
+        "political_std": 0.2879022412812366,
+        "count": 34
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.08,
+        "emotional_std": 0.5715476066494082,
+        "political_avg": 3.12,
+        "political_std": 0.33166247903554,
+        "count": 25
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.3793103448275863,
+        "emotional_std": 0.7277064313624729,
+        "political_avg": 2.9310344827586206,
+        "political_std": 0.3713906763541038,
+        "count": 29
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.4074074074074074,
+        "emotional_std": 0.7401814800036013,
+        "political_avg": 2.9074074074074074,
+        "political_std": 0.4863618700343813,
+        "count": 54
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.40625,
+        "emotional_std": 0.7064049380546094,
+        "political_avg": 2.96875,
+        "political_std": 0.5029673851018478,
+        "count": 64
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.242424242424242,
+        "emotional_std": 0.6139168831315355,
+        "political_avg": 2.878787878787879,
+        "political_std": 0.4846116845975599,
+        "count": 33
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.3225806451612905,
+        "emotional_std": 0.8321496970374802,
+        "political_avg": 2.935483870967742,
+        "political_std": 0.44237871188743105,
+        "count": 31
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.5918367346938775,
+        "emotional_std": 0.8878430639040038,
+        "political_avg": 2.816326530612245,
+        "political_std": 0.52731510929405,
+        "count": 49
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.5945945945945947,
+        "emotional_std": 0.7249313936680666,
+        "political_avg": 2.72972972972973,
+        "political_std": 0.5081911631052416,
+        "count": 37
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.6486486486486487,
+        "emotional_std": 0.8238195668219338,
+        "political_avg": 2.6486486486486487,
+        "political_std": 0.5876609101729886,
+        "count": 37
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.6875,
+        "emotional_std": 0.8206016675429032,
+        "political_avg": 2.5625,
+        "political_std": 0.6690146823211658,
+        "count": 32
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.685185185185185,
+        "emotional_std": 0.9280548551222619,
+        "political_avg": 2.7037037037037037,
+        "political_std": 0.6624605258337365,
+        "count": 54
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.64,
+        "emotional_std": 0.7494215456345144,
+        "political_avg": 2.7,
+        "political_std": 0.5439837932759934,
+        "count": 50
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.7196261682242993,
+        "emotional_std": 0.8444535189836433,
+        "political_avg": 2.7196261682242993,
+        "political_std": 0.6263761080554766,
+        "count": 107
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.6293103448275863,
+        "emotional_std": 0.8291448964869257,
+        "political_avg": 2.7672413793103448,
+        "political_std": 0.6373553867784224,
+        "count": 116
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.6,
+        "emotional_std": 0.8149970450782251,
+        "political_avg": 2.7818181818181817,
+        "political_std": 0.5312581255817777,
+        "count": 110
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.857142857142857,
+        "emotional_std": 0.825420305855557,
+        "political_avg": 2.9238095238095236,
+        "political_std": 0.6308607992143338,
+        "count": 105
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.511904761904762,
+        "emotional_std": 0.8983793657449665,
+        "political_avg": 2.8333333333333335,
+        "political_std": 0.5773502691896258,
+        "count": 84
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 2.8533333333333335,
+        "emotional_std": 0.8333153151205217,
+        "political_avg": 2.506666666666667,
+        "political_std": 0.5782857549814057,
+        "count": 75
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 2.5185185185185186,
+        "emotional_std": 1.0045320085763159,
+        "political_avg": 2.6666666666666665,
+        "political_std": 0.549442255794756,
+        "count": 54
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 2.7288135593220337,
+        "emotional_std": 1.1115461191445855,
+        "political_avg": 2.711864406779661,
+        "political_std": 0.7204128954413409,
+        "count": 59
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 2.6705882352941175,
+        "emotional_std": 0.9806246222994526,
+        "political_avg": 2.5294117647058822,
+        "political_std": 0.609219549410353,
+        "count": 85
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 2.7011494252873565,
+        "emotional_std": 0.8506487610181765,
+        "political_avg": 2.7471264367816093,
+        "political_std": 0.6141432073846382,
+        "count": 87
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 2.6769230769230767,
+        "emotional_std": 0.9203887138678878,
+        "political_avg": 2.753846153846154,
+        "political_std": 0.6381312862268536,
+        "count": 65
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 2.75,
+        "emotional_std": 1.073265453733239,
+        "political_avg": 2.6875,
+        "political_std": 0.7220531555873646,
+        "count": 80
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 2.796875,
+        "emotional_std": 1.0416666666666667,
+        "political_avg": 2.578125,
+        "political_std": 0.7726410591919164,
+        "count": 64
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 2.824324324324324,
+        "emotional_std": 0.9842333517175177,
+        "political_avg": 2.608108108108108,
+        "political_std": 0.7552114385519193,
+        "count": 74
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 2.8333333333333335,
+        "emotional_std": 1.020908184474373,
+        "political_avg": 2.638888888888889,
+        "political_std": 0.7562985392278532,
+        "count": 72
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 2.7027027027027026,
+        "emotional_std": 0.9323667002999473,
+        "political_avg": 2.6486486486486487,
+        "political_std": 0.6709721516470114,
+        "count": 74
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 2.84,
+        "emotional_std": 1.089156841902316,
+        "political_avg": 2.49,
+        "political_std": 0.7976607212735414,
+        "count": 100
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 2.9411764705882355,
+        "emotional_std": 0.9854373342738026,
+        "political_avg": 2.7478991596638656,
+        "political_std": 0.8657169791855391,
+        "count": 119
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.087912087912088,
+        "emotional_std": 1.0181503015910947,
+        "political_avg": 2.67032967032967,
+        "political_std": 0.9074377242782137,
+        "count": 91
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 3.020618556701031,
+        "emotional_std": 0.8895151001540457,
+        "political_avg": 2.9690721649484537,
+        "political_std": 0.951463874855288,
+        "count": 97
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 3.02803738317757,
+        "emotional_std": 0.8844350496672325,
+        "political_avg": 2.8130841121495327,
+        "political_std": 0.8915837204627793,
+        "count": 107
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 3.040650406504065,
+        "emotional_std": 0.793398727448593,
+        "political_avg": 2.772357723577236,
+        "political_std": 0.9392446226350586,
+        "count": 123
+      }
+    ],
+    "Health and Social Services": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.8875,
+        "emotional_std": 0.7793822610636962,
+        "political_avg": 2.65,
+        "political_std": 0.5534700659692904,
+        "count": 80
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.7761194029850746,
+        "emotional_std": 0.8672648667871163,
+        "political_avg": 2.5522388059701493,
+        "political_std": 0.5582326573064327,
+        "count": 67
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.533333333333333,
+        "emotional_std": 0.8686457589520913,
+        "political_avg": 2.6222222222222222,
+        "political_std": 0.5346574472113765,
+        "count": 45
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.8048780487804876,
+        "emotional_std": 0.6789518464192418,
+        "political_avg": 2.682926829268293,
+        "political_std": 0.5214894241614062,
+        "count": 41
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.8,
+        "emotional_std": 0.832916562447884,
+        "political_avg": 2.5846153846153848,
+        "political_std": 0.5559987548408857,
+        "count": 65
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.6491228070175437,
+        "emotional_std": 0.7674453928962596,
+        "political_avg": 2.5789473684210527,
+        "political_std": 0.5327612846915262,
+        "count": 57
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.701492537313433,
+        "emotional_std": 0.8706480584082934,
+        "political_avg": 2.701492537313433,
+        "political_std": 0.5226658174796266,
+        "count": 67
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.814814814814815,
+        "emotional_std": 0.8483963579328584,
+        "political_avg": 2.611111111111111,
+        "political_std": 0.5635690400413083,
+        "count": 54
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.8360655737704916,
+        "emotional_std": 0.8201692481606558,
+        "political_avg": 2.6885245901639343,
+        "political_std": 0.5927614361769658,
+        "count": 61
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.9056603773584904,
+        "emotional_std": 0.814865513759933,
+        "political_avg": 2.69811320754717,
+        "political_std": 0.6957261193109232,
+        "count": 53
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.7532467532467533,
+        "emotional_std": 0.7806179090250465,
+        "political_avg": 2.6103896103896105,
+        "political_std": 0.631536225486046,
+        "count": 77
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.941860465116279,
+        "emotional_std": 0.8022710582397902,
+        "political_avg": 2.4767441860465116,
+        "political_std": 0.6273519358672519,
+        "count": 86
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.764705882352941,
+        "emotional_std": 0.9323001095641037,
+        "political_avg": 2.5294117647058822,
+        "political_std": 0.5851543548193106,
+        "count": 68
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 3.0403225806451615,
+        "emotional_std": 0.8104921073467248,
+        "political_avg": 2.379032258064516,
+        "political_std": 0.5498372550864833,
+        "count": 124
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.7422680412371134,
+        "emotional_std": 0.8450634901624245,
+        "political_avg": 2.463917525773196,
+        "political_std": 0.6301761603925904,
+        "count": 97
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.879120879120879,
+        "emotional_std": 0.87983792491275,
+        "political_avg": 2.5604395604395602,
+        "political_std": 0.6701374852104971,
+        "count": 91
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.987012987012987,
+        "emotional_std": 0.786288859695818,
+        "political_avg": 2.5454545454545454,
+        "political_std": 0.6985973643751898,
+        "count": 77
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 3.021276595744681,
+        "emotional_std": 0.732923493553959,
+        "political_avg": 2.6808510638297873,
+        "political_std": 0.6754172896912766,
+        "count": 94
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 3.106382978723404,
+        "emotional_std": 0.9328887394203386,
+        "political_avg": 2.382978723404255,
+        "political_std": 0.7049194719313903,
+        "count": 94
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 3.1616161616161618,
+        "emotional_std": 0.9335806722361338,
+        "political_avg": 2.303030303030303,
+        "political_std": 0.543130484839649,
+        "count": 99
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 3.106382978723404,
+        "emotional_std": 0.9328887394203387,
+        "political_avg": 2.4574468085106385,
+        "political_std": 0.6666380684783488,
+        "count": 94
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 3.152542372881356,
+        "emotional_std": 0.9302799748046426,
+        "political_avg": 2.3728813559322033,
+        "political_std": 0.6510558179687563,
+        "count": 118
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 3.183006535947712,
+        "emotional_std": 0.9136242785332608,
+        "political_avg": 2.496732026143791,
+        "political_std": 0.787435736780903,
+        "count": 153
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 3.3065693430656933,
+        "emotional_std": 0.9039296871700582,
+        "political_avg": 2.4014598540145986,
+        "political_std": 0.7994469965011343,
+        "count": 137
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 3.1788079470198674,
+        "emotional_std": 0.9098431565585487,
+        "political_avg": 2.7086092715231787,
+        "political_std": 1.0493769832525068,
+        "count": 151
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 3.3333333333333335,
+        "emotional_std": 0.8271146677743477,
+        "political_avg": 2.359375,
+        "political_std": 0.9328308685497987,
+        "count": 192
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 3.318681318681319,
+        "emotional_std": 0.8459081997542708,
+        "political_avg": 2.489010989010989,
+        "political_std": 0.9268196138211887,
+        "count": 182
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 3.3710407239819005,
+        "emotional_std": 0.8622767448433568,
+        "political_avg": 2.4072398190045248,
+        "political_std": 0.8072073527955751,
+        "count": 221
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 3.3559322033898304,
+        "emotional_std": 0.8613423429398674,
+        "political_avg": 2.468926553672316,
+        "political_std": 0.8463796431016081,
+        "count": 177
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 3.254335260115607,
+        "emotional_std": 0.9906811391690616,
+        "political_avg": 2.3815028901734103,
+        "political_std": 0.809898103153476,
+        "count": 173
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 3.4393939393939394,
+        "emotional_std": 0.8572554697817313,
+        "political_avg": 2.272727272727273,
+        "political_std": 0.8587345407846866,
+        "count": 198
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 3.4464285714285716,
+        "emotional_std": 0.8738306374185789,
+        "political_avg": 2.2976190476190474,
+        "political_std": 0.7933822376158651,
+        "count": 168
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.324,
+        "emotional_std": 0.7934369342768831,
+        "political_avg": 2.856,
+        "political_std": 1.1630454414145566,
+        "count": 250
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 3.386740331491713,
+        "emotional_std": 0.8785346916427885,
+        "political_avg": 2.5359116022099446,
+        "political_std": 1.3229104584329614,
+        "count": 181
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 3.424107142857143,
+        "emotional_std": 0.9993491636063787,
+        "political_avg": 2.6473214285714284,
+        "political_std": 1.2074848648786263,
+        "count": 224
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 3.452830188679245,
+        "emotional_std": 0.9552258408598513,
+        "political_avg": 2.3537735849056602,
+        "political_std": 0.9939794621832303,
+        "count": 212
+      }
+    ],
+    "Immigration and Border Policy": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.411764705882353,
+        "emotional_std": 0.6183469424008422,
+        "political_avg": 2.8823529411764706,
+        "political_std": 0.48507125007266594,
+        "count": 17
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.761904761904762,
+        "emotional_std": 0.768424485864545,
+        "political_avg": 3.0952380952380953,
+        "political_std": 0.5389584311207967,
+        "count": 21
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.4375,
+        "emotional_std": 0.51234753829798,
+        "political_avg": 2.9375,
+        "political_std": 0.4425306015783918,
+        "count": 16
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.55,
+        "emotional_std": 0.6863327411532597,
+        "political_avg": 3.0,
+        "political_std": 0.6488856845230502,
+        "count": 20
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.3846153846153846,
+        "emotional_std": 0.6504436355879909,
+        "political_avg": 2.8461538461538463,
+        "political_std": 0.6887372317211946,
+        "count": 13
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.125,
+        "emotional_std": 0.8345229603962802,
+        "political_avg": 2.875,
+        "political_std": 0.3535533905932738,
+        "count": 8
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.2222222222222223,
+        "emotional_std": 0.97182531580755,
+        "political_avg": 2.5555555555555554,
+        "political_std": 0.5270462766947298,
+        "count": 9
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.5,
+        "emotional_std": 0.5345224838248488,
+        "political_avg": 3.125,
+        "political_std": 0.3535533905932738,
+        "count": 8
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.5,
+        "emotional_std": 0.6504436355879909,
+        "political_avg": 2.642857142857143,
+        "political_std": 0.4972451580988468,
+        "count": 14
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.5,
+        "emotional_std": 0.9045340337332909,
+        "political_avg": 2.8333333333333335,
+        "political_std": 0.7177405625652734,
+        "count": 12
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.5454545454545454,
+        "emotional_std": 0.9341987329938276,
+        "political_avg": 2.8181818181818183,
+        "political_std": 0.6030226891555273,
+        "count": 11
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.1666666666666665,
+        "emotional_std": 1.1690451944500122,
+        "political_avg": 2.6666666666666665,
+        "political_std": 1.0327955589886446,
+        "count": 6
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 3.0,
+        "emotional_std": 1.0,
+        "political_avg": 2.0,
+        "political_std": 0.0,
+        "count": 3
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 3.2,
+        "emotional_std": 1.1352924243950935,
+        "political_avg": 2.3,
+        "political_std": 0.8232726023485646,
+        "count": 10
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.9,
+        "emotional_std": 0.8755950357709131,
+        "political_avg": 2.5,
+        "political_std": 1.0801234497346435,
+        "count": 10
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.7142857142857144,
+        "emotional_std": 1.2535663410560176,
+        "political_avg": 2.5714285714285716,
+        "political_std": 0.5345224838248487,
+        "count": 7
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.7142857142857144,
+        "emotional_std": 0.7559289460184545,
+        "political_avg": 2.7142857142857144,
+        "political_std": 1.2535663410560174,
+        "count": 7
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.8,
+        "emotional_std": 1.0563093645728086,
+        "political_avg": 2.75,
+        "political_std": 0.7863975156570492,
+        "count": 20
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.9166666666666665,
+        "emotional_std": 0.90033663737852,
+        "political_avg": 2.75,
+        "political_std": 0.9653072991634227,
+        "count": 12
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 2.7142857142857144,
+        "emotional_std": 0.7262730392025629,
+        "political_avg": 2.642857142857143,
+        "political_std": 0.7449463436684921,
+        "count": 14
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 3.2857142857142856,
+        "emotional_std": 0.9138735334633754,
+        "political_avg": 2.5714285714285716,
+        "political_std": 1.1578684470436789,
+        "count": 14
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 3.090909090909091,
+        "emotional_std": 0.7006490497453707,
+        "political_avg": 2.6363636363636362,
+        "political_std": 0.8090398349558905,
+        "count": 11
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 2.8,
+        "emotional_std": 0.8618916073713346,
+        "political_avg": 3.0,
+        "political_std": 0.8451542547285166,
+        "count": 15
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 3.3,
+        "emotional_std": 1.2516655570345725,
+        "political_avg": 2.4,
+        "political_std": 0.6992058987801011,
+        "count": 10
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 3.0,
+        "emotional_std": 1.0327955589886444,
+        "political_avg": 2.6875,
+        "political_std": 0.9464847243000456,
+        "count": 16
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 2.8461538461538463,
+        "emotional_std": 0.6887372317211945,
+        "political_avg": 3.1538461538461537,
+        "political_std": 0.898717034272917,
+        "count": 13
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 3.142857142857143,
+        "emotional_std": 0.8644378215075665,
+        "political_avg": 2.4285714285714284,
+        "political_std": 0.5135525910130955,
+        "count": 14
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 3.7857142857142856,
+        "emotional_std": 0.8017837257372732,
+        "political_avg": 2.142857142857143,
+        "political_std": 0.8644378215075665,
+        "count": 14
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 3.111111111111111,
+        "emotional_std": 1.078609610939221,
+        "political_avg": 2.6666666666666665,
+        "political_std": 0.8401680504168059,
+        "count": 18
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 3.090909090909091,
+        "emotional_std": 0.8312094145936334,
+        "political_avg": 2.6363636363636362,
+        "political_std": 0.8090398349558905,
+        "count": 11
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 3.122448979591837,
+        "emotional_std": 0.8324825589070042,
+        "political_avg": 2.7142857142857144,
+        "political_std": 0.9574271077563381,
+        "count": 49
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 3.3529411764705883,
+        "emotional_std": 0.6458423178030692,
+        "political_avg": 2.9411764705882355,
+        "political_std": 1.0427578954486505,
+        "count": 34
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.4,
+        "emotional_std": 0.6324555320336759,
+        "political_avg": 3.3333333333333335,
+        "political_std": 1.2909944487358056,
+        "count": 15
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 3.0588235294117645,
+        "emotional_std": 0.9663454503498036,
+        "political_avg": 2.588235294117647,
+        "political_std": 0.7122871199007256,
+        "count": 17
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 3.1315789473684212,
+        "emotional_std": 0.8752158847679886,
+        "political_avg": 3.0789473684210527,
+        "political_std": 1.194165522217229,
+        "count": 38
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 3.5172413793103448,
+        "emotional_std": 0.8709883407113854,
+        "political_avg": 2.896551724137931,
+        "political_std": 1.496300857500802,
+        "count": 29
+      }
+    ],
+    "Infrastructure and Transportation": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.3,
+        "emotional_std": 0.720169471580551,
+        "political_avg": 2.9833333333333334,
+        "political_std": 0.3902049294994231,
+        "count": 60
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.4,
+        "emotional_std": 0.6536610186271836,
+        "political_avg": 2.9555555555555557,
+        "political_std": 0.2084090771399927,
+        "count": 45
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.2131147540983607,
+        "emotional_std": 0.6859240506635472,
+        "political_avg": 3.0,
+        "political_std": 0.31622776601683794,
+        "count": 61
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.3653846153846154,
+        "emotional_std": 0.6271268487830473,
+        "political_avg": 2.980769230769231,
+        "political_std": 0.3125094267054817,
+        "count": 52
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.155844155844156,
+        "emotional_std": 0.6502010835712585,
+        "political_avg": 2.935064935064935,
+        "political_std": 0.37478633694351127,
+        "count": 77
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.3095238095238093,
+        "emotional_std": 0.7600917902113917,
+        "political_avg": 2.9285714285714284,
+        "political_std": 0.46011298470257334,
+        "count": 84
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.2318840579710146,
+        "emotional_std": 0.7101144799221146,
+        "political_avg": 2.8840579710144927,
+        "political_std": 0.32250088390476084,
+        "count": 69
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.0576923076923075,
+        "emotional_std": 0.7252710524676353,
+        "political_avg": 3.019230769230769,
+        "political_std": 0.36997003669797185,
+        "count": 52
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.2941176470588234,
+        "emotional_std": 0.7599605956573483,
+        "political_avg": 2.8529411764705883,
+        "political_std": 0.43570583217638176,
+        "count": 34
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.2972972972972974,
+        "emotional_std": 0.9388191419977446,
+        "political_avg": 3.027027027027027,
+        "political_std": 0.4992486847746813,
+        "count": 37
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.414285714285714,
+        "emotional_std": 0.7892916865517,
+        "political_avg": 2.914285714285714,
+        "political_std": 0.37077502623938385,
+        "count": 70
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.264705882352941,
+        "emotional_std": 0.7096231833787505,
+        "political_avg": 2.9411764705882355,
+        "political_std": 0.4887322171042652,
+        "count": 34
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.4186046511627906,
+        "emotional_std": 0.8791922196115425,
+        "political_avg": 2.86046511627907,
+        "political_std": 0.5155392622264671,
+        "count": 43
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.5172413793103448,
+        "emotional_std": 0.8216666697344186,
+        "political_avg": 2.7413793103448274,
+        "political_std": 0.5150487909977927,
+        "count": 58
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.4347826086956523,
+        "emotional_std": 0.8602886831508872,
+        "political_avg": 2.782608695652174,
+        "political_std": 0.5542980938191959,
+        "count": 46
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.395348837209302,
+        "emotional_std": 0.8490761052804039,
+        "political_avg": 2.9069767441860463,
+        "political_std": 0.4787858398059315,
+        "count": 43
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.2745098039215685,
+        "emotional_std": 0.8019583872633048,
+        "political_avg": 2.803921568627451,
+        "political_std": 0.4009791936316524,
+        "count": 51
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.564516129032258,
+        "emotional_std": 0.7600898942076346,
+        "political_avg": 2.9193548387096775,
+        "political_std": 0.41679444541680427,
+        "count": 62
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.5,
+        "emotional_std": 0.8032193289024988,
+        "political_avg": 2.96875,
+        "political_std": 0.47412908273673127,
+        "count": 32
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 2.4545454545454546,
+        "emotional_std": 0.8748300952529318,
+        "political_avg": 2.8181818181818183,
+        "political_std": 0.5401432743921153,
+        "count": 44
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 2.3,
+        "emotional_std": 0.6868732574462859,
+        "political_avg": 2.925,
+        "political_std": 0.4167948520770725,
+        "count": 40
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 2.4516129032258065,
+        "emotional_std": 1.0275767506588613,
+        "political_avg": 2.7096774193548385,
+        "political_std": 0.5287436926083546,
+        "count": 31
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 2.710526315789474,
+        "emotional_std": 0.835298772792887,
+        "political_avg": 2.710526315789474,
+        "political_std": 0.6110644119116894,
+        "count": 38
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 2.6923076923076925,
+        "emotional_std": 0.7883771061734743,
+        "political_avg": 2.8461538461538463,
+        "political_std": 0.7316998123442532,
+        "count": 26
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 2.5217391304347827,
+        "emotional_std": 0.9472239447886797,
+        "political_avg": 3.1739130434782608,
+        "political_std": 0.4910261901035311,
+        "count": 23
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 2.6206896551724137,
+        "emotional_std": 0.820008410385801,
+        "political_avg": 2.8620689655172415,
+        "political_std": 0.5157614295551275,
+        "count": 29
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 2.2195121951219514,
+        "emotional_std": 0.9357402182751156,
+        "political_avg": 2.926829268292683,
+        "political_std": 0.5191456396060274,
+        "count": 41
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 2.1515151515151514,
+        "emotional_std": 0.8337120351630757,
+        "political_avg": 2.9696969696969697,
+        "political_std": 0.3940850546557562,
+        "count": 33
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 2.878787878787879,
+        "emotional_std": 1.1661254155743646,
+        "political_avg": 2.515151515151515,
+        "political_std": 0.6671399834935375,
+        "count": 33
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 2.4782608695652173,
+        "emotional_std": 0.730477130336511,
+        "political_avg": 3.0,
+        "political_std": 0.30151134457776363,
+        "count": 23
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 2.4516129032258065,
+        "emotional_std": 0.9605106168915003,
+        "political_avg": 2.774193548387097,
+        "political_std": 0.42502371850324144,
+        "count": 31
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 2.78125,
+        "emotional_std": 0.7924797748513126,
+        "political_avg": 2.75,
+        "political_std": 0.5679618342470648,
+        "count": 32
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 2.782608695652174,
+        "emotional_std": 0.902346523798844,
+        "political_avg": 2.652173913043478,
+        "political_std": 0.5727680517510726,
+        "count": 23
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 2.763157894736842,
+        "emotional_std": 1.1254839325834713,
+        "political_avg": 2.5526315789473686,
+        "political_std": 0.795166765478641,
+        "count": 38
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 2.918918918918919,
+        "emotional_std": 1.0640169792499237,
+        "political_avg": 2.5945945945945947,
+        "political_std": 0.643750273331526,
+        "count": 37
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 2.9056603773584904,
+        "emotional_std": 0.9253720861485568,
+        "political_avg": 2.7735849056603774,
+        "political_std": 0.6397568478595318,
+        "count": 53
+      }
+    ],
+    "Justice and Civil Rights": [
+      {
+        "congress": 79,
+        "emotional_avg": 2.5586206896551724,
+        "emotional_std": 0.7534721670462751,
+        "political_avg": 2.910344827586207,
+        "political_std": 0.5999680706702272,
+        "count": 145
+      },
+      {
+        "congress": 80,
+        "emotional_avg": 2.5789473684210527,
+        "emotional_std": 0.7733966736809005,
+        "political_avg": 3.0292397660818713,
+        "political_std": 0.6080528284401467,
+        "count": 171
+      },
+      {
+        "congress": 81,
+        "emotional_avg": 2.50625,
+        "emotional_std": 0.7850559808585379,
+        "political_avg": 3.00625,
+        "political_std": 0.67755456509365,
+        "count": 160
+      },
+      {
+        "congress": 82,
+        "emotional_avg": 2.558139534883721,
+        "emotional_std": 0.7896496132006315,
+        "political_avg": 2.937984496124031,
+        "political_std": 0.621891494561352,
+        "count": 129
+      },
+      {
+        "congress": 83,
+        "emotional_avg": 2.480225988700565,
+        "emotional_std": 0.7315176897772969,
+        "political_avg": 2.9717514124293785,
+        "political_std": 0.5880377474266103,
+        "count": 177
+      },
+      {
+        "congress": 84,
+        "emotional_avg": 2.556390977443609,
+        "emotional_std": 0.7629044762733908,
+        "political_avg": 2.8796992481203008,
+        "political_std": 0.590808305897617,
+        "count": 133
+      },
+      {
+        "congress": 85,
+        "emotional_avg": 2.5647058823529414,
+        "emotional_std": 0.7760781212359044,
+        "political_avg": 2.947058823529412,
+        "political_std": 0.6550826742700384,
+        "count": 170
+      },
+      {
+        "congress": 86,
+        "emotional_avg": 2.6534653465346536,
+        "emotional_std": 0.7718381956638971,
+        "political_avg": 2.9207920792079207,
+        "political_std": 0.7422323236194353,
+        "count": 202
+      },
+      {
+        "congress": 87,
+        "emotional_avg": 2.712574850299401,
+        "emotional_std": 0.8294416499603716,
+        "political_avg": 2.8622754491017965,
+        "political_std": 0.7273997895182627,
+        "count": 167
+      },
+      {
+        "congress": 88,
+        "emotional_avg": 2.766798418972332,
+        "emotional_std": 0.833907199357547,
+        "political_avg": 3.0,
+        "political_std": 0.7918232927769472,
+        "count": 253
+      },
+      {
+        "congress": 89,
+        "emotional_avg": 2.772972972972973,
+        "emotional_std": 0.7748241906648778,
+        "political_avg": 2.8864864864864863,
+        "political_std": 0.7753548143473475,
+        "count": 185
+      },
+      {
+        "congress": 90,
+        "emotional_avg": 2.893939393939394,
+        "emotional_std": 0.9255886514203864,
+        "political_avg": 2.797979797979798,
+        "political_std": 0.7802094991308226,
+        "count": 198
+      },
+      {
+        "congress": 91,
+        "emotional_avg": 2.9322033898305087,
+        "emotional_std": 0.8633524794961095,
+        "political_avg": 2.84180790960452,
+        "political_std": 0.7521583393389205,
+        "count": 177
+      },
+      {
+        "congress": 92,
+        "emotional_avg": 2.94375,
+        "emotional_std": 0.8559585821402941,
+        "political_avg": 2.725,
+        "political_std": 0.8005501253167437,
+        "count": 160
+      },
+      {
+        "congress": 93,
+        "emotional_avg": 2.783625730994152,
+        "emotional_std": 0.7630979894166072,
+        "political_avg": 2.7251461988304095,
+        "political_std": 0.7359742296680408,
+        "count": 171
+      },
+      {
+        "congress": 94,
+        "emotional_avg": 2.654970760233918,
+        "emotional_std": 0.7770353722503514,
+        "political_avg": 2.871345029239766,
+        "political_std": 0.6994518469036384,
+        "count": 171
+      },
+      {
+        "congress": 95,
+        "emotional_avg": 2.6825396825396823,
+        "emotional_std": 0.8535046054057558,
+        "political_avg": 2.7566137566137567,
+        "political_std": 0.7607535206434809,
+        "count": 189
+      },
+      {
+        "congress": 96,
+        "emotional_avg": 2.962406015037594,
+        "emotional_std": 0.9566831513540717,
+        "political_avg": 2.7518796992481205,
+        "political_std": 0.8294395245055725,
+        "count": 133
+      },
+      {
+        "congress": 97,
+        "emotional_avg": 2.8642857142857143,
+        "emotional_std": 0.9072903312160839,
+        "political_avg": 2.692857142857143,
+        "political_std": 0.8037361370538011,
+        "count": 140
+      },
+      {
+        "congress": 98,
+        "emotional_avg": 3.1301775147928996,
+        "emotional_std": 0.890211634396684,
+        "political_avg": 2.437869822485207,
+        "political_std": 0.7928160821374662,
+        "count": 169
+      },
+      {
+        "congress": 99,
+        "emotional_avg": 3.23943661971831,
+        "emotional_std": 0.8986165684479681,
+        "political_avg": 2.5422535211267605,
+        "political_std": 0.8961955795647987,
+        "count": 142
+      },
+      {
+        "congress": 100,
+        "emotional_avg": 3.063953488372093,
+        "emotional_std": 0.8795816111592571,
+        "political_avg": 2.604651162790698,
+        "political_std": 0.8061034682828176,
+        "count": 172
+      },
+      {
+        "congress": 101,
+        "emotional_avg": 3.265432098765432,
+        "emotional_std": 0.8902034792625897,
+        "political_avg": 2.740740740740741,
+        "political_std": 0.9941165781116753,
+        "count": 162
+      },
+      {
+        "congress": 102,
+        "emotional_avg": 3.1204188481675392,
+        "emotional_std": 0.9067883362730089,
+        "political_avg": 2.5235602094240837,
+        "political_std": 0.8634203070457073,
+        "count": 191
+      },
+      {
+        "congress": 103,
+        "emotional_avg": 3.1166666666666667,
+        "emotional_std": 0.9048287593787472,
+        "political_avg": 2.7555555555555555,
+        "political_std": 0.9837916742628247,
+        "count": 180
+      },
+      {
+        "congress": 104,
+        "emotional_avg": 3.161849710982659,
+        "emotional_std": 0.8403633215256444,
+        "political_avg": 2.69364161849711,
+        "political_std": 0.9607500878381882,
+        "count": 173
+      },
+      {
+        "congress": 105,
+        "emotional_avg": 3.260536398467433,
+        "emotional_std": 0.9653288098726029,
+        "political_avg": 2.6206896551724137,
+        "political_std": 0.9394111819114489,
+        "count": 261
+      },
+      {
+        "congress": 106,
+        "emotional_avg": 3.4757709251101323,
+        "emotional_std": 0.8840192307805574,
+        "political_avg": 2.405286343612335,
+        "political_std": 0.9282051773572775,
+        "count": 227
+      },
+      {
+        "congress": 107,
+        "emotional_avg": 3.3850267379679146,
+        "emotional_std": 0.9679767027830265,
+        "political_avg": 2.53475935828877,
+        "political_std": 0.9851697746028264,
+        "count": 187
+      },
+      {
+        "congress": 108,
+        "emotional_avg": 3.267857142857143,
+        "emotional_std": 0.9444018116590214,
+        "political_avg": 2.5,
+        "political_std": 1.0089420557476467,
+        "count": 168
+      },
+      {
+        "congress": 109,
+        "emotional_avg": 3.346590909090909,
+        "emotional_std": 0.9617185645512919,
+        "political_avg": 2.465909090909091,
+        "political_std": 0.9850176344917588,
+        "count": 176
+      },
+      {
+        "congress": 110,
+        "emotional_avg": 3.3943661971830985,
+        "emotional_std": 0.929864982793283,
+        "political_avg": 2.3661971830985915,
+        "political_std": 0.9185161734248737,
+        "count": 142
+      },
+      {
+        "congress": 111,
+        "emotional_avg": 3.3642384105960264,
+        "emotional_std": 0.8754689692472203,
+        "political_avg": 2.562913907284768,
+        "political_std": 1.0429199965506932,
+        "count": 151
+      },
+      {
+        "congress": 112,
+        "emotional_avg": 3.2565789473684212,
+        "emotional_std": 0.9799088383489464,
+        "political_avg": 2.5197368421052633,
+        "political_std": 1.0291795403697983,
+        "count": 152
+      },
+      {
+        "congress": 113,
+        "emotional_avg": 3.4555555555555557,
+        "emotional_std": 0.9590627537400364,
+        "political_avg": 2.65,
+        "political_std": 1.2120207974320496,
+        "count": 180
+      },
+      {
+        "congress": 114,
+        "emotional_avg": 3.57,
+        "emotional_std": 0.9797446082972017,
+        "political_avg": 2.39,
+        "political_std": 1.1332791395063269,
+        "count": 200
+      }
+    ]
+  },
+  "polarization": {
+    "overall": [
+      {
+        "congress": 100,
+        "emotional_gap": 0.28000000000000025,
+        "political_gap": 0.10000000000000009,
+        "emotional_overlap": 0.8779999999999998,
+        "political_overlap": 0.9079999999999999
+      },
+      {
+        "congress": 101,
+        "emotional_gap": 0.31999999999999984,
+        "political_gap": 0.1259999999999999,
+        "emotional_overlap": 0.8480000000000001,
+        "political_overlap": 0.8759999999999999
+      },
+      {
+        "congress": 102,
+        "emotional_gap": 0.3460000000000001,
+        "political_gap": 0.11399999999999988,
+        "emotional_overlap": 0.83,
+        "political_overlap": 0.8899999999999999
+      },
+      {
+        "congress": 103,
+        "emotional_gap": 0.3540000000000001,
+        "political_gap": 0.246,
+        "emotional_overlap": 0.852,
+        "political_overlap": 0.8519999999999996
+      },
+      {
+        "congress": 104,
+        "emotional_gap": -0.42600000000000016,
+        "political_gap": 0.3759999999999999,
+        "emotional_overlap": 0.822,
+        "political_overlap": 0.814
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.6219999999999999,
+        "political_gap": 0.31599999999999984,
+        "emotional_overlap": 0.772,
+        "political_overlap": 0.7799999999999998
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.5180000000000002,
+        "political_gap": 0.3879999999999999,
+        "emotional_overlap": 0.8040000000000002,
+        "political_overlap": 0.7679999999999998
+      },
+      {
+        "congress": 107,
+        "emotional_gap": 0.09800000000000031,
+        "political_gap": 0.18000000000000016,
+        "emotional_overlap": 0.8479999999999999,
+        "political_overlap": 0.9119999999999998
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.5980000000000003,
+        "political_gap": 0.30200000000000005,
+        "emotional_overlap": 0.748,
+        "political_overlap": 0.7819999999999999
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -0.7439999999999998,
+        "political_gap": 0.4419999999999997,
+        "emotional_overlap": 0.726,
+        "political_overlap": 0.716
+      },
+      {
+        "congress": 110,
+        "emotional_gap": 0.1259999999999999,
+        "political_gap": 0.40000000000000036,
+        "emotional_overlap": 0.8260000000000001,
+        "political_overlap": 0.8279999999999998
+      },
+      {
+        "congress": 111,
+        "emotional_gap": 0.34599999999999964,
+        "political_gap": 0.5720000000000001,
+        "emotional_overlap": 0.814,
+        "political_overlap": 0.72
+      },
+      {
+        "congress": 112,
+        "emotional_gap": -0.03600000000000003,
+        "political_gap": 0.6879999999999997,
+        "emotional_overlap": 0.768,
+        "political_overlap": 0.7519999999999998
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.0040000000000000036,
+        "political_gap": 0.6259999999999999,
+        "emotional_overlap": 0.878,
+        "political_overlap": 0.7699999999999999
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.6700000000000004,
+        "political_gap": 0.6079999999999997,
+        "emotional_overlap": 0.764,
+        "political_overlap": 0.6859999999999999
+      },
+      {
+        "congress": 79,
+        "emotional_gap": 0.15799999999999992,
+        "political_gap": -0.002000000000000224,
+        "emotional_overlap": 0.9199999999999999,
+        "political_overlap": 0.9619999999999997
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.28600000000000003,
+        "political_gap": -0.008000000000000007,
+        "emotional_overlap": 0.8412530120481927,
+        "political_overlap": 0.8959999999999996
+      },
+      {
+        "congress": 81,
+        "emotional_gap": 0.16199999999999992,
+        "political_gap": 0.010000000000000231,
+        "emotional_overlap": 0.9160000000000001,
+        "political_overlap": 0.9579999999999997
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.1759999999999997,
+        "political_gap": 0.0479999999999996,
+        "emotional_overlap": 0.9219999999999997,
+        "political_overlap": 0.9674325955734406
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.1599999999999997,
+        "political_gap": -0.016000000000000014,
+        "emotional_overlap": 0.9279999999999999,
+        "political_overlap": 0.9599999999999999
+      },
+      {
+        "congress": 84,
+        "emotional_gap": 0.16199999999999992,
+        "political_gap": -0.002000000000000224,
+        "emotional_overlap": 0.886,
+        "political_overlap": 0.9939999999999998
+      },
+      {
+        "congress": 85,
+        "emotional_gap": 0.0860000000000003,
+        "political_gap": 0.05400000000000027,
+        "emotional_overlap": 0.9559999999999997,
+        "political_overlap": 0.956
+      },
+      {
+        "congress": 86,
+        "emotional_gap": 0.14400000000000013,
+        "political_gap": -0.014000000000000234,
+        "emotional_overlap": 0.9402329317269076,
+        "political_overlap": 0.9594949494949493
+      },
+      {
+        "congress": 87,
+        "emotional_gap": 0.21799999999999997,
+        "political_gap": 0.017999999999999794,
+        "emotional_overlap": 0.8720000000000001,
+        "political_overlap": 0.9794446680080483
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.1559999999999997,
+        "political_gap": 0.0040000000000000036,
+        "emotional_overlap": 0.9099999999999998,
+        "political_overlap": 0.9859999999999997
+      },
+      {
+        "congress": 89,
+        "emotional_gap": 0.06199999999999983,
+        "political_gap": 0.06199999999999983,
+        "emotional_overlap": 0.9279999999999999,
+        "political_overlap": 0.9679999999999999
+      },
+      {
+        "congress": 90,
+        "emotional_gap": 0.12799999999999967,
+        "political_gap": 0.08800000000000008,
+        "emotional_overlap": 0.9400000000000001,
+        "political_overlap": 0.9331911468812877
+      },
+      {
+        "congress": 91,
+        "emotional_gap": 0.07399999999999984,
+        "political_gap": 0.002000000000000224,
+        "emotional_overlap": 0.8640000000000001,
+        "political_overlap": 0.9719999999999998
+      },
+      {
+        "congress": 92,
+        "emotional_gap": 0.05999999999999961,
+        "political_gap": 0.07000000000000028,
+        "emotional_overlap": 0.9079999999999999,
+        "political_overlap": 0.9775452716297786
+      },
+      {
+        "congress": 93,
+        "emotional_gap": 0.14000000000000012,
+        "political_gap": 0.05600000000000005,
+        "emotional_overlap": 0.886,
+        "political_overlap": 0.9719999999999998
+      },
+      {
+        "congress": 94,
+        "emotional_gap": 0.16600000000000037,
+        "political_gap": 0.09600000000000009,
+        "emotional_overlap": 0.8982164328657314,
+        "political_overlap": 0.9533480885311871
+      },
+      {
+        "congress": 95,
+        "emotional_gap": 0.16400000000000015,
+        "political_gap": -0.008000000000000007,
+        "emotional_overlap": 0.8700000000000001,
+        "political_overlap": 0.9439999999999996
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.24800000000000022,
+        "political_gap": 0.10199999999999987,
+        "emotional_overlap": 0.894,
+        "political_overlap": 0.9079999999999999
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.3340000000000001,
+        "political_gap": 0.15600000000000014,
+        "emotional_overlap": 0.852,
+        "political_overlap": 0.8799999999999998
+      },
+      {
+        "congress": 98,
+        "emotional_gap": -0.2639999999999998,
+        "political_gap": 0.1459999999999999,
+        "emotional_overlap": 0.9039999999999999,
+        "political_overlap": 0.8959999999999999
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.2799999999999998,
+        "political_gap": 0.19399999999999995,
+        "emotional_overlap": 0.8739999999999999,
+        "political_overlap": 0.886161943319838
+      }
+    ],
+    "Budget and Fiscal Responsibility": [
+      {
+        "congress": 100,
+        "emotional_gap": 0.20046948356807537,
+        "political_gap": 0.3753521126760564,
+        "emotional_overlap": 0.7934272300469485,
+        "political_overlap": 0.7809523809523803
+      },
+      {
+        "congress": 101,
+        "emotional_gap": 0.0911827956989244,
+        "political_gap": 0.3397849462365592,
+        "emotional_overlap": 0.7574193548387096,
+        "political_overlap": 0.8460215053763438
+      },
+      {
+        "congress": 102,
+        "emotional_gap": 0.4088575096277278,
+        "political_gap": 0.17939666238767638,
+        "emotional_overlap": 0.831193838254172,
+        "political_overlap": 0.8372751499000666
+      },
+      {
+        "congress": 103,
+        "emotional_gap": 0.3933111193385166,
+        "political_gap": 0.5146242132543501,
+        "emotional_overlap": 0.7951376033567814,
+        "political_overlap": 0.6732074540293718
+      },
+      {
+        "congress": 104,
+        "emotional_gap": -0.3185168639714093,
+        "political_gap": 0.4979524979524981,
+        "emotional_overlap": 0.7300275482093664,
+        "political_overlap": 0.773400519163231
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.46850079744816586,
+        "political_gap": 0.44178628389154717,
+        "emotional_overlap": 0.7340510366826156,
+        "political_overlap": 0.7488038277511961
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.7306255835667601,
+        "political_gap": 0.6797385620915035,
+        "emotional_overlap": 0.7334267040149394,
+        "political_overlap": 0.6171802054154996
+      },
+      {
+        "congress": 107,
+        "emotional_gap": -0.2250000000000001,
+        "political_gap": 0.21666666666666634,
+        "emotional_overlap": 0.9166666666666667,
+        "political_overlap": 0.9134615384615384
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.7922249793217535,
+        "political_gap": 0.4072787427626139,
+        "emotional_overlap": 0.6871794871794871,
+        "political_overlap": 0.7052109181141439
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -0.7844268204758471,
+        "political_gap": 0.4712809420812305,
+        "emotional_overlap": 0.6616198029319875,
+        "political_overlap": 0.730593607305936
+      },
+      {
+        "congress": 110,
+        "emotional_gap": 0.19244126659856997,
+        "political_gap": 0.5873340143003065,
+        "emotional_overlap": 0.8189989785495404,
+        "political_overlap": 0.7006651884700664
+      },
+      {
+        "congress": 111,
+        "emotional_gap": 0.3794326241134751,
+        "political_gap": 0.7978723404255321,
+        "emotional_overlap": 0.7605538669368456,
+        "political_overlap": 0.5749746707193516
+      },
+      {
+        "congress": 112,
+        "emotional_gap": 0.006191950464395912,
+        "political_gap": 1.0389208314904907,
+        "emotional_overlap": 0.879920389208315,
+        "political_overlap": 0.661793372319688
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.2564102564102564,
+        "political_gap": 0.5256410256410255,
+        "emotional_overlap": 0.8717948717948718,
+        "political_overlap": 0.7051282051282051
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.629156010230179,
+        "political_gap": 0.34143222506393833,
+        "emotional_overlap": 0.7212276214833759,
+        "political_overlap": 0.8069053708439895
+      },
+      {
+        "congress": 79,
+        "emotional_gap": 0.0629932985852566,
+        "political_gap": 0.16545048399106488,
+        "emotional_overlap": 0.9405807892777365,
+        "political_overlap": 0.8889894419306176
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.41137685843568184,
+        "political_gap": -0.0117647058823529,
+        "emotional_overlap": 0.8412411118293472,
+        "political_overlap": 0.7966386554621847
+      },
+      {
+        "congress": 81,
+        "emotional_gap": 0.12186379928315416,
+        "political_gap": 0.049382716049382935,
+        "emotional_overlap": 0.9291119076065312,
+        "political_overlap": 0.964157706093189
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.20137727496310864,
+        "political_gap": 0.08066896212493857,
+        "emotional_overlap": 0.888539104771274,
+        "political_overlap": 0.9426463354648292
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.21483870967741936,
+        "political_gap": 0.009032258064515908,
+        "emotional_overlap": 0.8924731182795699,
+        "political_overlap": 0.8778142076502725
+      },
+      {
+        "congress": 84,
+        "emotional_gap": 0.373065015479876,
+        "political_gap": -0.022136222910216663,
+        "emotional_overlap": 0.8181114551083591,
+        "political_overlap": 0.9363777089783273
+      },
+      {
+        "congress": 85,
+        "emotional_gap": 0.0003940110323088497,
+        "political_gap": 0.09672970843183615,
+        "emotional_overlap": 0.9288810086682426,
+        "political_overlap": 0.943626963611055
+      },
+      {
+        "congress": 86,
+        "emotional_gap": 0.04976632562839445,
+        "political_gap": 0.12037387899456853,
+        "emotional_overlap": 0.9358342806618668,
+        "political_overlap": 0.9363984674329492
+      },
+      {
+        "congress": 87,
+        "emotional_gap": 0.20477768572217592,
+        "political_gap": 0.09251587959127328,
+        "emotional_overlap": 0.9134217067108533,
+        "political_overlap": 0.8891368010040432
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.34947368421052616,
+        "political_gap": -0.0035087719298245723,
+        "emotional_overlap": 0.8533333333333334,
+        "political_overlap": 0.8916548127074435
+      },
+      {
+        "congress": 89,
+        "emotional_gap": 0.05220883534136522,
+        "political_gap": 0.09321496512365224,
+        "emotional_overlap": 0.8566899175649968,
+        "political_overlap": 0.9441978440076086
+      },
+      {
+        "congress": 90,
+        "emotional_gap": 0.24525316455696222,
+        "political_gap": 0.21749136939010327,
+        "emotional_overlap": 0.8962888377445339,
+        "political_overlap": 0.8094073647871107
+      },
+      {
+        "congress": 91,
+        "emotional_gap": -0.09440559440559415,
+        "political_gap": 0.037296037296037365,
+        "emotional_overlap": 0.9234654234654235,
+        "political_overlap": 0.9693084693084684
+      },
+      {
+        "congress": 92,
+        "emotional_gap": 0.08382394168769292,
+        "political_gap": 0.07176899355200472,
+        "emotional_overlap": 0.904121110176619,
+        "political_overlap": 0.9220633585646194
+      },
+      {
+        "congress": 93,
+        "emotional_gap": 0.2273057371096585,
+        "political_gap": 0.024110384894698633,
+        "emotional_overlap": 0.89440813362382,
+        "political_overlap": 0.8655047204066812
+      },
+      {
+        "congress": 94,
+        "emotional_gap": 0.07875264270613114,
+        "political_gap": 0.27616279069767424,
+        "emotional_overlap": 0.8313953488372093,
+        "political_overlap": 0.8677807486631007
+      },
+      {
+        "congress": 95,
+        "emotional_gap": 0.24669409344695836,
+        "political_gap": 0.12077578607111361,
+        "emotional_overlap": 0.8617396414928005,
+        "political_overlap": 0.9476424215380032
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.19353361421505788,
+        "political_gap": 0.13647188129694054,
+        "emotional_overlap": 0.9077669902912622,
+        "political_overlap": 0.9237735849056596
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.21654942893880946,
+        "political_gap": 0.17184781786551673,
+        "emotional_overlap": 0.8332198774676651,
+        "political_overlap": 0.8915166310649983
+      },
+      {
+        "congress": 98,
+        "emotional_gap": -0.13543091655266748,
+        "political_gap": 0.013451892384860997,
+        "emotional_overlap": 0.9252165982672138,
+        "political_overlap": 0.9195166438668482
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.0591836734693878,
+        "political_gap": 0.14853593611357585,
+        "emotional_overlap": 0.870807453416149,
+        "political_overlap": 0.8548156104547073
+      }
+    ],
+    "Defense and Security": [
+      {
+        "congress": 100,
+        "emotional_gap": 0.40270817784411994,
+        "political_gap": -0.017166009169421237,
+        "emotional_overlap": 0.822934595524957,
+        "political_overlap": 0.93421473504638
+      },
+      {
+        "congress": 101,
+        "emotional_gap": 0.01978494623655891,
+        "political_gap": 0.09204301075268839,
+        "emotional_overlap": 0.9522580645161289,
+        "political_overlap": 0.9177777777777777
+      },
+      {
+        "congress": 102,
+        "emotional_gap": 0.321875738247106,
+        "political_gap": 0.05917788802267898,
+        "emotional_overlap": 0.8150248051027641,
+        "political_overlap": 0.9221592251358373
+      },
+      {
+        "congress": 103,
+        "emotional_gap": 0.7048872180451125,
+        "political_gap": -0.04022556390977439,
+        "emotional_overlap": 0.6823308270676691,
+        "political_overlap": 0.752054794520548
+      },
+      {
+        "congress": 104,
+        "emotional_gap": -0.5111111111111111,
+        "political_gap": 0.3999999999999999,
+        "emotional_overlap": 0.7694444444444445,
+        "political_overlap": 0.7222222222222223
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.21311475409836067,
+        "political_gap": -0.03278688524590123,
+        "emotional_overlap": 0.8852459016393444,
+        "political_overlap": 0.9180327868852457
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.3870331005162466,
+        "political_gap": 0.20543577285150327,
+        "emotional_overlap": 0.8634983297904647,
+        "political_overlap": 0.8495085995085995
+      },
+      {
+        "congress": 107,
+        "emotional_gap": -0.014154704944178587,
+        "political_gap": 0.25837320574162703,
+        "emotional_overlap": 0.8460925039872409,
+        "political_overlap": 0.8601166532582462
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.45151515151515165,
+        "political_gap": 0.35984848484848486,
+        "emotional_overlap": 0.7272727272727273,
+        "political_overlap": 0.7613636363636364
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -0.6054579439252334,
+        "political_gap": 0.43715887850467317,
+        "emotional_overlap": 0.7431028037383177,
+        "political_overlap": 0.7361509433962264
+      },
+      {
+        "congress": 110,
+        "emotional_gap": 0.020365168539326017,
+        "political_gap": 0.494682985553772,
+        "emotional_overlap": 0.8218298555377207,
+        "political_overlap": 0.751003210272873
+      },
+      {
+        "congress": 111,
+        "emotional_gap": 0.13750000000000018,
+        "political_gap": 0.32499999999999973,
+        "emotional_overlap": 0.75,
+        "political_overlap": 0.888157894736842
+      },
+      {
+        "congress": 112,
+        "emotional_gap": -0.14102564102564097,
+        "political_gap": 0.36256410256410243,
+        "emotional_overlap": 0.821025641025641,
+        "political_overlap": 0.84
+      },
+      {
+        "congress": 113,
+        "emotional_gap": 0.2353842527109853,
+        "political_gap": 0.36904761904761907,
+        "emotional_overlap": 0.8787128712871287,
+        "political_overlap": 0.8477133427628476
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.5729252826027018,
+        "political_gap": 0.6206231044940722,
+        "emotional_overlap": 0.8424145299145298,
+        "political_overlap": 0.701957540667218
+      },
+      {
+        "congress": 79,
+        "emotional_gap": 0.11550406115623524,
+        "political_gap": 0.021141901576684496,
+        "emotional_overlap": 0.8760152890587674,
+        "political_overlap": 0.9797101449275362
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.24193037974683573,
+        "political_gap": 0.02499999999999991,
+        "emotional_overlap": 0.8055194805194806,
+        "political_overlap": 0.89003164556962
+      },
+      {
+        "congress": 81,
+        "emotional_gap": 0.20691454664057396,
+        "political_gap": 0.16490541422048288,
+        "emotional_overlap": 0.8883235485975213,
+        "political_overlap": 0.8970645792563599
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.14833959899749338,
+        "political_gap": 0.015037593984962516,
+        "emotional_overlap": 0.9274809160305343,
+        "political_overlap": 0.9185606060606052
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.2881734853565838,
+        "political_gap": -0.0686340263805052,
+        "emotional_overlap": 0.8580371115582384,
+        "political_overlap": 0.9434384082271404
+      },
+      {
+        "congress": 84,
+        "emotional_gap": -0.12785154919986352,
+        "political_gap": -0.014640789921688935,
+        "emotional_overlap": 0.9002383384405855,
+        "political_overlap": 0.8615934627170583
+      },
+      {
+        "congress": 85,
+        "emotional_gap": 0.12760692824319575,
+        "political_gap": 0.011488158359844292,
+        "emotional_overlap": 0.9232420826623725,
+        "political_overlap": 0.9243548957228701
+      },
+      {
+        "congress": 86,
+        "emotional_gap": 0.22129937246216347,
+        "political_gap": -0.04226651901070522,
+        "emotional_overlap": 0.8514211886304909,
+        "political_overlap": 0.8531746031746025
+      },
+      {
+        "congress": 87,
+        "emotional_gap": 0.12935635792778655,
+        "political_gap": -0.061695447409733095,
+        "emotional_overlap": 0.839403453689168,
+        "political_overlap": 0.9342229199372054
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.11345852895148711,
+        "political_gap": 0.11189358372456937,
+        "emotional_overlap": 0.866001564945227,
+        "political_overlap": 0.9562966031483016
+      },
+      {
+        "congress": 89,
+        "emotional_gap": 0.110193392425463,
+        "political_gap": -0.012087026591458105,
+        "emotional_overlap": 0.9139806607574538,
+        "political_overlap": 0.8875906526994358
+      },
+      {
+        "congress": 90,
+        "emotional_gap": 0.2193617021276597,
+        "political_gap": -0.05957446808510625,
+        "emotional_overlap": 0.8559574468085105,
+        "political_overlap": 0.899139784946236
+      },
+      {
+        "congress": 91,
+        "emotional_gap": 0.12230854605993313,
+        "political_gap": 0.09855715871254178,
+        "emotional_overlap": 0.9450226244343891,
+        "political_overlap": 0.9575099942889771
+      },
+      {
+        "congress": 92,
+        "emotional_gap": 0.015456989247311537,
+        "political_gap": -0.03595430107526898,
+        "emotional_overlap": 0.932795698924731,
+        "political_overlap": 0.889784946236559
+      },
+      {
+        "congress": 93,
+        "emotional_gap": 0.33213820078226863,
+        "political_gap": 0.06779661016949134,
+        "emotional_overlap": 0.8839634941329857,
+        "political_overlap": 0.9455671447196865
+      },
+      {
+        "congress": 94,
+        "emotional_gap": 0.044647031323048036,
+        "political_gap": 0.025712949976624433,
+        "emotional_overlap": 0.9149135109864422,
+        "political_overlap": 0.956989247311828
+      },
+      {
+        "congress": 95,
+        "emotional_gap": -0.02564674397859079,
+        "political_gap": 0.11306868867082986,
+        "emotional_overlap": 0.9462533452274755,
+        "political_overlap": 0.9566101694915254
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.14333333333333353,
+        "political_gap": 0.2739583333333333,
+        "emotional_overlap": 0.8729166666666665,
+        "political_overlap": 0.8358333333333331
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.16410111566162966,
+        "political_gap": 0.15492162123993802,
+        "emotional_overlap": 0.9131478604716847,
+        "political_overlap": 0.9438717067583049
+      },
+      {
+        "congress": 98,
+        "emotional_gap": -0.2755102040816326,
+        "political_gap": 0.0703729767769179,
+        "emotional_overlap": 0.9310344827586206,
+        "political_overlap": 0.8897490030494956
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.28460493108134344,
+        "political_gap": 0.23742962531547285,
+        "emotional_overlap": 0.8662395651329838,
+        "political_overlap": 0.872871287128713
+      }
+    ],
+    "Economy and Jobs": [
+      {
+        "congress": 100,
+        "emotional_gap": -0.16923076923076907,
+        "political_gap": 0.16923076923076952,
+        "emotional_overlap": 0.7538461538461539,
+        "political_overlap": 0.8923076923076925
+      },
+      {
+        "congress": 101,
+        "emotional_gap": -0.06493506493506507,
+        "political_gap": 0.21645021645021645,
+        "emotional_overlap": 0.8311688311688311,
+        "political_overlap": 0.9248484848484848
+      },
+      {
+        "congress": 102,
+        "emotional_gap": -0.08848314606741559,
+        "political_gap": 0.42228464419475653,
+        "emotional_overlap": 0.7416900749063671,
+        "political_overlap": 0.749063670411985
+      },
+      {
+        "congress": 103,
+        "emotional_gap": -0.19099264705882346,
+        "political_gap": 0.8292279411764705,
+        "emotional_overlap": 0.8568014705882352,
+        "political_overlap": 0.6494485294117647
+      },
+      {
+        "congress": 104,
+        "emotional_gap": -0.3047180667433831,
+        "political_gap": 0.6614499424626006,
+        "emotional_overlap": 0.7077100115074799,
+        "political_overlap": 0.7417721518987341
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.33766233766233755,
+        "political_gap": 0.3787878787878789,
+        "emotional_overlap": 0.7189393939393939,
+        "political_overlap": 0.777056277056277
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.3075396825396828,
+        "political_gap": 0.41865079365079394,
+        "emotional_overlap": 0.8829365079365079,
+        "political_overlap": 0.8313492063492064
+      },
+      {
+        "congress": 107,
+        "emotional_gap": -0.09722222222222232,
+        "political_gap": 0.5218253968253967,
+        "emotional_overlap": 0.8591269841269842,
+        "political_overlap": 0.765079365079365
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.44037940379403784,
+        "political_gap": 0.5727190605239385,
+        "emotional_overlap": 0.8315266485998193,
+        "political_overlap": 0.6373080397470641
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -0.4660783232211805,
+        "political_gap": 0.7289023717595144,
+        "emotional_overlap": 0.751792608935466,
+        "political_overlap": 0.5694980694980695
+      },
+      {
+        "congress": 110,
+        "emotional_gap": -0.3682584269662921,
+        "political_gap": 0.8102528089887642,
+        "emotional_overlap": 0.691994382022472,
+        "political_overlap": 0.5796348314606741
+      },
+      {
+        "congress": 111,
+        "emotional_gap": -0.11504975124378136,
+        "political_gap": 1.054228855721393,
+        "emotional_overlap": 0.8583333333333333,
+        "political_overlap": 0.5550995024875622
+      },
+      {
+        "congress": 112,
+        "emotional_gap": -0.39168211920529794,
+        "political_gap": 1.3824635761589406,
+        "emotional_overlap": 0.7112582781456954,
+        "political_overlap": 0.4850076335877862
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.12166236003445308,
+        "political_gap": 1.1826012058570199,
+        "emotional_overlap": 0.8049095607235142,
+        "political_overlap": 0.5124892334194658
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.4040611028315948,
+        "political_gap": 0.8494783904619969,
+        "emotional_overlap": 0.7863263785394932,
+        "political_overlap": 0.656818181818182
+      },
+      {
+        "congress": 79,
+        "emotional_gap": 0.2198863636363635,
+        "political_gap": -0.07556818181818192,
+        "emotional_overlap": 0.8544034090909092,
+        "political_overlap": 0.9443181818181821
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.1845903418339665,
+        "political_gap": 0.008790016277808288,
+        "emotional_overlap": 0.8972470828140926,
+        "political_overlap": 0.9740640260444917
+      },
+      {
+        "congress": 81,
+        "emotional_gap": 0.053199766582376906,
+        "political_gap": 0.08510017506321743,
+        "emotional_overlap": 0.9371717564676133,
+        "political_overlap": 0.9280295662322497
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.009930486593842769,
+        "political_gap": 0.07259185700099335,
+        "emotional_overlap": 0.9646474677259185,
+        "political_overlap": 0.9744360902255639
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.25805152979066026,
+        "political_gap": 0.047101449275362306,
+        "emotional_overlap": 0.8144122383252818,
+        "political_overlap": 0.8884863123993558
+      },
+      {
+        "congress": 84,
+        "emotional_gap": 0.0028715506373444555,
+        "political_gap": 0.052108138394733494,
+        "emotional_overlap": 0.9045384507634122,
+        "political_overlap": 0.9449152542372873
+      },
+      {
+        "congress": 85,
+        "emotional_gap": -0.07030481809242861,
+        "political_gap": 0.011553588987217367,
+        "emotional_overlap": 0.9110127826941986,
+        "political_overlap": 0.9840216322517207
+      },
+      {
+        "congress": 86,
+        "emotional_gap": 0.1540900443880786,
+        "political_gap": 0.048192771084337505,
+        "emotional_overlap": 0.9150285351934052,
+        "political_overlap": 0.9459416613823716
+      },
+      {
+        "congress": 87,
+        "emotional_gap": 0.1764854614412137,
+        "political_gap": 0.015086388537715933,
+        "emotional_overlap": 0.8439106616097767,
+        "political_overlap": 0.9939857376063228
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.11366605696367937,
+        "political_gap": 0.09223935197282485,
+        "emotional_overlap": 0.856806898353802,
+        "political_overlap": 0.9186046511627906
+      },
+      {
+        "congress": 89,
+        "emotional_gap": 0.10957678046285624,
+        "political_gap": 0.025700038358266397,
+        "emotional_overlap": 0.9002685078634445,
+        "political_overlap": 0.930060094617056
+      },
+      {
+        "congress": 90,
+        "emotional_gap": -0.006030701754386136,
+        "political_gap": 0.15158991228070162,
+        "emotional_overlap": 0.938048245614035,
+        "political_overlap": 0.9100877192982455
+      },
+      {
+        "congress": 91,
+        "emotional_gap": -0.020000000000000018,
+        "political_gap": 0.1599999999999997,
+        "emotional_overlap": 0.8399999999999999,
+        "political_overlap": 0.9199999999999992
+      },
+      {
+        "congress": 92,
+        "emotional_gap": -0.21114369501466257,
+        "political_gap": 0.20430107526881747,
+        "emotional_overlap": 0.7986314760508307,
+        "political_overlap": 0.886104218362283
+      },
+      {
+        "congress": 93,
+        "emotional_gap": -0.18133718133718135,
+        "political_gap": 0.09074875741542376,
+        "emotional_overlap": 0.8494468494468495,
+        "political_overlap": 0.8119288119288118
+      },
+      {
+        "congress": 94,
+        "emotional_gap": 0.06676116229624407,
+        "political_gap": 0.24294826364280642,
+        "emotional_overlap": 0.9240255138199858,
+        "political_overlap": 0.8735648476257973
+      },
+      {
+        "congress": 95,
+        "emotional_gap": -0.12337662337662314,
+        "political_gap": -0.11525974025974017,
+        "emotional_overlap": 0.8685064935064936,
+        "political_overlap": 0.9457601222307104
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.18328445747800615,
+        "political_gap": 0.2938835358190195,
+        "emotional_overlap": 0.8981324278438031,
+        "political_overlap": 0.8978494623655907
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.21918720852764828,
+        "political_gap": 0.3827448367754829,
+        "emotional_overlap": 0.8439373750832779,
+        "political_overlap": 0.8183895921237693
+      },
+      {
+        "congress": 98,
+        "emotional_gap": -0.12354478498455679,
+        "political_gap": 0.34497505345687784,
+        "emotional_overlap": 0.8878977820636451,
+        "political_overlap": 0.8270373010216204
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.4991145965089805,
+        "political_gap": 0.44978497343789536,
+        "emotional_overlap": 0.7846481876332622,
+        "political_overlap": 0.7442099845599588
+      }
+    ],
+    "Education and Innovation": [
+      {
+        "congress": 100,
+        "emotional_gap": 0.2946428571428572,
+        "political_gap": 0.125,
+        "emotional_overlap": 0.7321428571428571,
+        "political_overlap": 0.9618055555555551
+      },
+      {
+        "congress": 101,
+        "emotional_gap": 0.5172413793103448,
+        "political_gap": -0.07824933687002655,
+        "emotional_overlap": 0.713527851458886,
+        "political_overlap": 0.8031609195402301
+      },
+      {
+        "congress": 102,
+        "emotional_gap": 0.3822843822843822,
+        "political_gap": 0.21095571095571097,
+        "emotional_overlap": 0.7517482517482518,
+        "political_overlap": 0.8869463869463869
+      },
+      {
+        "congress": 103,
+        "emotional_gap": -0.045454545454545414,
+        "political_gap": 0.12207792207792201,
+        "emotional_overlap": 0.9441558441558441,
+        "political_overlap": 0.9376623376623373
+      },
+      {
+        "congress": 104,
+        "emotional_gap": -0.5034722222222223,
+        "political_gap": 0.625,
+        "emotional_overlap": 0.6423611111111112,
+        "political_overlap": 0.6909722222222224
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.39047619047619087,
+        "political_gap": 0.4142857142857146,
+        "emotional_overlap": 0.9333333333333331,
+        "political_overlap": 0.8190476190476188
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.2264150943396226,
+        "political_gap": 0.3649595687331533,
+        "emotional_overlap": 0.8840970350404314,
+        "political_overlap": 0.8253369272237198
+      },
+      {
+        "congress": 107,
+        "emotional_gap": -0.27743271221532106,
+        "political_gap": 0.1997929606625255,
+        "emotional_overlap": 0.5807453416149068,
+        "political_overlap": 0.8871635610766047
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.8102466793168879,
+        "political_gap": 0.4829222011385199,
+        "emotional_overlap": 0.6954459203036052,
+        "political_overlap": 0.6698292220113852
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -0.5,
+        "political_gap": 0.33333333333333304,
+        "emotional_overlap": 0.6999999999999998,
+        "political_overlap": 0.8333333333333335
+      },
+      {
+        "congress": 110,
+        "emotional_gap": -0.03508771929824528,
+        "political_gap": 0.2412280701754388,
+        "emotional_overlap": 0.6861861861861862,
+        "political_overlap": 0.8640350877192982
+      },
+      {
+        "congress": 111,
+        "emotional_gap": 0.08682170542635648,
+        "political_gap": 0.31472868217054284,
+        "emotional_overlap": 0.8651162790697675,
+        "political_overlap": 0.8436246992782677
+      },
+      {
+        "congress": 112,
+        "emotional_gap": -0.20608108108108114,
+        "political_gap": 0.4442567567567566,
+        "emotional_overlap": 0.8395270270270271,
+        "political_overlap": 0.8170478170478168
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.06367346938775498,
+        "political_gap": 0.3926530612244896,
+        "emotional_overlap": 0.7893877551020408,
+        "political_overlap": 0.7061224489795918
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.813186813186813,
+        "political_gap": 0.5531135531135529,
+        "emotional_overlap": 0.6538461538461539,
+        "political_overlap": 0.5934065934065934
+      },
+      {
+        "congress": 79,
+        "emotional_gap": 0.31818181818181834,
+        "political_gap": -0.07575757575757569,
+        "emotional_overlap": 0.7575757575757575,
+        "political_overlap": 0.9242424242424243
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.20512820512820484,
+        "political_gap": 0.10256410256410264,
+        "emotional_overlap": 0.7948717948717949,
+        "political_overlap": 0.8974358974358976
+      },
+      {
+        "congress": 81,
+        "emotional_gap": 0.09027777777777768,
+        "political_gap": -0.11111111111111116,
+        "emotional_overlap": 0.6944444444444445,
+        "political_overlap": 0.7916666666666659
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.125,
+        "political_gap": 0.8333333333333335,
+        "emotional_overlap": 0.702380952380952,
+        "political_overlap": 0.6666666666666666
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.11111111111111116,
+        "political_gap": -0.0777777777777775,
+        "emotional_overlap": 0.8000000000000002,
+        "political_overlap": 0.9222222222222223
+      },
+      {
+        "congress": 84,
+        "emotional_gap": 0.20454545454545459,
+        "political_gap": -0.15909090909090917,
+        "emotional_overlap": 0.909090909090909,
+        "political_overlap": 0.7727272727272727
+      },
+      {
+        "congress": 85,
+        "emotional_gap": -0.3115942028985508,
+        "political_gap": 0.07971014492753614,
+        "emotional_overlap": 0.8388888888888886,
+        "political_overlap": 0.785024154589372
+      },
+      {
+        "congress": 86,
+        "emotional_gap": -0.04166666666666652,
+        "political_gap": 0.10119047619047628,
+        "emotional_overlap": 0.9155844155844152,
+        "political_overlap": 0.8988095238095238
+      },
+      {
+        "congress": 87,
+        "emotional_gap": -0.06868131868131888,
+        "political_gap": -0.024725274725274637,
+        "emotional_overlap": 0.7774725274725275,
+        "political_overlap": 0.8871428571428565
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.31985294117647056,
+        "political_gap": -0.03921568627451011,
+        "emotional_overlap": 0.8235294117647058,
+        "political_overlap": 0.7696078431372545
+      },
+      {
+        "congress": 89,
+        "emotional_gap": -0.2890237175951462,
+        "political_gap": 0.09707666850524,
+        "emotional_overlap": 0.7887479316050744,
+        "political_overlap": 0.9161610590182013
+      },
+      {
+        "congress": 90,
+        "emotional_gap": 0.30769230769230793,
+        "political_gap": 0.012820512820512775,
+        "emotional_overlap": 0.8589743589743591,
+        "political_overlap": 0.7820512820512822
+      },
+      {
+        "congress": 91,
+        "emotional_gap": 0.20833333333333348,
+        "political_gap": -0.13194444444444464,
+        "emotional_overlap": 0.6736111111111112,
+        "political_overlap": 0.8437500000000001
+      },
+      {
+        "congress": 92,
+        "emotional_gap": 0.03166023166023191,
+        "political_gap": 0.10115830115830127,
+        "emotional_overlap": 0.8756756756756756,
+        "political_overlap": 0.9235521235521231
+      },
+      {
+        "congress": 93,
+        "emotional_gap": -0.025806451612902848,
+        "political_gap": 0.2696774193548386,
+        "emotional_overlap": 0.8090322580645161,
+        "political_overlap": 0.7733333333333333
+      },
+      {
+        "congress": 94,
+        "emotional_gap": 0.22705314009661848,
+        "political_gap": -0.21980676328502424,
+        "emotional_overlap": 0.9033816425120773,
+        "political_overlap": 0.8434343434343434
+      },
+      {
+        "congress": 95,
+        "emotional_gap": 0.32738095238095255,
+        "political_gap": -0.13690476190476186,
+        "emotional_overlap": 0.4880952380952381,
+        "political_overlap": 0.6726190476190476
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.22142857142857153,
+        "political_gap": -0.02857142857142847,
+        "emotional_overlap": 0.8771428571428572,
+        "political_overlap": 0.964444444444444
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.04999999999999982,
+        "political_gap": 0.23157894736842133,
+        "emotional_overlap": 0.9064327485380114,
+        "political_overlap": 0.8947368421052628
+      },
+      {
+        "congress": 98,
+        "emotional_gap": -0.19354838709677402,
+        "political_gap": 0.07994389901823284,
+        "emotional_overlap": 0.7868162692847126,
+        "political_overlap": 0.8541374474053297
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.032258064516129004,
+        "political_gap": 0.041474654377879894,
+        "emotional_overlap": 0.7695852534562212,
+        "political_overlap": 0.9585253456221199
+      }
+    ],
+    "Environment and Energy": [
+      {
+        "congress": 100,
+        "emotional_gap": 0.6689655172413795,
+        "political_gap": 0.024137931034482474,
+        "emotional_overlap": 0.6678160919540229,
+        "political_overlap": 0.6619047619047619
+      },
+      {
+        "congress": 101,
+        "emotional_gap": 0.4019607843137254,
+        "political_gap": 0.04901960784313708,
+        "emotional_overlap": 0.8235294117647057,
+        "political_overlap": 0.8921568627450982
+      },
+      {
+        "congress": 102,
+        "emotional_gap": 0.32648648648648626,
+        "political_gap": -0.06378378378378358,
+        "emotional_overlap": 0.8335135135135135,
+        "political_overlap": 0.8043243243243239
+      },
+      {
+        "congress": 103,
+        "emotional_gap": 0.5946969696969697,
+        "political_gap": 0.007575757575757791,
+        "emotional_overlap": 0.5823863636363636,
+        "political_overlap": 0.7045454545454546
+      },
+      {
+        "congress": 104,
+        "emotional_gap": -0.7416879795396416,
+        "political_gap": 0.4795396419437341,
+        "emotional_overlap": 0.6892583120204604,
+        "political_overlap": 0.7097186700767264
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -1.03125,
+        "political_gap": 0.59375,
+        "emotional_overlap": 0.4583333333333332,
+        "political_overlap": 0.5070564516129032
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.5970588235294119,
+        "political_gap": 0.47205882352941186,
+        "emotional_overlap": 0.8363970588235293,
+        "political_overlap": 0.7411764705882354
+      },
+      {
+        "congress": 107,
+        "emotional_gap": 0.2517482517482521,
+        "political_gap": 0.17249417249417265,
+        "emotional_overlap": 0.9234449760765551,
+        "political_overlap": 0.7995337995337997
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.5499999999999998,
+        "political_gap": 0.11176470588235299,
+        "emotional_overlap": 0.6968325791855204,
+        "political_overlap": 0.8455882352941175
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -1.1746794871794872,
+        "political_gap": 0.5400641025641026,
+        "emotional_overlap": 0.5464743589743589,
+        "political_overlap": 0.519230769230769
+      },
+      {
+        "congress": 110,
+        "emotional_gap": 0.4595359366157328,
+        "political_gap": 0.3579513299377477,
+        "emotional_overlap": 0.7900396151669496,
+        "political_overlap": 0.6868421052631578
+      },
+      {
+        "congress": 111,
+        "emotional_gap": 0.353623188405797,
+        "political_gap": 0.47632850241545865,
+        "emotional_overlap": 0.7391304347826086,
+        "political_overlap": 0.8335100742311772
+      },
+      {
+        "congress": 112,
+        "emotional_gap": -0.0512820512820511,
+        "political_gap": 0.5057471264367819,
+        "emotional_overlap": 0.7718832891246683,
+        "political_overlap": 0.8532763532763533
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.28712174524982403,
+        "political_gap": 0.671710063335679,
+        "emotional_overlap": 0.7311752287121744,
+        "political_overlap": 0.7354099534550661
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.3053050397877981,
+        "political_gap": 0.4633952254641911,
+        "emotional_overlap": 0.8423802612481852,
+        "political_overlap": 0.7854111405835544
+      },
+      {
+        "congress": 79,
+        "emotional_gap": 0.1333333333333333,
+        "political_gap": 0.3222222222222224,
+        "emotional_overlap": 0.8999999999999998,
+        "political_overlap": 0.8999999999999999
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.16491228070175445,
+        "political_gap": -0.03859649122806985,
+        "emotional_overlap": 0.8196078431372549,
+        "political_overlap": 0.9614035087719299
+      },
+      {
+        "congress": 81,
+        "emotional_gap": -0.0064102564102563875,
+        "political_gap": 0.07051282051282026,
+        "emotional_overlap": 0.8653846153846151,
+        "political_overlap": 0.9294871794871795
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.15217391304347805,
+        "political_gap": 0.08695652173913038,
+        "emotional_overlap": 0.8260869565217392,
+        "political_overlap": 0.8260869565217381
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.25,
+        "political_gap": -0.0117647058823529,
+        "emotional_overlap": 0.788235294117647,
+        "political_overlap": 0.9058823529411757
+      },
+      {
+        "congress": 84,
+        "emotional_gap": -0.03714565004887582,
+        "political_gap": -0.1270772238514173,
+        "emotional_overlap": 0.8416422287390031,
+        "political_overlap": 0.897360703812316
+      },
+      {
+        "congress": 85,
+        "emotional_gap": -0.29699248120300714,
+        "political_gap": 0.08646616541353369,
+        "emotional_overlap": 0.6353383458646614,
+        "political_overlap": 0.7030075187969919
+      },
+      {
+        "congress": 86,
+        "emotional_gap": 0.1974789915966384,
+        "political_gap": -0.37815126050420167,
+        "emotional_overlap": 0.8999999999999998,
+        "political_overlap": 0.8571428571428572
+      },
+      {
+        "congress": 87,
+        "emotional_gap": 0.01379310344827589,
+        "political_gap": 0.05689655172413799,
+        "emotional_overlap": 0.8051724137931034,
+        "political_overlap": 0.9051724137931026
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.20588235294117663,
+        "political_gap": 0.2823529411764705,
+        "emotional_overlap": 0.6941176470588236,
+        "political_overlap": 0.7875
+      },
+      {
+        "congress": 89,
+        "emotional_gap": -0.009316770186335255,
+        "political_gap": 0.3354037267080745,
+        "emotional_overlap": 0.767080745341615,
+        "political_overlap": 0.8550724637681161
+      },
+      {
+        "congress": 90,
+        "emotional_gap": 0.375,
+        "political_gap": -0.25,
+        "emotional_overlap": 0.6875000000000001,
+        "political_overlap": 0.8509615384615385
+      },
+      {
+        "congress": 91,
+        "emotional_gap": -0.2087912087912085,
+        "political_gap": -0.0219780219780219,
+        "emotional_overlap": 0.6126373626373627,
+        "political_overlap": 0.9285714285714285
+      },
+      {
+        "congress": 92,
+        "emotional_gap": -0.06666666666666643,
+        "political_gap": -0.08333333333333348,
+        "emotional_overlap": 0.8166666666666667,
+        "political_overlap": 0.8833333333333326
+      },
+      {
+        "congress": 93,
+        "emotional_gap": -0.014695340501791776,
+        "political_gap": 0.1770609318996419,
+        "emotional_overlap": 0.9021505376344086,
+        "political_overlap": 0.9179211469534051
+      },
+      {
+        "congress": 94,
+        "emotional_gap": 0.34046981861433245,
+        "political_gap": -0.009217960154623839,
+        "emotional_overlap": 0.8296164139161463,
+        "political_overlap": 0.884452510586812
+      },
+      {
+        "congress": 95,
+        "emotional_gap": 0.21153846153846168,
+        "political_gap": -0.023872679045092937,
+        "emotional_overlap": 0.7891246684350133,
+        "political_overlap": 0.96419098143236
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.22959183673469408,
+        "political_gap": 0.1428571428571428,
+        "emotional_overlap": 0.6874999999999999,
+        "political_overlap": 0.8290816326530612
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.476923076923077,
+        "political_gap": 0.07179487179487198,
+        "emotional_overlap": 0.7333333333333334,
+        "political_overlap": 0.7619883040935665
+      },
+      {
+        "congress": 98,
+        "emotional_gap": -0.34375,
+        "political_gap": 0.31540697674418583,
+        "emotional_overlap": 0.8226744186046512,
+        "political_overlap": 0.8203688853247794
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.46002805049088336,
+        "political_gap": 0.10098176718092544,
+        "emotional_overlap": 0.7559607293127629,
+        "political_overlap": 0.8765778401122014
+      }
+    ],
+    "Health and Social Services": [
+      {
+        "congress": 100,
+        "emotional_gap": 0.013275613275613107,
+        "political_gap": 0.05137085137085151,
+        "emotional_overlap": 0.9376623376623376,
+        "political_overlap": 0.9395894428152494
+      },
+      {
+        "congress": 101,
+        "emotional_gap": 0.38888888888888884,
+        "political_gap": 0.11111111111111072,
+        "emotional_overlap": 0.7376543209876543,
+        "political_overlap": 0.8442970333517598
+      },
+      {
+        "congress": 102,
+        "emotional_gap": 0.21570319240724745,
+        "political_gap": 0.22195858498705778,
+        "emotional_overlap": 0.7989646246764452,
+        "political_overlap": 0.847497842968076
+      },
+      {
+        "congress": 103,
+        "emotional_gap": 0.28536328536328526,
+        "political_gap": 0.5714285714285716,
+        "emotional_overlap": 0.8836433836433836,
+        "political_overlap": 0.7811512811512812
+      },
+      {
+        "congress": 104,
+        "emotional_gap": -0.581818181818182,
+        "political_gap": 0.7137472283813744,
+        "emotional_overlap": 0.6363636363636361,
+        "political_overlap": 0.6725055432372505
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.4513395638629283,
+        "political_gap": 0.5289719626168221,
+        "emotional_overlap": 0.7339563862928349,
+        "political_overlap": 0.7497819314641744
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.5425513987192452,
+        "political_gap": 0.5313447927199193,
+        "emotional_overlap": 0.771149309066397,
+        "political_overlap": 0.7216885743174923
+      },
+      {
+        "congress": 107,
+        "emotional_gap": -0.10862745098039195,
+        "political_gap": 0.3662745098039215,
+        "emotional_overlap": 0.8117647058823529,
+        "political_overlap": 0.8701960784313725
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.44897959183673475,
+        "political_gap": 0.31510204081632676,
+        "emotional_overlap": 0.830204081632653,
+        "political_overlap": 0.7963265306122449
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -0.5849870578084557,
+        "political_gap": 0.518334771354616,
+        "emotional_overlap": 0.79543834640057,
+        "political_overlap": 0.7426660914581537
+      },
+      {
+        "congress": 110,
+        "emotional_gap": -0.3173076923076925,
+        "political_gap": 0.453125,
+        "emotional_overlap": 0.7319711538461539,
+        "political_overlap": 0.8209331651954602
+      },
+      {
+        "congress": 111,
+        "emotional_gap": -0.10345729037317852,
+        "political_gap": 1.0716946604797073,
+        "emotional_overlap": 0.8238023658584407,
+        "political_overlap": 0.5740801254819945
+      },
+      {
+        "congress": 112,
+        "emotional_gap": -0.25155588747821733,
+        "political_gap": 1.1985312422205627,
+        "emotional_overlap": 0.711227284042818,
+        "political_overlap": 0.5954692556634303
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.31759074591144776,
+        "political_gap": 1.2608695652173911,
+        "emotional_overlap": 0.7771838851216595,
+        "political_overlap": 0.5877941763063421
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.634318243426403,
+        "political_gap": 0.7872955633866452,
+        "emotional_overlap": 0.7929245772383026,
+        "political_overlap": 0.6892563477003704
+      },
+      {
+        "congress": 79,
+        "emotional_gap": -0.1875,
+        "political_gap": 0.04166666666666652,
+        "emotional_overlap": 0.84375,
+        "political_overlap": 0.9687499999999992
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.17652329749103934,
+        "political_gap": 0.06720430107526898,
+        "emotional_overlap": 0.9363799283154122,
+        "political_overlap": 0.9005376344086021
+      },
+      {
+        "congress": 81,
+        "emotional_gap": -0.3900000000000001,
+        "political_gap": 0.3099999999999996,
+        "emotional_overlap": 0.62,
+        "political_overlap": 0.6166666666666666
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.4468599033816423,
+        "political_gap": -0.32608695652173925,
+        "emotional_overlap": 0.6884057971014488,
+        "political_overlap": 0.7173913043478256
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.25901328273244806,
+        "political_gap": 0.19259962049335844,
+        "emotional_overlap": 0.9354838709677414,
+        "political_overlap": 0.8901209677419355
+      },
+      {
+        "congress": 84,
+        "emotional_gap": 0.222906403940887,
+        "political_gap": -0.12561576354679804,
+        "emotional_overlap": 0.8534482758620691,
+        "political_overlap": 0.8214285714285715
+      },
+      {
+        "congress": 85,
+        "emotional_gap": 0.2060439560439562,
+        "political_gap": 0.0219780219780219,
+        "emotional_overlap": 0.9458689458689459,
+        "political_overlap": 0.8754578754578748
+      },
+      {
+        "congress": 86,
+        "emotional_gap": 0.15909090909090917,
+        "political_gap": 0.11931818181818166,
+        "emotional_overlap": 0.7784090909090907,
+        "political_overlap": 0.8948863636363631
+      },
+      {
+        "congress": 87,
+        "emotional_gap": 0.2677419354838708,
+        "political_gap": 0.10860215053763422,
+        "emotional_overlap": 0.7526881720430108,
+        "political_overlap": 0.9365591397849456
+      },
+      {
+        "congress": 88,
+        "emotional_gap": -0.09626436781609193,
+        "political_gap": 0.1336206896551726,
+        "emotional_overlap": 0.8390804597701149,
+        "political_overlap": 0.9226190476190472
+      },
+      {
+        "congress": 89,
+        "emotional_gap": 0.24021592442645057,
+        "political_gap": 0.11403508771929793,
+        "emotional_overlap": 0.8616734143049933,
+        "political_overlap": 0.8947368421052628
+      },
+      {
+        "congress": 90,
+        "emotional_gap": -0.02872628726287285,
+        "political_gap": 0.1609756097560977,
+        "emotional_overlap": 0.9084010840108401,
+        "political_overlap": 0.8856368563685636
+      },
+      {
+        "congress": 91,
+        "emotional_gap": 0.37209302325581417,
+        "political_gap": -0.3311627906976744,
+        "emotional_overlap": 0.7189922480620154,
+        "political_overlap": 0.7703488372093019
+      },
+      {
+        "congress": 92,
+        "emotional_gap": 0.11041666666666661,
+        "political_gap": 0.023958333333333304,
+        "emotional_overlap": 0.8520833333333333,
+        "political_overlap": 0.9718749999999998
+      },
+      {
+        "congress": 93,
+        "emotional_gap": 0.08723404255319123,
+        "political_gap": 0.008085106382978768,
+        "emotional_overlap": 0.8714893617021278,
+        "political_overlap": 0.931304347826087
+      },
+      {
+        "congress": 94,
+        "emotional_gap": 0.06328502415458903,
+        "political_gap": 0.21014492753623193,
+        "emotional_overlap": 0.9028985507246376,
+        "political_overlap": 0.8893280632411068
+      },
+      {
+        "congress": 95,
+        "emotional_gap": -0.13108108108108096,
+        "political_gap": 0.4067567567567565,
+        "emotional_overlap": 0.8756756756756756,
+        "political_overlap": 0.8516129032258062
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.16780665754673985,
+        "political_gap": 0.31190150478796186,
+        "emotional_overlap": 0.8741450068399452,
+        "political_overlap": 0.9640088593576968
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.0862968231389285,
+        "political_gap": 0.12612612612612617,
+        "emotional_overlap": 0.7629208155523944,
+        "political_overlap": 0.9184447605500237
+      },
+      {
+        "congress": 98,
+        "emotional_gap": -0.25555555555555554,
+        "political_gap": 0.1777777777777776,
+        "emotional_overlap": 0.8740740740740741,
+        "political_overlap": 0.896296296296296
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.33197278911564654,
+        "political_gap": 0.3587301587301588,
+        "emotional_overlap": 0.7631703844328429,
+        "political_overlap": 0.8591338974614233
+      }
+    ],
+    "Immigration and Border Policy": [
+      {
+        "congress": 101,
+        "emotional_gap": 0.375,
+        "political_gap": 1.0714285714285716,
+        "emotional_overlap": 0.8035714285714286,
+        "political_overlap": 1.0
+      },
+      {
+        "congress": 103,
+        "emotional_gap": 0.2666666666666666,
+        "political_gap": 0.03333333333333366,
+        "emotional_overlap": 0.8666666666666667,
+        "political_overlap": 0.833333333333333
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.25,
+        "political_gap": 0.4166666666666665,
+        "emotional_overlap": 0.833333333333333,
+        "political_overlap": 0.5833333333333334
+      },
+      {
+        "congress": 106,
+        "emotional_gap": 0.7916666666666665,
+        "political_gap": -0.04166666666666652,
+        "emotional_overlap": 0.6666666666666664,
+        "political_overlap": 0.8095238095238093
+      },
+      {
+        "congress": 107,
+        "emotional_gap": -0.7532467532467533,
+        "political_gap": 0.38961038961038996,
+        "emotional_overlap": 0.5079365079365078,
+        "political_overlap": 0.5584415584415585
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -0.4642857142857144,
+        "political_gap": 1.0833333333333335,
+        "emotional_overlap": 0.7556390977443606,
+        "political_overlap": 0.4571428571428572
+      },
+      {
+        "congress": 110,
+        "emotional_gap": -0.0512820512820511,
+        "political_gap": 0.5274725274725274,
+        "emotional_overlap": 0.9670329670329666,
+        "political_overlap": 0.8307692307692307
+      },
+      {
+        "congress": 112,
+        "emotional_gap": 0.09090909090909083,
+        "political_gap": -0.1212121212121211,
+        "emotional_overlap": 0.6,
+        "political_overlap": 0.6666666666666666
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.03384615384615364,
+        "political_gap": 0.1200000000000001,
+        "emotional_overlap": 0.8615384615384616,
+        "political_overlap": 0.7762237762237763
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.033333333333333215,
+        "political_gap": 1.1666666666666665,
+        "emotional_overlap": 0.8428571428571426,
+        "political_overlap": 0.6333333333333333
+      },
+      {
+        "congress": 79,
+        "emotional_gap": -0.13636363636363624,
+        "political_gap": 0.3333333333333335,
+        "emotional_overlap": 0.7,
+        "political_overlap": 0.7666666666666667
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.16666666666666696,
+        "political_gap": 0.22222222222222232,
+        "emotional_overlap": 0.7222222222222219,
+        "political_overlap": 0.7222222222222217
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.4725274725274726,
+        "political_gap": 0.2197802197802199,
+        "emotional_overlap": 0.4505494505494506,
+        "political_overlap": 0.8681318681318675
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.2142857142857144,
+        "political_gap": 0.3333333333333335,
+        "emotional_overlap": 1.0,
+        "political_overlap": 0.6190476190476186
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.33333333333333304,
+        "political_gap": -0.3333333333333335,
+        "emotional_overlap": 0.8666666666666666,
+        "political_overlap": 0.6666666666666663
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.24242424242424265,
+        "political_gap": 0.15151515151515182,
+        "emotional_overlap": 0.7373737373737373,
+        "political_overlap": 0.7555555555555551
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.5,
+        "political_gap": 0.16666666666666652,
+        "emotional_overlap": 0.7916666666666664,
+        "political_overlap": 0.8333333333333335
+      }
+    ],
+    "Infrastructure and Transportation": [
+      {
+        "congress": 100,
+        "emotional_gap": 0.3666666666666667,
+        "political_gap": -0.16190476190476177,
+        "emotional_overlap": 0.8142857142857143,
+        "political_overlap": 0.885714285714285
+      },
+      {
+        "congress": 101,
+        "emotional_gap": 0.12777777777777777,
+        "political_gap": 0.2333333333333334,
+        "emotional_overlap": 0.9166666666666669,
+        "political_overlap": 1.0
+      },
+      {
+        "congress": 102,
+        "emotional_gap": 0.1499999999999999,
+        "political_gap": 0.07500000000000018,
+        "emotional_overlap": 0.7999999999999999,
+        "political_overlap": 0.7384615384615385
+      },
+      {
+        "congress": 103,
+        "emotional_gap": 0.3939393939393936,
+        "political_gap": 0.015151515151515138,
+        "emotional_overlap": 0.5984848484848484,
+        "political_overlap": 0.8484848484848477
+      },
+      {
+        "congress": 104,
+        "emotional_gap": 0.1809523809523812,
+        "political_gap": 0.2666666666666666,
+        "emotional_overlap": 0.8190476190476191,
+        "political_overlap": 0.7380952380952375
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.47368421052631593,
+        "political_gap": -0.13636363636363624,
+        "emotional_overlap": 0.7320574162679424,
+        "political_overlap": 0.8671679197994979
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.9444444444444442,
+        "political_gap": -0.05555555555555536,
+        "emotional_overlap": 0.7777777777777778,
+        "political_overlap": 0.7888888888888881
+      },
+      {
+        "congress": 107,
+        "emotional_gap": -0.5992647058823528,
+        "political_gap": 0.5147058823529411,
+        "emotional_overlap": 0.6617647058823529,
+        "political_overlap": 0.6874999999999999
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.5681818181818183,
+        "political_gap": 0.1742424242424243,
+        "emotional_overlap": 0.7166666666666663,
+        "political_overlap": 0.9166666666666667
+      },
+      {
+        "congress": 109,
+        "emotional_gap": 0.07619047619047636,
+        "political_gap": -0.03809523809523796,
+        "emotional_overlap": 0.8058823529411763,
+        "political_overlap": 0.9619047619047618
+      },
+      {
+        "congress": 110,
+        "emotional_gap": 0.007936507936507908,
+        "political_gap": 0.3174603174603172,
+        "emotional_overlap": 0.634920634920635,
+        "political_overlap": 0.8205128205128205
+      },
+      {
+        "congress": 111,
+        "emotional_gap": 0.17460317460317443,
+        "political_gap": 0.20634920634920606,
+        "emotional_overlap": 0.6190476190476191,
+        "political_overlap": 0.865079365079365
+      },
+      {
+        "congress": 112,
+        "emotional_gap": -0.9607843137254899,
+        "political_gap": 0.7871148459383752,
+        "emotional_overlap": 0.3557422969187675,
+        "political_overlap": 0.484593837535014
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.47515527950310554,
+        "political_gap": 0.49689440993788825,
+        "emotional_overlap": 0.6818181818181819,
+        "political_overlap": 0.5357142857142857
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.8717948717948718,
+        "political_gap": 0.44444444444444464,
+        "emotional_overlap": 0.6509971509971508,
+        "political_overlap": 0.7108262108262102
+      },
+      {
+        "congress": 79,
+        "emotional_gap": -0.026785714285714413,
+        "political_gap": 0.09821428571428559,
+        "emotional_overlap": 0.7857142857142857,
+        "political_overlap": 0.9107142857142848
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.17016806722689104,
+        "political_gap": 0.07142857142857162,
+        "emotional_overlap": 0.9180672268907564,
+        "political_overlap": 0.9285714285714286
+      },
+      {
+        "congress": 81,
+        "emotional_gap": 0.336231884057971,
+        "political_gap": 0.08840579710144958,
+        "emotional_overlap": 0.8260869565217389,
+        "political_overlap": 0.8652173913043469
+      },
+      {
+        "congress": 82,
+        "emotional_gap": -0.16108452950558227,
+        "political_gap": 0.19617224880382755,
+        "emotional_overlap": 0.7783094098883573,
+        "political_overlap": 0.9090909090909091
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.36363636363636376,
+        "political_gap": -0.06060606060606055,
+        "emotional_overlap": 0.8257575757575758,
+        "political_overlap": 0.9621212121212112
+      },
+      {
+        "congress": 84,
+        "emotional_gap": 0.13272311212814625,
+        "political_gap": 0.061784897025171315,
+        "emotional_overlap": 0.8844393592677346,
+        "political_overlap": 0.9801169590643265
+      },
+      {
+        "congress": 85,
+        "emotional_gap": 0.35462184873949587,
+        "political_gap": -0.003361344537815114,
+        "emotional_overlap": 0.9238095238095235,
+        "political_overlap": 0.9966386554621849
+      },
+      {
+        "congress": 86,
+        "emotional_gap": 0.2651851851851852,
+        "political_gap": 0.0370370370370372,
+        "emotional_overlap": 0.8523076923076919,
+        "political_overlap": 0.9584615384615375
+      },
+      {
+        "congress": 87,
+        "emotional_gap": 0.31944444444444464,
+        "political_gap": -0.04166666666666652,
+        "emotional_overlap": 0.7430555555555555,
+        "political_overlap": 0.9166666666666659
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.14619883040935644,
+        "political_gap": 0.052631578947368585,
+        "emotional_overlap": 0.8742690058479532,
+        "political_overlap": 0.953216374269005
+      },
+      {
+        "congress": 89,
+        "emotional_gap": 0.29026701119724363,
+        "political_gap": -0.04134366925064592,
+        "emotional_overlap": 0.7932816537467701,
+        "political_overlap": 0.9310938845822557
+      },
+      {
+        "congress": 90,
+        "emotional_gap": 0.2421052631578946,
+        "political_gap": 0.10526315789473673,
+        "emotional_overlap": 0.8561403508771928,
+        "political_overlap": 0.817543859649122
+      },
+      {
+        "congress": 91,
+        "emotional_gap": 0.31521739130434767,
+        "political_gap": -0.07391304347826066,
+        "emotional_overlap": 0.6347826086956522,
+        "political_overlap": 0.9818181818181809
+      },
+      {
+        "congress": 92,
+        "emotional_gap": -0.00484848484848488,
+        "political_gap": 0.037575757575757596,
+        "emotional_overlap": 0.8254545454545454,
+        "political_overlap": 0.9574193548387097
+      },
+      {
+        "congress": 93,
+        "emotional_gap": 0.5606060606060606,
+        "political_gap": 0.06818181818181834,
+        "emotional_overlap": 0.6439393939393939,
+        "political_overlap": 0.9583333333333333
+      },
+      {
+        "congress": 94,
+        "emotional_gap": 0.611842105263158,
+        "political_gap": -0.021929824561403244,
+        "emotional_overlap": 0.6600877192982455,
+        "political_overlap": 0.7708333333333334
+      },
+      {
+        "congress": 95,
+        "emotional_gap": -0.10403726708074545,
+        "political_gap": 0.11956521739130421,
+        "emotional_overlap": 0.9549689440993789,
+        "political_overlap": 0.8804347826086956
+      },
+      {
+        "congress": 96,
+        "emotional_gap": 0.021367521367521736,
+        "political_gap": 0.20512820512820484,
+        "emotional_overlap": 0.8675213675213675,
+        "political_overlap": 0.9202898550724636
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.564705882352941,
+        "political_gap": 0.3176470588235296,
+        "emotional_overlap": 0.5999999999999999,
+        "political_overlap": 0.8
+      },
+      {
+        "congress": 98,
+        "emotional_gap": 0.17094017094017078,
+        "political_gap": 0.025641025641025994,
+        "emotional_overlap": 0.7905982905982907,
+        "political_overlap": 0.7923076923076924
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.44444444444444464,
+        "political_gap": 0.23737373737373701,
+        "emotional_overlap": 0.712121212121212,
+        "political_overlap": 0.8806818181818182
+      }
+    ],
+    "Justice and Civil Rights": [
+      {
+        "congress": 100,
+        "emotional_gap": 0.14169048591261735,
+        "political_gap": 0.22866476112699052,
+        "emotional_overlap": 0.9365727507826324,
+        "political_overlap": 0.8774964838255976
+      },
+      {
+        "congress": 101,
+        "emotional_gap": 0.19632183908045953,
+        "political_gap": 0.460689655172414,
+        "emotional_overlap": 0.8160919540229886,
+        "political_overlap": 0.809655172413793
+      },
+      {
+        "congress": 102,
+        "emotional_gap": 0.2113526570048312,
+        "political_gap": 0.21321914800175668,
+        "emotional_overlap": 0.8953667105841018,
+        "political_overlap": 0.8870223978919628
+      },
+      {
+        "congress": 103,
+        "emotional_gap": 0.2035595105672967,
+        "political_gap": 0.4167593622543566,
+        "emotional_overlap": 0.9247311827956989,
+        "political_overlap": 0.8561364479050797
+      },
+      {
+        "congress": 104,
+        "emotional_gap": -0.22964796479647953,
+        "political_gap": 0.5247524752475248,
+        "emotional_overlap": 0.9155503785672683,
+        "political_overlap": 0.8085808580858086
+      },
+      {
+        "congress": 105,
+        "emotional_gap": -0.4846846846846846,
+        "political_gap": 0.37783783783783775,
+        "emotional_overlap": 0.7736936936936938,
+        "political_overlap": 0.843063063063063
+      },
+      {
+        "congress": 106,
+        "emotional_gap": -0.3613526570048311,
+        "political_gap": 0.5247987117552335,
+        "emotional_overlap": 0.8240740740740741,
+        "political_overlap": 0.7345410628019323
+      },
+      {
+        "congress": 107,
+        "emotional_gap": -0.08039215686274481,
+        "political_gap": 0.3784313725490196,
+        "emotional_overlap": 0.8705882352941178,
+        "political_overlap": 0.8352941176470587
+      },
+      {
+        "congress": 108,
+        "emotional_gap": -0.41251596424010195,
+        "political_gap": 0.5363984674329503,
+        "emotional_overlap": 0.7769263516389954,
+        "political_overlap": 0.6871008939974457
+      },
+      {
+        "congress": 109,
+        "emotional_gap": -0.4520833333333334,
+        "political_gap": 0.49791666666666634,
+        "emotional_overlap": 0.8716255868544597,
+        "political_overlap": 0.7796474358974358
+      },
+      {
+        "congress": 110,
+        "emotional_gap": 0.1989633173843699,
+        "political_gap": 0.31618819776714524,
+        "emotional_overlap": 0.8959330143540671,
+        "political_overlap": 0.8524283935242838
+      },
+      {
+        "congress": 111,
+        "emotional_gap": 0.23727623727623692,
+        "political_gap": 0.5473850473850472,
+        "emotional_overlap": 0.8746928746928747,
+        "political_overlap": 0.9172557172557173
+      },
+      {
+        "congress": 112,
+        "emotional_gap": -0.2698924731182797,
+        "political_gap": 0.7566308243727597,
+        "emotional_overlap": 0.7537634408602152,
+        "political_overlap": 0.7225806451612903
+      },
+      {
+        "congress": 113,
+        "emotional_gap": -0.11528946066303813,
+        "political_gap": 1.048738248391885,
+        "emotional_overlap": 0.8367144977733796,
+        "political_overlap": 0.7008906481939634
+      },
+      {
+        "congress": 114,
+        "emotional_gap": -0.6791666666666667,
+        "political_gap": 1.2041666666666664,
+        "emotional_overlap": 0.65,
+        "political_overlap": 0.525
+      },
+      {
+        "congress": 79,
+        "emotional_gap": -0.012585812356979087,
+        "political_gap": -0.14340198321891684,
+        "emotional_overlap": 0.9098016781083142,
+        "political_overlap": 0.9050343249427917
+      },
+      {
+        "congress": 80,
+        "emotional_gap": -0.46125000000000016,
+        "political_gap": -0.0758333333333332,
+        "emotional_overlap": 0.71125,
+        "political_overlap": 0.7849999999999998
+      },
+      {
+        "congress": 81,
+        "emotional_gap": -0.02431372549019617,
+        "political_gap": -0.036862745098038996,
+        "emotional_overlap": 0.9607843137254902,
+        "political_overlap": 0.8980392156862742
+      },
+      {
+        "congress": 82,
+        "emotional_gap": 0.08802308802308811,
+        "political_gap": -0.09595959595959602,
+        "emotional_overlap": 0.9292929292929292,
+        "political_overlap": 0.9095796676441839
+      },
+      {
+        "congress": 83,
+        "emotional_gap": -0.038461538461538325,
+        "political_gap": -0.07756197291081035,
+        "emotional_overlap": 0.9661385126501406,
+        "political_overlap": 0.9490161001788906
+      },
+      {
+        "congress": 84,
+        "emotional_gap": 0.09212376933895916,
+        "political_gap": -0.015705578996718206,
+        "emotional_overlap": 0.9149085794655414,
+        "political_overlap": 0.9073322187723906
+      },
+      {
+        "congress": 85,
+        "emotional_gap": -0.03991130820399125,
+        "political_gap": 0.08619733924611994,
+        "emotional_overlap": 0.8700110864745011,
+        "political_overlap": 0.8786031042128601
+      },
+      {
+        "congress": 86,
+        "emotional_gap": 0.0990099009900991,
+        "political_gap": -0.0990099009900991,
+        "emotional_overlap": 0.9108910891089108,
+        "political_overlap": 0.9365717821782178
+      },
+      {
+        "congress": 87,
+        "emotional_gap": 0.16526894158473127,
+        "political_gap": -0.08530942741469039,
+        "emotional_overlap": 0.9107865818392136,
+        "political_overlap": 0.9388179388179387
+      },
+      {
+        "congress": 88,
+        "emotional_gap": 0.1747240197944424,
+        "political_gap": -0.1926151503616289,
+        "emotional_overlap": 0.8995051389417587,
+        "political_overlap": 0.8998858012942519
+      },
+      {
+        "congress": 89,
+        "emotional_gap": -0.07049026507154599,
+        "political_gap": 0.17088904527328141,
+        "emotional_overlap": 0.9051137696457893,
+        "political_overlap": 0.8944405348346234
+      },
+      {
+        "congress": 90,
+        "emotional_gap": 0.04836734693877531,
+        "political_gap": 0.29897959183673484,
+        "emotional_overlap": 0.9679591836734693,
+        "political_overlap": 0.8842105263157894
+      },
+      {
+        "congress": 91,
+        "emotional_gap": -0.17091049382716017,
+        "political_gap": -0.0497685185185186,
+        "emotional_overlap": 0.8016975308641975,
+        "political_overlap": 0.8942901234567899
+      },
+      {
+        "congress": 92,
+        "emotional_gap": -0.11538461538461542,
+        "political_gap": 0.38649155722326434,
+        "emotional_overlap": 0.8564727954971858,
+        "political_overlap": 0.8299186991869919
+      },
+      {
+        "congress": 93,
+        "emotional_gap": -0.02916666666666634,
+        "political_gap": 0.1516666666666664,
+        "emotional_overlap": 0.8733333333333333,
+        "political_overlap": 0.9298245614035088
+      },
+      {
+        "congress": 94,
+        "emotional_gap": -0.006851192107427018,
+        "political_gap": 0.3151548369416277,
+        "emotional_overlap": 0.7741847081392164,
+        "political_overlap": 0.779379157427938
+      },
+      {
+        "congress": 95,
+        "emotional_gap": 0.01008064516129048,
+        "political_gap": -0.03461021505376349,
+        "emotional_overlap": 0.907258064516129,
+        "political_overlap": 0.9391801075268815
+      },
+      {
+        "congress": 96,
+        "emotional_gap": -0.04126984126984112,
+        "political_gap": 0.16190476190476222,
+        "emotional_overlap": 0.8476190476190477,
+        "political_overlap": 0.9142857142857141
+      },
+      {
+        "congress": 97,
+        "emotional_gap": -0.3896713615023475,
+        "political_gap": 0.29128393549704024,
+        "emotional_overlap": 0.7982601491300746,
+        "political_overlap": 0.7956725862420901
+      },
+      {
+        "congress": 98,
+        "emotional_gap": -0.12202898550724672,
+        "political_gap": 0.23971014492753628,
+        "emotional_overlap": 0.863768115942029,
+        "political_overlap": 0.8895652173913041
+      },
+      {
+        "congress": 99,
+        "emotional_gap": -0.26841373833631144,
+        "political_gap": 0.43934881874131415,
+        "emotional_overlap": 0.7990867579908676,
+        "political_overlap": 0.8366542133665422
+      }
+    ]
+  }
+}
