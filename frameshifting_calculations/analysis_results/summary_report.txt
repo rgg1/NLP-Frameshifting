@@ -10,55 +10,55 @@ Overall Trends:
 --------------
 
 Democratic Party:
-- Emotional Intensity Change: 0.96
-- Political Position Change: -0.56
+- Emotional Intensity Change: 0.97
+- Political Position Change: -0.67
 
 Republican Party:
-- Emotional Intensity Change: 0.13
-- Political Position Change: 0.05
+- Emotional Intensity Change: 0.21
+- Political Position Change: -0.02
 
 Polarization Analysis:
 ---------------------
 - Initial Emotional Gap: 0.28
-- Final Emotional Gap: -0.28
-- Initial Political Gap: 0.10
-- Final Political Gap: 0.19
+- Final Emotional Gap: -0.20
+- Initial Political Gap: 0.17
+- Final Political Gap: 0.13
 
 Issue-Specific Findings:
 ----------------------
 
 Budget and Fiscal Responsibility:
-- Polarization Change: -0.23
-- Emotional Intensity Change: -0.26
+- Polarization Change: 0.04
+- Emotional Intensity Change: -0.21
 
 Defense and Security:
-- Polarization Change: 0.25
-- Emotional Intensity Change: -0.69
+- Polarization Change: -0.06
+- Emotional Intensity Change: -0.32
 
 Economy and Jobs:
-- Polarization Change: 0.28
-- Emotional Intensity Change: -0.33
+- Polarization Change: 0.07
+- Emotional Intensity Change: -0.30
 
 Education and Innovation:
-- Polarization Change: -0.08
-- Emotional Intensity Change: -0.33
+- Polarization Change: 0.24
+- Emotional Intensity Change: -0.77
 
 Environment and Energy:
-- Polarization Change: 0.08
-- Emotional Intensity Change: -1.13
+- Polarization Change: 0.15
+- Emotional Intensity Change: -0.58
 
 Health and Social Services:
-- Polarization Change: 0.31
-- Emotional Intensity Change: -0.35
+- Polarization Change: -0.19
+- Emotional Intensity Change: -0.17
 
 Immigration and Border Policy:
-- Polarization Change: -0.90
-- Emotional Intensity Change: -0.88
+- Polarization Change: 0.85
+- Emotional Intensity Change: -0.39
 
 Infrastructure and Transportation:
-- Polarization Change: 0.40
-- Emotional Intensity Change: -0.81
+- Polarization Change: -0.10
+- Emotional Intensity Change: -0.71
 
 Justice and Civil Rights:
-- Polarization Change: 0.21
-- Emotional Intensity Change: -0.41
+- Polarization Change: -0.34
+- Emotional Intensity Change: -0.26

@@ -40,6 +40,9 @@ def trim_file(input_file: str, keep_fraction: float = 0.6) -> None:
     Args:
         input_file: Path to the speech or description file
         keep_fraction: Fraction of entries to keep (default 0.6 for 3/5)
+
+    Returns:
+        None
     """
     # Check if file exists
     if not os.path.exists(input_file):
@@ -104,7 +107,9 @@ def trim_file(input_file: str, keep_fraction: float = 0.6) -> None:
         print(f"Error processing {input_file}: {str(e)}")
 
 def main():
-    """Process all speech and description files."""
+    """
+    Process all speech and description files.
+    """
     print("Starting data shortening process...")
     
     # Get current directory (where the script is located)
